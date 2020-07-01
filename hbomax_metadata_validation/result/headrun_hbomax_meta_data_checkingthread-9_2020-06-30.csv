@@ -1,0 +1,160 @@
+HBOMAX_id,Projectx_id,show_type,is_group_language_primary,record_language,HBOMAX_title,Px_title,Px_episode_title,title_match,description_match,genres_match,aliases_match,release_year_match,duration_match,season_number_match,episode_number_match,px_video_link_present,HBOMAX_link_present,image_url_missing,Wrong_url,credit_match,credit_mismatch
+urn:hbo:feature:GXs2KFwHuvb6jiAEAAAHP,15727177,MO,True,EN,Cornfield Shipwreck,Cornfield Shipwreck,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:feature:GXsaxgwfBYr6_CQEAAAE9,15727168,MO,True,EN,Going Nuts: Tales from Squirrel World,Going Nuts: Tales from Squirrel World,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:feature:GXvD7Bwyc9sJZjgEAAAAD,15735830,MO,True,EN,Gone with the Wind: A Complicated Legacy,Gone with the Wind: A Complicated Legacy,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:franchise:GWEH85gapN5NBtgEAAADG,15735286,SM,True,EN,Last Week Tonight with John Oliver,Last Week Tonight with John Oliver,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GV442egnRLgrDwgEAAAAr,15735121,SM,True,EN,Chumel con Chumel Torres,Chumel con Chumel Torres,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GV6szpA6I-7KCwgEAAAAL,15735213,SM,True,EN,High Maintenance,High Maintenance,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GVU2_3QlhmYNJjhsJAWUZ,15734607,SM,True,EN,The Jinx: The Life and Deaths of Robert Durst,The Jinx: The Life and Deaths of Robert Durst,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GVU2bpwOunINJjhsJATsb,15734679,SM,True,EN,Band of Brothers,Band of Brothers,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GVU2n5QnkVY7DwvwIAU2p,15734118,SM,True,EN,Life's Too Short,Life's Too Short,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GVU2u0ARhWFFvjSoJAVJq,15734152,SM,True,EN,Angels in America,Angels in America,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GW1XvdwD4PJFDwgEAAAMC,15733416,SM,True,EN,Miss Sherlock,Miss Sherlock,,True,False,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GWzqJ7g5MTMPCDwEAAAAH,15733966,SM,True,EN,Random Acts of Flyness,Random Acts of Flyness,,True,False,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXbi0GgxGVaOqkAEAAAc3,15732355,SM,True,EN,Hack My Life,Hack My Life,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXbn7pgURY7avMAEAAAiG,15732419,SM,True,EN,The Weight of the Nation,The Weight of the Nation,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXbNBGQfD14NiYAEAAAoJ,15733333,SM,True,EN,Being Serena,Being Serena,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXbNISgPteoNiYAEAAAo3,15733344,SM,True,EN,Tenacious D,Tenacious D,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXbreXwHoM3epwwEAACAQ,15732465,SM,True,EN,Autopsy,Autopsy,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GVU2qSwqPi4NJjhsJAU0O,15734124,SM,True,EN,Russell Simmons Presents Brave New Voices,Russell Simmons Presents Brave New Voices,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GVU2xlQZIxY7DwvwIAVgK,15734209,SM,True,EN,True Detective,True Detective,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GVU2yqAs9uY7DwvwIAVk5,15734230,SM,True,EN,Tell Me You Love Me,Tell Me You Love Me,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GVWeoCgvsaV-0twgJAAAJ,15734231,SM,True,EN,Funny or Die Presents,Funny or Die Presents,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GVWieTgf6Vl-0twgJAAFW,15734265,SM,True,EN,Luck,Luck,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GVYiVDQLeXodnUyEJAABq,15734264,SM,True,EN,Show Me a Hero,Show Me a Hero,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GVzn8KwEon8N1swEAAAAO,15733406,SM,True,EN,The Night Of,The Night Of,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GWR822wr17aLCwgEAAAAc,15733618,SM,True,EN,The Defiant Ones,The Defiant Ones,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GWrpNUQ8IrsLCwwEAAAAC,15733828,SM,True,EN,Wyatt Cenac's Problem Areas,Wyatt Cenac's Problem Areas,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GWT7L-QiJlsPDwgEAAAAQ,15733672,SM,True,EN,El Jardin de Bronce (The Bronze Garden),El Jardin de Bronce (The Bronze Garden),,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXa5NxQI8g5GYoAEAAAAm,15733221,SM,True,EN,Samurai Jack,Samurai Jack,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXbDskgCPD3epwwEAAAPe,15733299,SM,True,EN,Tacoma FD,Tacoma FD,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXd7MNAGtuZuAuwEAADul,15733038,SM,True,EN,First Dates (Eire),First Dates (Eire),,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXdc62gIfHKXCPQEAADW0,15728382,SM,True,EN,Beyond the Naughty Step,Beyond the Naughty Step,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXea5YAyLKUytlAEAAABj,15728501,SM,True,EN,The Bachelor (UK),The Bachelor (UK),,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXeWkcQfN3puAuwEAADxc,15728454,SM,True,EN,The Bachelorette (Canada),The Bachelorette (Canada),,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXKIi_wJVwpaZlwEAAAAm,15733068,SM,True,EN,Blinded by the Lights,Blinded by the Lights,,True,False,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXkNXsArG_o7CZgEAABfH,15728839,SM,True,EN,Infinity Train,Infinity Train,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXkNYoQqHfY-njwEAABaA,15728849,SM,True,EN,The Powerpuff Girls,The Powerpuff Girls,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXl20QAK1sTC3wwEAAB4I,15728895,SM,True,EN,Regular Show,Regular Show,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXmleSAxs_p4_wwEAADE5,15729033,SM,True,EN,Mad TV,Mad TV,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXmmNFAzEJyLCHAEAACDB,15729072,SM,True,EN,Ben 10,Ben 10,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXn0p4gCmPYBKRwEAAAG8,15729178,SM,True,EN,The Flintstones,The Flintstones,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GVnBx2gNuosJak7gIAAFb,15734363,SM,True,EN,Crashbox,Crashbox,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GVU2cJww-hI7DwvwIAT5u,15734784,SM,True,EN,In Treatment,In Treatment,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GVU2ctwpQioNJjhsJATx0,15734831,SM,True,EN,Hijos del Carnaval (Sons of the Carnival),Hijos del Carnaval (Sons of the Carnival),,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GVU2d_A0NVFFvjSoJAT65,15734874,SM,True,EN,Girls,Girls,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GVU2dPQ1mH47DwvwIAT-6,15734844,SM,True,EN,Epitafios (Epitaphs),Epitafios (Epitaphs),,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GVU2ffg0OXVFvjSoJAUBn,15734930,SM,True,EN,Five Days,Five Days,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GVU2gAAVqjoNJjhsJAUAm,15735088,SM,True,EN,Profugos,Profugos,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GW2INKAjNC8NOkQEAAARK,15733427,SM,True,EN,Esme & Roy,Esme & Roy,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GW7-KDQxAO7qukAEAAAEI,15733463,SM,True,EN,Sally4Ever,Sally4Ever,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GWdQOggBM26qkwwEAAAAT,15733693,SM,True,EN,La Vida Secreta de las Parejas (The Secret Life of Couples),La Vida Secreta de las Parejas (The Secret Life of Couples),,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GWEWBwwtU5KzCwgEAAAAn,15733546,SM,True,EN,The Young Pope,The Young Pope,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GWh2xKghJI8PDwwEAAAAC,15733752,SM,True,EN,Halfworlds,Halfworlds,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GWhWrJws0OZC_pgEAAABR,15733760,SM,True,EN,Mosaic,Mosaic,,True,False,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GWi8ECw2FUo6VPAEAAAFY,15733813,SM,True,EN,2 Dope Queens,2 Dope Queens,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GWiGW8wLVo66BwgEAAAAt,15733818,SM,True,EN,Gunpowder,Gunpowder,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXajjjg560MMcQQEAAAxU,15733250,SM,True,EN,Clarence,Clarence,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXajjjwAqKqCkmwEAAApG,15733249,SM,True,EN,At Home with Amy Sedaris,At Home with Amy Sedaris,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXaUfiAsLdZ3DGQEAAACj,15733240,SM,True,EN,Ben 10,Ben 10,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXbCIvwTBr3epwwEAAAJj,15733278,SM,True,EN,Aqua Teen Hunger Force,Aqua Teen Hunger Force,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:feature:GXtUxcwrHZMJHjQEAAANg,15727172,MO,True,EN,Vitamania,Vitamania,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXc2aIw5CyqXCPQEAAAjl,15732500,SM,True,EN,Impractical Jokers: Inside Jokes,Impractical Jokers: Inside Jokes,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXc72Xwmf65uAuwEAAAuc,15732546,SM,True,EN,The Wonder List,The Wonder List,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXd7Ogwd7FcPCwwEAADvS,15733048,SM,True,EN,First Dates (Australia),First Dates (Australia),,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXdcb1QGrE5uAuwEAACy0,15728391,SM,True,EN,Dream Home Rescue,Dream Home Rescue,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXdceOAKcWMPCwwEAACt_,15728413,SM,True,EN,Bachelor Pad,Bachelor Pad,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXdcgigtFtMPCwwEAACvA,15728414,SM,True,EN,Bachelor in Paradise,Bachelor in Paradise,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXdcidgRlxMPCwwEAACv9,15728426,SM,True,EN,Ellen's Game of Games,Ellen's Game of Games,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXdRsewUPO5uAuwEAABEI,15733058,SM,True,EN,The Big Bang Theory,The Big Bang Theory,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXdXnowe2gZuAuwEAACD7,15733061,SM,True,EN,The Bachelor,The Bachelor,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXea6PgMrhsPCwwEAAD38,15728522,SM,True,EN,The Bachelor (Canada),The Bachelor (Canada),,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXGWMpwEZF62uAwEAAAAM,15733981,SM,True,EN,The Case Against Adnan Syed,The Case Against Adnan Syed,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXI-WvQqTfKuWIwEAAAAC,15733986,SM,True,EN,Gentleman Jack,Gentleman Jack,,True,False,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXioU8Qz9EICnrwEAAAAY,15728793,SM,True,EN,The Plot Against America,The Plot Against America,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXji44gbd1I7CZgEAAAjR,15728800,SM,True,EN,We Bare Bears,We Bare Bears,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXjjJwAvjfY7CZgEAAAnC,15728809,SM,True,EN,Uncle Grandpa,Uncle Grandpa,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXnTIzgtEpZI9wwEAAARZ,15729340,SM,True,EN,I Know This Much Is True,I Know This Much Is True,,True,False,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXnUIkwqnZoCgwwEAAAUs,15729446,SM,True,EN,Home Movies,Home Movies,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXnvh5wHKZBtjhQEAAARV,15730434,SM,True,EN,The Marvelous Misadventures of Flapjack,The Marvelous Misadventures of Flapjack,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXnzVfgFjtICgwwEAAA7L,15730643,SM,True,EN,Dexter's Laboratory,Dexter's Laboratory,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXoI6ZgRkcoBKRwEAAAQj,15731005,SM,True,EN,Top Gear,Top Gear,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXoJdQwkOib8ungEAAAUj,15731048,SM,True,EN,Peanuts,Peanuts,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXoKMFg6Kg4BKRwEAAAZa,15731145,SM,True,EN,Josie and the Pussycats,Josie and the Pussycats,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXoToxQL_t5CtwwEAAADF,15731185,SM,True,EN,Popeye,Popeye,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXouIQgMy4rDCYwEAAAfr,15731559,SM,True,EN,Yogi Bear,Yogi Bear,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXouLWwp8MsPDIgEAAAqT,15731619,SM,True,EN,Sesame Street,Sesame Street,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXoyeNA7-2rLCwgEAAAyA,15731720,SM,True,EN,Luther,Luther,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXozhGwOz77DCYwEAABBA,15731743,SM,True,EN,Looney Tunes,Looney Tunes,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXoZVkwh6YrLCwgEAAACJ,15731345,SM,True,EN,Tom and Jerry,Tom and Jerry,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXNRHzQ2l5p63mgEAAAJ1,15733079,SM,True,EN,From the Earth to the Moon,From the Earth to the Moon,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXnt7fw7qNVSpjQEAAAJx,15730324,SM,True,EN,Betty,Betty,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXp4hswSrAKC7uAEAAANN,15732110,SM,True,EN,Breakthrough,Breakthrough,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXp4jGw3ju6Q8iwEAAALE,15732151,SM,True,EN,Deep Ocean,Deep Ocean,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXp4JywRy7qQ8iwEAAAGu,15731915,SM,True,EN,91 Days,91 Days,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXp4MnArF7aC7uAEAAAKv,15731997,SM,True,EN,Bungo Stray Dogs,Bungo Stray Dogs,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXp4RTg4gg6Q8iwEAAAJp,15732018,SM,True,EN,Re:ZERO -Starting Life in Another World-,Re:ZERO -Starting Life in Another World-,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXpCuVQjpScLDwwEAAAIp,15727251,SM,True,EN,Gavin & Stacey,Gavin & Stacey,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXpdVrArJeLEswgEAAAOz,15727261,SM,True,EN,Scott & Bailey,Scott & Bailey,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXpdXjA3bx6CYMQEAAAR6,15727264,SM,True,EN,The Fades,The Fades,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXqdBgAwowb2_wwEAAAqu,15728064,SM,True,EN,Keep Your Hands Off Eizouken!,Keep Your Hands Off Eizouken!,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXqSOOAZ5VhqYwgEAAAYK,15727540,SM,True,EN,The Stacey Dooley Investigates Collection,The Stacey Dooley Investigates Collection,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXrmNswv-I8MZwwEAAALS,15728206,SM,True,EN,The Story of Europe with Historian Dr. Christopher Clark,The Story of Europe with Historian Dr. Christopher Clark,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXs2KHAy7EsNMvwEAAAHq,15728241,SM,True,EN,"The Celts: Blood, Iron & Sacrifice","The Celts: Blood, Iron & Sacrifice",,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXs2lRghMM8NMvwEAAAJR,15728251,SM,True,EN,Science vs. Terrorism,Science vs. Terrorism,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXs2lyAY8MsNMvwEAAAJd,15728256,SM,True,EN,Secret Life Underground,Secret Life Underground,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXs2oFwvwscNMvwEAAAJo,15728262,SM,True,EN,Space Probes!,Space Probes!,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXs2pgAD4Q76jiAEAAAJP,15728270,SM,True,EN,Viking Women,Viking Women,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXs6fLgTgnr6jiAEAAAKm,15728275,SM,True,EN,King: A Filmed Record...Montgomery to Memphis,King: A Filmed Record...Montgomery to Memphis,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXsaxgwk3e8JSwgEAAADz,15728284,SM,True,EN,Realm of the Volga,Realm of the Volga,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXsaxgwoDL76_CQEAAAE_,15728290,SM,True,EN,Expedition: Black Sea Wrecks,Expedition: Black Sea Wrecks,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXsaxsA0adsJSwgEAAAD4,15728304,SM,True,EN,Sacred Spaces,Sacred Spaces,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXsaxtgUdtb7DwwEAAAAO,15728311,SM,True,EN,Secrets of the Solar System,Secrets of the Solar System,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXYUhuQ6aq6nCVgEAAAlR,15733213,SM,True,EN,His Dark Materials,His Dark Materials,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXbdACQ6ThpGYoAEAAAxE,15733391,SM,True,EN,The Alzheimer's Project,The Alzheimer's Project,,True,False,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXbdFGgoVoZGYoAEAAA1R,15732269,SM,True,EN,Witness,Witness,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXcnZJAT1q6XCPQEAAALH,15732666,SM,True,EN,Metalocalypse,Metalocalypse,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXcoLFgq8FpuAuwEAAAOi,15732720,SM,True,EN,United Shades of America,United Shades of America,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXctMPAkMMcPCwwEAAAKf,15732775,SM,True,EN,Anthony Bourdain: Parts Unknown,Anthony Bourdain: Parts Unknown,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXd2-sQCRRsPCwwEAADce,15732887,SM,True,EN,The Scooby-Doo Show,The Scooby-Doo Show,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXd7G_wayJcPCwwEAADtg,15732934,SM,True,EN,The Bachelorette (Australia),The Bachelorette (Australia),,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXd7H8AAO0JuAuwEAADti,15732948,SM,True,EN,The Bachelor (Australia),The Bachelor (Australia),,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXd7KSQXBsLPDfgEAAAT8,15732984,SM,True,EN,Food C.I.A. (UK),Food C.I.A. (UK),,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXd7MKgZRS5uAuwEAADue,15733026,SM,True,EN,First Dates (New Zealand),First Dates (New Zealand),,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXea5dAzMdLPDfgEAAAcE,15728513,SM,True,EN,The Bachelor (New Zealand),The Bachelor (New Zealand),,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXea7ugwtZ0ytlAEAAAC4,15728587,SM,True,EN,First Dates Hotel (UK),First Dates Hotel (UK),,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXea8egp4HcPCwwEAAD45,15728593,SM,True,EN,First Dates (UK),First Dates (UK),,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXea8yw2uhsPCwwEAAD6V,15728638,SM,True,EN,Bachelor in Paradise (Australia),Bachelor in Paradise (Australia),,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXemaOQZBAbPDfgEAAA-L,15728680,SM,True,EN,The New Pope,The New Pope,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXeW38gFW4cPCwwEAADzs,15728434,SM,True,EN,Supernanny (UK),Supernanny (UK),,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXl2YzQCV8J4_wwEAABwH,15728910,SM,True,EN,We're Here,We're Here,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXmAuwAxxXp4_wwEAACh0,15728961,SM,True,EN,Adventure Time,Adventure Time,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXmleewjcUCLCHAEAACBs,15729054,SM,True,EN,Whose Line Is It Anyway?,Whose Line Is It Anyway?,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXp8qHgnBPqQ8iwEAAAN5,15727238,SM,True,EN,Rurouni Kenshin,Rurouni Kenshin,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXp8xjAXsQLq4SAEAAASp,15727241,SM,True,EN,Jack Hanna's Wild Countdown,Jack Hanna's Wild Countdown,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXqeTcAxHtBqYwgEAAApf,15728142,SM,True,EN,Alaska Extreme,Alaska Extreme,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXqHd7gPwP76AGgEAAAAI,15727354,SM,True,EN,"Asia - Secret Lives, Hidden Places","Asia - Secret Lives, Hidden Places",,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXqSF_QZxm8LDwgEAAAVl,15727471,SM,True,EN,KONOSUBA -God's blessing on this wonderful world!,KONOSUBA -God's blessing on this wonderful world!,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXqSGFAjcHb2_wwEAAATk,15727478,SM,True,EN,The Louis Theroux Collection,The Louis Theroux Collection,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXqSOFgzr5xqYwgEAAAWO,15727516,SM,True,EN,The Sarah Jane Adventures,The Sarah Jane Adventures,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXqSONgrZD72_wwEAAAaE,15727530,SM,True,EN,The Thick of It,The Thick of It,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXqSOUgR0zBqYwgEAAAaf,15727616,SM,True,EN,Whitechapel,Whitechapel,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXqsZcgjYAoC9JwEAAAGu,15728157,SM,True,EN,The Joy of...,The Joy of...,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXp7fVAH0VLq4SAEAAAQp,15727237,SM,True,EN,Hard,Hard,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXpiITwscZ7AdWQEAAAcC,15727280,SM,True,EN,KIZNAIVER,KIZNAIVER,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXpncJAl458MDYQEAAABm,15727311,SM,True,EN,In/Spectre,In/Spectre,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXpndCgquk3-SmgEAAAAf,15727310,SM,True,EN,Schwarzes Marken,Schwarzes Marken,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXqc_ng8BD8LDwgEAAAsl,15727700,SM,True,EN,Storm Chaser's Guide,Storm Chaser's Guide,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXqchIQ44DRqYwgEAAAkt,15727707,SM,True,EN,Amazing Dinoworld,Amazing Dinoworld,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXqchmQx8sb2_wwEAAAnp,15727752,SM,True,EN,American Icons,American Icons,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXqcnQQG9RBqYwgEAAAlY,15727945,SM,True,EN,Dynamic Genomes,Dynamic Genomes,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXqdAlQVedxqYwgEAAAnN,15728048,SM,True,EN,Underwater Wonders Of The National Parks,Underwater Wonders Of The National Parks,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXQePCAvcOzomqwEAAAAC,15733090,SM,True,EN,Mrs. Fletcher,Mrs. Fletcher,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXqR2lwTHZxqYwgEAAAJ4,15727460,SM,True,EN,DCI Banks,DCI Banks,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXqSF_Qgzmr2_wwEAAATC,15727479,SM,True,EN,Inside No. 9,Inside No. 9,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXrmH9AvV0sMZwwEAAALC,15728194,SM,True,EN,Dream The Future,Dream The Future,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXrmPngDV1cMZwwEAAALl,15728212,SM,True,EN,Expedition Europe,Expedition Europe,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXRuApwrBe729bAEAAAG9,15733096,SM,True,EN,Our Boys,Our Boys,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXrmMrwS1cZkiiwEAAANA,15728195,SM,True,EN,How To Build,How To Build,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXs_00g3oucMeAQEAAAAJ,15728280,SM,True,EN,4th & Forever: Muck City,4th & Forever: Muck City,,True,True,Null,Null,False,True,,,False,True,,[],True,[],True
+urn:hbo:series:GXrviQwZWPpGXWQEAAACJ,15728226,SM,True,EN,The Sleepers,The Sleepers,,True,False,Null,Null,False,True,,,False,True,,[],True,[],True

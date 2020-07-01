@@ -1,0 +1,742 @@
+HBOMAX_id,Projectx_id,show_type,is_group_language_primary,record_language,HBOMAX_title,Px_title,Px_episode_title,title_match,description_match,genres_match,aliases_match,release_year_match,duration_match,season_number_match,episode_number_match,px_video_link_present,HBOMAX_link_present,image_url_missing,Wrong_url,credit_match,credit_mismatch
+urn:hbo:episode:GV2B3ugJimq65JQEAAACS,15736146,SE,True,EN,The Good Sport,Sesame Street,The Good Sport,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV2B3ugtu1q65JQEAAACT,15736147,SE,True,EN,School for Chickens,Sesame Street,School for Chickens,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV2B3uQ7EL5HCZQEAAAB6,15736145,SE,True,EN,Don't Get Pushy,Sesame Street,Don't Get Pushy,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV2B3vwTCpqqSRQEAAACK,15736148,SE,True,EN,Sesame Oceans,Sesame Street,Sesame Oceans,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV2B5SgbW0K65JQEAAACi,15733413,SE,True,EN,Samson and Delilah,The Night Of,Samson and Delilah,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV2B5SgcNNZHCZQEAAACC,15733423,SE,True,EN,Ordinary Death,The Night Of,Ordinary Death,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV2B5TASVI665JQEAAACj,15733432,SE,True,EN,The Call of the Wild,The Night Of,The Call of the Wild,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV2B5TgPU8pHCZQEAAACD,15733443,SE,True,EN,The Season of the Witch,The Night Of,The Season of the Witch,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV__1YAFn25mUmQEAAAAn,15734791,SE,True,EN,The Bicameral Mind,Westworld,The Bicameral Mind,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV__wfA7_qJmUmQEAAAAj,15735415,SE,True,EN,Another Party,Divorce,Another Party,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV__wqADc4cLDwgEAAAAg,15734662,SE,True,EN,Episode 6,Tracey Ullman's Show,Episode 6,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV__xAA0BfMLDwgEAAAAj,15735401,SE,True,EN,Detente,Divorce,Detente,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV_PbGw8kC7-vwwEAAAAO,15734755,SE,True,EN,Trace Decay,Westworld,Trace Decay,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV_PbHAHUoBmftAEAAAAK,15734765,SE,True,EN,The Adversary,Westworld,The Adversary,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV_PbNQtBPY-BwwEAAAAN,15734774,SE,True,EN,Trompe L'Oeil,Westworld,Trompe L'Oeil,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV_PbYgi2m6rCwwEAAAAL,15734782,SE,True,EN,The Well-Tempered Clavier,Westworld,The Well-Tempered Clavier,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV-54_wnG7qbCwwEAAAAY,15736061,SE,True,EN,VICE Special Report: Killing Cancer,VICE,VICE Special Report: Killing Cancer,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV-55HghKlqbCwwEAAAAb,15736063,SE,True,EN,VICE Special Report: Countdown to Zero,VICE,VICE Special Report: Countdown to Zero,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV-55Hwvj4IaDwwEAAAAY,15736065,SE,True,EN,VICE Special Report: Fixing the System,VICE,VICE Special Report: Fixing the System,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV-55JASHjruwgwEAAAAU,15736067,SE,True,EN,VICE Special Report: Fighting ISIS,VICE,VICE Special Report: Fighting ISIS,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV-GVzApZVIGgrgEAAABJ,15736144,SE,True,EN,Halloween,Sesame Street,Halloween,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV-Q_xgoAtSvDZAEAAABc,15735509,SE,True,EN,Church,Divorce,Church,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV-Q_xQULg0m5oAEAAABk,15735493,SE,True,EN,Christmas,Divorce,Christmas,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV-Q_xQvOeyvDZAEAAABb,15735501,SE,True,EN,Gustav,Divorce,Gustav,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV-Q_zwJd-yvDZAEAAABf,15735518,SE,True,EN,Weekend Plans,Divorce,Weekend Plans,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV-RBTg0dNL-cFQEAAAA9,15734689,SE,True,EN,Episode 2,Tracey Ullman's Show,Episode 2,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV-RBWQnfR0m5oAEAAABs,15734703,SE,True,EN,Episode 5,Tracey Ullman's Show,Episode 5,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV-RBWQxsoL-cFQEAAABC,15734712,SE,True,EN,Episode 4,Tracey Ullman's Show,Episode 4,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV-RBYgrTBivDZAEAAABp,15734721,SE,True,EN,Episode 3,Tracey Ullman's Show,Episode 3,True,False,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV6uOwwB6YSeYwgEAAABO,15735905,SE,True,EN,Meth(od),High Maintenance,Meth(od),True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV-vx9A3xW0-JMwEAAAAr,15734816,SE,True,EN,Contrapasso,Westworld,Contrapasso,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV-vxfwVDN6OCwwEAAAAa,15734824,SE,True,EN,Dissonance Theory,Westworld,Dissonance Theory,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV-xBGwwXE4y3qQEAAAAC,15734834,SE,True,EN,The Stray,Westworld,The Stray,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm91zQznL8Jak7gIAABc,15736138,SE,True,EN,There's an App for That,Sesame Street,There's an App for That,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm92BAZnT6uHh8MIAACF,15734731,SE,True,EN,Skills,The Electric Company,Skills,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm92fQdDmcJak7gIAAB_,15736050,SE,True,EN,Ironing Monster,Sesame Street,Ironing Monster,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm92hw5bHaJeisAIAACG,15736052,SE,True,EN,What's That Noise?,Sesame Street,What's That Noise?,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm93dw4aLKuHh8MIAACP,15734747,SE,True,EN,Fromage Here to Eternity,The Electric Company,Fromage Here to Eternity,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm93eQu9-qJeisAIAACM,15734756,SE,True,EN,Madame President,The Electric Company,Madame President,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm93ew1cvMJak7gIAACL,15734766,SE,True,EN,Franscent,The Electric Company,Franscent,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm93ewn4qcJak7gIAACJ,15734773,SE,True,EN,Limerick-Off,The Electric Company,Limerick-Off,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm93fAGlbsJak7gIAACO,15734781,SE,True,EN,Pop Goes the Easel,The Electric Company,Pop Goes the Easel,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm93fAh8dqJeisAIAACS,15734798,SE,True,EN,Electric Accompany,The Electric Company,Electric Accompany,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm93fQBZi6JeisAIAACX,15734813,SE,True,EN,Friends or Aunts,The Electric Company,Friends or Aunts,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm93lAdsG6uHh8MIAACl,15734839,SE,True,EN,Scrambled Brains,The Electric Company,Scrambled Brains,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm93lAql_KJeisAIAACZ,15734848,SE,True,EN,Abracadabra Cadabra Ca-Green!,The Electric Company,Abracadabra Cadabra Ca-Green!,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm93lQJ6EcJak7gIAACp,15734858,SE,True,EN,The Orangachoke,The Electric Company,The Orangachoke,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm93lQjDvauHh8MIAACv,15734373,SE,True,EN,War of the Words,The Electric Company,War of the Words,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm93lQUrpKJeisAIAACg,15734365,SE,True,EN,Game On,The Electric Company,Game On,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm91-AZLz6uHh8MIAABz,15734669,SE,True,EN,The Skeleckian Hiccups,The Electric Company,The Skeleckian Hiccups,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm91-g78UMJak7gIAAB0,15734693,SE,True,EN,Trouble Afoot,The Electric Company,Trouble Afoot,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm91-gDos6JeisAIAABt,15734698,SE,True,EN,"He Ain't Heavy, He's Just Frozen",The Electric Company,"He Ain't Heavy, He's Just Frozen",True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm91-gfi86JeisAIAABy,15734715,SE,True,EN,Call me Tiki,The Electric Company,Call me Tiki,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm91-gS9DcJak7gIAABx,15734708,SE,True,EN,"Lights, Camera, Beetles",The Electric Company,"Lights, Camera, Beetles",True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm91-gtHL6JeisAIAAB1,15734725,SE,True,EN,Lost and Spaced,The Electric Company,Lost and Spaced,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm91-Q0JIcJak7gIAABu,15734681,SE,True,EN,Dirty Laundry,The Electric Company,Dirty Laundry,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm914g5unsJak7gIAABl,15736115,SE,True,EN,Food Insecurity,Sesame Street,Food Insecurity,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm914gk93qJeisAIAABX,15736116,SE,True,EN,Rakhi Road,Sesame Street,Rakhi Road,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm914gume6JeisAIAABY,15736117,SE,True,EN,Puddle Jumping,Sesame Street,Puddle Jumping,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm914w6WYKuHh8MIAABv,15736118,SE,True,EN,Dirtballs,Sesame Street,Dirtballs,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm914waD16JeisAIAABh,15736121,SE,True,EN,Sesame Street Fairy Tale Science Fair,Sesame Street,Sesame Street Fairy Tale Science Fair,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm914wHYp6JeisAIAABd,15736119,SE,True,EN,Twins Day on Sesame Street,Sesame Street,Twins Day on Sesame Street,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm914wl0HqJeisAIAABj,15736122,SE,True,EN,"Rock, Rock Band",Sesame Street,"Rock, Rock Band",True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm914wQ6DKJeisAIAABg,15736120,SE,True,EN,Veggies Revolt,Sesame Street,Veggies Revolt,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm914wve5KJeisAIAABl,15736123,SE,True,EN,Zoe Loves Rocco,Sesame Street,Zoe Loves Rocco,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm915gvnQ6JeisAIAABn,15736124,SE,True,EN,Grouchy Mother's Day,Sesame Street,Grouchy Mother's Day,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm91CAw7UquHh8MIAAA2,15736125,SE,True,EN,Sesame Street-O-Saurus,Sesame Street,Sesame Street-O-Saurus,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm91Tg7dAsJak7gIAABC,15736126,SE,True,EN,Hansel & Gretel's Playdate with Big Bird,Sesame Street,Hansel & Gretel's Playdate with Big Bird,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm91TwOzQquHh8MIAABO,15736127,SE,True,EN,Baby Bear Comes Clean,Sesame Street,Baby Bear Comes Clean,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm91UgUY3KuHh8MIAABR,15736128,SE,True,EN,Me Am What Me Am,Sesame Street,Me Am What Me Am,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm91wweGBcJak7gIAABQ,15736131,SE,True,EN,The Furry Four,Sesame Street,The Furry Four,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm91Wwl4hqJeisAIAABE,15736129,SE,True,EN,A Song for the Letter 'G',Sesame Street,A Song for the Letter 'G',True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm91wwpfgsJak7gIAABS,15736132,SE,True,EN,The Whoosh and Vanish Mystery,Sesame Street,The Whoosh and Vanish Mystery,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm91XgHr3sJak7gIAABK,15736130,SE,True,EN,Brandeis is Looking for a Job,Sesame Street,Brandeis is Looking for a Job,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm91ygbCNquHh8MIAABb,15736133,SE,True,EN,Music Magic,Sesame Street,Music Magic,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm91zgLe1auHh8MIAABj,15736139,SE,True,EN,Where's the Itsy Bitsy Spider?,Sesame Street,Where's the Itsy Bitsy Spider?,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm91zgWJVMJak7gIAABg,15736140,SE,True,EN,Fetch the Letter I,Sesame Street,Fetch the Letter I,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm91zQ7iyqJeisAIAABS,15736134,SE,True,EN,The A Team,Sesame Street,The A Team,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm91zQev8KuHh8MIAABe,15736136,SE,True,EN,Up in the Air,Sesame Street,Up in the Air,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm91zQp6UauHh8MIAABf,15736137,SE,True,EN,Snuffle Sneeze,Sesame Street,Snuffle Sneeze,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm91zQUbAMJak7gIAABX,15736135,SE,True,EN,Bert's Pigeon Search,Sesame Street,Bert's Pigeon Search,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm92BAot8KuHh8MIAACG,15734739,SE,True,EN,Scent of a Human,The Electric Company,Scent of a Human,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm92dQEzZquHh8MIAACH,15736141,SE,True,EN,Camouflage Challenge,Sesame Street,Camouflage Challenge,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm92fQDHi8Jak7gIAAB7,15736142,SE,True,EN,The Happy Scientists,Sesame Street,The Happy Scientists,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm93fAUvwsJak7gIAACR,15734790,SE,True,EN,Jules Quest,The Electric Company,Jules Quest,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm93fQQzzMJak7gIAACb,15734821,SE,True,EN,A Whole New Francine,The Electric Company,A Whole New Francine,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm93lwb5T6JeisAIAACl,15734387,SE,True,EN,Out to Launch,The Electric Company,Out to Launch,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm93mgRUm6uHh8MIAAC7,15734395,SE,True,EN,The Flube Whisperer,The Electric Company,The Flube Whisperer,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm94cgXuBqJeisAIAAC6,15736056,SE,True,EN,Bedtime Story,Sesame Street,Bedtime Story,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm94oge7ZquHh8MIAADf,15734494,SE,True,EN,The Incredible Return-a-Ball,The Electric Company,The Incredible Return-a-Ball,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm94pwzWNqJeisAIAADF,15734511,SE,True,EN,Off Target,The Electric Company,Off Target,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm94qAAIkquHh8MIAADi,15734524,SE,True,EN,Wordball Games,The Electric Company,Wordball Games,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm94qAeghqJeisAIAADK,15734559,SE,True,EN,Wiki Wiki Walter,The Electric Company,Wiki Wiki Walter,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm94qAMK7KuHh8MIAADl,15734536,SE,True,EN,Spooky Summer Soiree,The Electric Company,Spooky Summer Soiree,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm94qAqcGqJeisAIAADM,15734568,SE,True,EN,"Shrink, Shrank, Shrunk",The Electric Company,"Shrink, Shrank, Shrunk",True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm94qAV9Q6uHh8MIAADm,15734548,SE,True,EN,Revenge of the Zeros,The Electric Company,Revenge of the Zeros,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm94qAz9PKJeisAIAADN,15734578,SE,True,EN,Tip It or Dip It,The Electric Company,Tip It or Dip It,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm94zgKTGqJeisAIAADQ,15734591,SE,True,EN,"Goodnight, Robot",The Electric Company,"Goodnight, Robot",True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm94zwk91quHh8MIAADs,15734612,SE,True,EN,Oh Danny Boy,The Electric Company,Oh Danny Boy,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm94zwWGv6JeisAIAADU,15734602,SE,True,EN,The Potato Custom,The Electric Company,The Potato Custom,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm94zwye7cJak7gIAADl,15734630,SE,True,EN,The Great Compromise,The Electric Company,The Great Compromise,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm95RwGLsKJeisAIAAD0,15734640,SE,True,EN,The Junior Assistant,The Electric Company,The Junior Assistant,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm95RwSkRKuHh8MIAAER,15734652,SE,True,EN,Prankster Holiday,The Electric Company,Prankster Holiday,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm95SArf_quHh8MIAAES,15734663,SE,True,EN,A Fist Full of Confetti,The Electric Company,A Fist Full of Confetti,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAEjgJi3auHh8MIAAEf,15736072,SE,True,EN,The Flood,Sesame Street,The Flood,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAEjgTFZMJak7gIAAEi,15736073,SE,True,EN,Falling Leaves,Sesame Street,Falling Leaves,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAEkA3N-aJeisAIAAEN,15736074,SE,True,EN,Get Lost Mr. Chips,Sesame Street,Get Lost Mr. Chips,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAEkADjvaJeisAIAAEF,15736075,SE,True,EN,The All Our Senses Club,Sesame Street,The All Our Senses Club,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAEkAiLAsJak7gIAAEo,15736078,SE,True,EN,Elmo Wants to Have a Ball,Sesame Street,Elmo Wants to Have a Ball,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAEkAYu4aJeisAIAAEI,15736077,SE,True,EN,Rhyming Block,Sesame Street,Rhyming Block,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAERglnb8Jak7gIAAEd,15736070,SE,True,EN,Fairytale Science Fair,Sesame Street,Fairytale Science Fair,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAERgYFFMJak7gIAAEa,15736069,SE,True,EN,Best House of the Year,Sesame Street,Best House of the Year,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAERQ8GyqJeisAIAAD8,15736062,SE,True,EN,Figure It Out Baby,Sesame Street,Figure It Out Baby,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAERQga-6JeisAIAAD5,15736064,SE,True,EN,Abby Thinks Oscar's a Prince,Sesame Street,Abby Thinks Oscar's a Prince,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAERQrZ7auHh8MIAAEW,15736066,SE,True,EN,Finishing the Splat,Sesame Street,Finishing the Splat,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAFFgK8cKJeisAIAAEV,15736082,SE,True,EN,Failure to Launch,Sesame Street,Failure to Launch,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAFFgmTfaJeisAIAAEb,15736084,SE,True,EN,The Bubblefest,Sesame Street,The Bubblefest,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAFFgZmrqJeisAIAAEY,15736083,SE,True,EN,Rocco's Boat,Sesame Street,Rocco's Boat,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAFFQ7wCquHh8MIAAEr,15736081,SE,True,EN,Abby Tries and Tries Again,Sesame Street,Abby Tries and Tries Again,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAFGgg8haJeisAIAAEe,15736085,SE,True,EN,"Observe, Record, Annoy",Sesame Street,"Observe, Record, Annoy",True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAFGguxQsJak7gIAAEy,15736086,SE,True,EN,Shape-O-Bots,Sesame Street,Shape-O-Bots,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAFHAfPqcJak7gIAAE3,15736088,SE,True,EN,Humpty Dumpty's Big Break,Sesame Street,Humpty Dumpty's Big Break,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAFHAS0HKJeisAIAAEj,15736087,SE,True,EN,Latinization of Marco,Sesame Street,Latinization of Marco,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAFHwavYKuHh8MIAAE6,15736090,SE,True,EN,The Good Bird's Club,Sesame Street,The Good Bird's Club,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAFHwKYmquHh8MIAAE2,15736089,SE,True,EN,Goodbye Pacifier,Sesame Street,Goodbye Pacifier,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAFPwNc_cJak7gIAAE7,15736091,SE,True,EN,The Big Bad Wolf Huffs & Puffs Slimey,Sesame Street,The Big Bad Wolf Huffs & Puffs Slimey,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAFQA6vi6JeisAIAAEs,15736092,SE,True,EN,Elmo and the Monarch Butterfly,Sesame Street,Elmo and the Monarch Butterfly,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm94dAKpm6JeisAIAAC8,15736058,SE,True,EN,Grover's Street Safari,Sesame Street,Grover's Street Safari,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm94ogqJj8Jak7gIAADW,15734503,SE,True,EN,Pies for Puppies,The Electric Company,Pies for Puppies,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAEkANFScJak7gIAAEn,15736076,SE,True,EN,What's in Big Bird's Nest?,Sesame Street,What's in Big Bird's Nest?,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAEkQExW6uHh8MIAAEo,15736080,SE,True,EN,The Good Sport,Sesame Street,The Good Sport,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnBz_QyWdKJeisAIAAJw,15734649,SE,True,EN,Crashbox 10,Crashbox,Crashbox 10,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnBz-Ab4tKJeisAIAAJf,15734530,SE,True,EN,Crashbox 11,Crashbox,Crashbox 11,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnBz-guJ96JeisAIAAJo,15734544,SE,True,EN,Crashbox 12,Crashbox,Crashbox 12,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnBz1QyoEaJeisAIAAI7,15734560,SE,True,EN,Crashbox 43,Crashbox,Crashbox 43,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnBz3QqQA6uHh8MIAAJM,15734584,SE,True,EN,Crashbox 41,Crashbox,Crashbox 41,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnBz4w5TP8Jak7gIAAJN,15734595,SE,True,EN,Crashbox 48,Crashbox,Crashbox 48,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnBz6QfMwauHh8MIAAJW,15734610,SE,True,EN,Crashbox 49,Crashbox,Crashbox 49,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnBz8gs0JaJeisAIAAJW,15734623,SE,True,EN,Crashbox 13,Crashbox,Crashbox 13,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC5MQJtgquHh8MIAAX1,15736149,SE,True,EN,Trashgiving Day,Sesame Street,Trashgiving Day,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC5OgffK6JeisAIAAYe,15736152,SE,True,EN,Rocco's Playdate,Sesame Street,Rocco's Playdate,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC5Vgf1OauHh8MIAAYP,15734841,SE,True,EN,Legend of Big Blue/Ponytail Power!,Pinky Dinky Doo,Legend of Big Blue/Ponytail Power!,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC5VgrMhauHh8MIAAYQ,15734849,SE,True,EN,Tyler's Shirt/Pinky's Missing Page,Pinky Dinky Doo,Tyler's Shirt/Pinky's Missing Page,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC5VgWeaMJak7gIAAYu,15734832,SE,True,EN,Pinky's Present/Pinky Squeaks,Pinky Dinky Doo,Pinky's Present/Pinky Squeaks,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC5Wge5TauHh8MIAAYT,15734879,SE,True,EN,Tipsy Topsy/Growing Up Stretchy,Pinky Dinky Doo,Tipsy Topsy/Growing Up Stretchy,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC5WgKkRsJak7gIAAY1,15734859,SE,True,EN,Great Big Bean/Are You My Mummy?,Pinky Dinky Doo,Great Big Bean/Are You My Mummy?,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC5WgTwNaJeisAIAAY-,15734871,SE,True,EN,Squeedorp Grand/The Pinkyriffic Hat,Pinky Dinky Doo,Squeedorp Grand/The Pinkyriffic Hat,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7BAEEk8Jak7gIAAaN,15736154,SE,True,EN,School for Chickens,Sesame Street,School for Chickens,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7CAb-vauHh8MIAAZl,15736155,SE,True,EN,Proud to be Me,Sesame Street,Proud to be Me,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7CgBBD6uHh8MIAAZp,15736157,SE,True,EN,If Me Had That Wand,Sesame Street,If Me Had That Wand,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7CQvhesJak7gIAAaS,15736156,SE,True,EN,Bert's Training Wheels,Sesame Street,Bert's Training Wheels,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7Eg6hAKuHh8MIAAZx,15736158,SE,True,EN,Numeric Con,Sesame Street,Numeric Con,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7EgeRUcJak7gIAAaY,15736159,SE,True,EN,Ernie's Dance Video,Sesame Street,Ernie's Dance Video,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7Egs6f8Jak7gIAAaa,15736160,SE,True,EN,Enthusiastic Penelope Penguin,Sesame Street,Enthusiastic Penelope Penguin,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7EwLJOKuHh8MIAAZ0,15736161,SE,True,EN,A Bicycle Built by Two,Sesame Street,A Bicycle Built by Two,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7EwY7GquHh8MIAAZ1,15736162,SE,True,EN,Fifteen's Quinceanera,Sesame Street,Fifteen's Quinceanera,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7FQ7Gb6uHh8MIAAZ3,15734889,SE,True,EN,"Lobster/Super Doo, Traffic Too",Pinky Dinky Doo,"Lobster/Super Doo, Traffic Too",True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7FQv7nqJeisAIAAaa,15734896,SE,True,EN,The Two Daffinees/Hot Hot Hot,Pinky Dinky Doo,The Two Daffinees/Hot Hot Hot,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7JAnSs6uHh8MIAAaI,15734911,SE,True,EN,Burpzilla/Happy Burpday,Pinky Dinky Doo,Burpzilla/Happy Burpday,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7JAzkPqJeisAIAAat,15734921,SE,True,EN,Always Ask First/The Trip Not Taken,Pinky Dinky Doo,Always Ask First/The Trip Not Taken,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7JQ7-q6JeisAIAAa2,15734929,SE,True,EN,Pop the Corn/Lord of the Pies,Pinky Dinky Doo,Pop the Corn/Lord of the Pies,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7JQhrlKuHh8MIAAaR,15734961,SE,True,EN,Mystery Planet/Octopus in Tap Shoes,Pinky Dinky Doo,Mystery Planet/Octopus in Tap Shoes,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7JQvUsquHh8MIAAaU,15734972,SE,True,EN,Thundering Thesaurus/Pinky's Rock!,Pinky Dinky Doo,Thundering Thesaurus/Pinky's Rock!,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7RQJL_6uHh8MIAAbg,15735882,SE,True,EN,The Wedding Planner,Sesame Street,The Wedding Planner,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7RQW-aquHh8MIAAbh,15735886,SE,True,EN,Baby Bear Hates Wee Tee Ball,Sesame Street,Baby Bear Hates Wee Tee Ball,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFT9g1eoKuHh8MIAAf1,15734480,SE,True,EN,Sporting News/Dragon's Sippy Cup,Pinky Dinky Doo,Sporting News/Dragon's Sippy Cup,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFTrQqS0auHh8MIAAfc,15734552,SE,True,EN,Tyler to the Rescue!/Shrinky Pinky,Pinky Dinky Doo,Tyler to the Rescue!/Shrinky Pinky,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV6szpA5XmVSKwwEAAAAV,15735902,SE,True,EN,Museebat,High Maintenance,Museebat,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV7HLhADb74HCwgEAAAAD,15735909,SE,True,EN,Grandpa,High Maintenance,Grandpa,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV7xd_wBsecPDWwEAAABw,15735483,SE,True,EN,Mediation,Divorce,Mediation,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV7xd6gbVrsMbwgEAAAHH,15735912,SE,True,EN,Selfie,High Maintenance,Selfie,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV7xd6gmXssJfPwEAAAGb,15735916,SE,True,EN,Tick,High Maintenance,Tick,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV7xd6Qs7NcJfPwEAAAGY,15735428,SE,True,EN,Counseling,Divorce,Counseling,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV7xd9AeoNcJfPwEAAAGk,15735919,SE,True,EN,Ex,High Maintenance,Ex,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV7xd9Ao5QcJfPwEAAAGl,15735447,SE,True,EN,Next Day,Divorce,Next Day,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV7xdXAyiTsJfPwEAAAF_,15735469,SE,True,EN,Pilot,Divorce,Pilot,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV7xw7Q620MJfPwEAAAHD,15734799,SE,True,EN,Chestnut,Westworld,Chestnut,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV7xwewHwxsMbwgEAAAHd,15734677,SE,True,EN,Episode 1,Tracey Ullman's Show,Episode 1,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GV7xwpQbVEMMbwgEAAAHt,15734808,SE,True,EN,The Original,Westworld,The Original,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm92fQNkvaJeisAIAACD,15736143,SE,True,EN,Chicken When It Comes to Thunderstorms,Sesame Street,Chicken When It Comes to Thunderstorms,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm93fAxPDauHh8MIAACd,15734805,SE,True,EN,Mighty Bright Fight,The Electric Company,Mighty Bright Fight,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm93lA5A0cJak7gIAACo,15734830,SE,True,EN,Mighty Bright Knight,The Electric Company,Mighty Bright Knight,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm942AWjQ6uHh8MIAADy,15734410,SE,True,EN,Bananas,The Electric Company,Bananas,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm944QYB1MJak7gIAADu,15734419,SE,True,EN,Wicked Itch,The Electric Company,Wicked Itch,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm946gaZxqJeisAIAADa,15734442,SE,True,EN,Revolutionary Doughnuts,The Electric Company,Revolutionary Doughnuts,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm946gNfAKuHh8MIAADz,15734432,SE,True,EN,Bluefoot,The Electric Company,Bluefoot,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm948gi5FKJeisAIAADg,15734467,SE,True,EN,One Smart Cookie,The Electric Company,One Smart Cookie,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm948gZWyKJeisAIAADd,15734454,SE,True,EN,Unmuffins,The Electric Company,Unmuffins,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm94cAsCVcJak7gIAADH,15736054,SE,True,EN,Saved by the Superfoods,Sesame Street,Saved by the Superfoods,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm94dAU7Y8Jak7gIAADO,15736060,SE,True,EN,"Mucko Polo, Grouch Explorer",Sesame Street,"Mucko Polo, Grouch Explorer",True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVm94ogWBNcJak7gIAADU,15734477,SE,True,EN,One Bad Apple,The Electric Company,One Bad Apple,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAEkArqNcJak7gIAAEq,15736079,SE,True,EN,The Biggest Loser,Sesame Street,The Biggest Loser,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAERgKPYKuHh8MIAAEZ,15736068,SE,True,EN,Build a Better Basket,Sesame Street,Build a Better Basket,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAFQQLKwMJak7gIAAFD,15736094,SE,True,EN,Siblings,Sesame Street,Siblings,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAFQwmpYKuHh8MIAAFG,15736095,SE,True,EN,Letter 'R' Mystery,Sesame Street,Letter 'R' Mystery,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAFQwwNQaJeisAIAAEx,15736096,SE,True,EN,Cast Iron Cooks,Sesame Street,Cast Iron Cooks,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAFSA6yXauHh8MIAAFJ,15736097,SE,True,EN,Elmozilla,Sesame Street,Elmozilla,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAFSAnycaJeisAIAAEz,15736098,SE,True,EN,Getting Centered,Sesame Street,Getting Centered,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAFSAxOQquHh8MIAAFI,15736099,SE,True,EN,A Prince of a Frog,Sesame Street,A Prince of a Frog,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAFTAmsAquHh8MIAAFL,15736100,SE,True,EN,Super Maria,Sesame Street,Super Maria,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnB0AAXU5sJak7gIAAJ1,15734720,SE,True,EN,Crashbox 19,Crashbox,Crashbox 19,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnB0Ag5abKJeisAIAAJ6,15734730,SE,True,EN,Crashbox 17,Crashbox,Crashbox 17,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnB0BQ0kUMJak7gIAAJ_,15734741,SE,True,EN,Crashbox 18,Crashbox,Crashbox 18,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnB0CAz6JKJeisAIAAKI,15734750,SE,True,EN,Crashbox 15,Crashbox,Crashbox 15,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnB0DArShcJak7gIAAKH,15734761,SE,True,EN,Crashbox 16,Crashbox,Crashbox 16,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnB0FQa0CcJak7gIAAKO,15734771,SE,True,EN,Crashbox 24,Crashbox,Crashbox 24,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnB0GAIa7KJeisAIAAKd,15734780,SE,True,EN,Crashbox 25,Crashbox,Crashbox 25,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnB0GgFHNKuHh8MIAAKb,15734789,SE,True,EN,Crashbox 22,Crashbox,Crashbox 22,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnB0HQ3opaJeisAIAAKp,15734800,SE,True,EN,Crashbox 23,Crashbox,Crashbox 23,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnB0JwRTtqJeisAIAAKs,15734809,SE,True,EN,Crashbox 20,Crashbox,Crashbox 20,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnB0KgDkZaJeisAIAAKx,15734820,SE,True,EN,Crashbox 21,Crashbox,Crashbox 21,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnB0PAOmE8Jak7gIAALG,15734829,SE,True,EN,Crashbox 26,Crashbox,Crashbox 26,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnB1aAuADcJak7gIAASD,15734379,SE,True,EN,Crashbox 08,Crashbox,Crashbox 08,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnB1bgNobquHh8MIAAR4,15734389,SE,True,EN,Crashbox 09,Crashbox,Crashbox 09,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnB1cAyQzcJak7gIAASN,15734400,SE,True,EN,Crashbox 04,Crashbox,Crashbox 04,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnB1fAJuPKJeisAIAASe,15734413,SE,True,EN,Crashbox 05,Crashbox,Crashbox 05,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnB1gwww6MJak7gIAASl,15734425,SE,True,EN,Crashbox 06,Crashbox,Crashbox 06,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnB1jQsmyKJeisAIAAS5,15734438,SE,True,EN,Crashbox 07,Crashbox,Crashbox 07,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnB1vAakaqJeisAIAAS_,15734448,SE,True,EN,Crashbox 01,Crashbox,Crashbox 01,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnB1wABlosJak7gIAAS-,15734461,SE,True,EN,Crashbox 02,Crashbox,Crashbox 02,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnB1wgqGAauHh8MIAASu,15734475,SE,True,EN,Crashbox 03,Crashbox,Crashbox 03,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnBx2gQLu8Jak7gIAAFe,15734496,SE,True,EN,Crashbox 50,Crashbox,Crashbox 50,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnByLwLhT6JeisAIAAGF,15734508,SE,True,EN,Crashbox 51,Crashbox,Crashbox 51,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnByNghrrKJeisAIAAGL,15734518,SE,True,EN,Crashbox 52,Crashbox,Crashbox 52,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnBz2QrMg6uHh8MIAAJG,15734571,SE,True,EN,Crashbox 40,Crashbox,Crashbox 40,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnBz9QsDnauHh8MIAAJm,15734636,SE,True,EN,Crashbox 14,Crashbox,Crashbox 14,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnBzrQnd36uHh8MIAAIf,15734667,SE,True,EN,Crashbox 46,Crashbox,Crashbox 46,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnBzvg0orqJeisAIAAIh,15734678,SE,True,EN,Crashbox 47,Crashbox,Crashbox 47,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnBzwwjpx6uHh8MIAAIt,15734690,SE,True,EN,Crashbox 44,Crashbox,Crashbox 44,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnBzyADAhcJak7gIAAI2,15734701,SE,True,EN,Crashbox 45,Crashbox,Crashbox 45,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnBzzQzHd6uHh8MIAAI5,15734711,SE,True,EN,Crashbox 42,Crashbox,Crashbox 42,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC5LAkFm6JeisAIAAYR,15736101,SE,True,EN,Don't Get Pushy,Sesame Street,Don't Get Pushy,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC5Lwj1xquHh8MIAAXy,15736103,SE,True,EN,Latino Festival,Sesame Street,Latino Festival,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC5LwVnbsJak7gIAAYK,15736102,SE,True,EN,Telly Gets Jealous,Sesame Street,Telly Gets Jealous,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC5Lwxm8KJeisAIAAYW,15736104,SE,True,EN,The Flower Show,Sesame Street,The Flower Show,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC5MQi2CcJak7gIAAYT,15736151,SE,True,EN,Porridge Art,Sesame Street,Porridge Art,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC5MQV_jqJeisAIAAYb,15736150,SE,True,EN,Great Vibrations,Sesame Street,Great Vibrations,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC5OwyovaJeisAIAAYg,15736153,SE,True,EN,Max The Magician,Sesame Street,Max The Magician,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7IQwNncJak7gIAAam,15734905,SE,True,EN,Great Big Nature/Monkey Town,Pinky Dinky Doo,Great Big Nature/Monkey Town,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7JgIWh6JeisAIAAa4,15734982,SE,True,EN,Pinky Dinky Rex/Puppy-Go-Seek,Pinky Dinky Doo,Pinky Dinky Rex/Puppy-Go-Seek,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7JQFLAquHh8MIAAaL,15734940,SE,True,EN,Big Blob of Talk/Vicki Chicken,Pinky Dinky Doo,Big Blob of Talk/Vicki Chicken,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7JQSHSaJeisAIAAay,15734950,SE,True,EN,Tyler's Disaster/Balloony Feet,Pinky Dinky Doo,Tyler's Disaster/Balloony Feet,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7JwuSpsJak7gIAAbh,15736163,SE,True,EN,Help-O-Bots,Sesame Street,Help-O-Bots,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7KAX9ssJak7gIAAbk,15736105,SE,True,EN,Simon Says!,Sesame Street,Simon Says!,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7Kg2VXauHh8MIAAa8,15736106,SE,True,EN,Still Life With Cookie,Sesame Street,Still Life With Cookie,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7Og8Y6quHh8MIAAbL,15736108,SE,True,EN,Gotcha!,Sesame Street,Gotcha!,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7OQgJ4MJak7gIAAb2,15736107,SE,True,EN,Big Bird's Nest Sale,Sesame Street,Big Bird's Nest Sale,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7Ow4dU6uHh8MIAAbT,15736109,SE,True,EN,Mi Amiguita Rosita,Sesame Street,Mi Amiguita Rosita,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7OwbQRcJak7gIAAcA,15736111,SE,True,EN,The Wild Brunch,Sesame Street,The Wild Brunch,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7OwNbKsJak7gIAAb7,15736110,SE,True,EN,Rosita's Abuela Arrives,Sesame Street,Rosita's Abuela Arrives,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7OwprXqJeisAIAAbn,15736112,SE,True,EN,Leela's Cell Phone Addiction,Sesame Street,Leela's Cell Phone Addiction,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7PAJbA6uHh8MIAAbV,15736113,SE,True,EN,Count Tribute,Sesame Street,Count Tribute,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7PAWaWqJeisAIAAbt,15736114,SE,True,EN,Firefly Show,Sesame Street,Firefly Show,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7PgNlkKuHh8MIAAbd,15735874,SE,True,EN,Baby Bear's New Sitter,Sesame Street,Baby Bear's New Sitter,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7PQ8jJsJak7gIAAcJ,15735872,SE,True,EN,Grandparents Celebration,Sesame Street,Grandparents Celebration,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7RA3_K6JeisAIAAbx,15735878,SE,True,EN,The Princess Story,Sesame Street,The Princess Story,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7RgDMlauHh8MIAAbm,15735893,SE,True,EN,"Lights, Camera, Bert",Sesame Street,"Lights, Camera, Bert",True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7RgeQIsJak7gIAAch,15735900,SE,True,EN,Judy and the Beast,Sesame Street,Judy and the Beast,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7RgQ_X8Jak7gIAAce,15735897,SE,True,EN,3 Cheers for Us,Sesame Street,3 Cheers for Us,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7Rgq5x6JeisAIAAcE,15735904,SE,True,EN,Jack's Big Jump,Sesame Street,Jack's Big Jump,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7RQkuyKuHh8MIAAbj,15734455,SE,True,EN,Legend of Twigfoot/Pinky's Rainy Day,Pinky Dinky Doo,Legend of Twigfoot/Pinky's Rainy Day,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnC7RQxXjKJeisAIAAb8,15735889,SE,True,EN,Every Plant That Ever Was,Sesame Street,Every Plant That Ever Was,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFT9QpNzauHh8MIAAfy,15734465,SE,True,EN,Spaghetti Knot/Back to School Is Cool,Pinky Dinky Doo,Spaghetti Knot/Back to School Is Cool,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFT9w6av6JeisAIAAgE,15734491,SE,True,EN,Pinky Dinky Duplicate/I Want That,Pinky Dinky Doo,Pinky Dinky Duplicate/I Want That,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFT9wgr4sJak7gIAAhH,15734504,SE,True,EN,Awful Good Day/Tyler's Neat-o Tuxedo,Pinky Dinky Doo,Awful Good Day/Tyler's Neat-o Tuxedo,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFTrgjkUsJak7gIAAgg,15734594,SE,True,EN,Grumpy Alligator/Horn and Antler Club,Pinky Dinky Doo,Grumpy Alligator/Horn and Antler Club,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFTrgLxV6uHh8MIAAfd,15734564,SE,True,EN,Tyler's Great Big Solo!/Polka Dot Pox,Pinky Dinky Doo,Tyler's Great Big Solo!/Polka Dot Pox,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFTrgZ5HsJak7gIAAgd,15734580,SE,True,EN,Teeny Weeny Waste/Pinky and the Duck,Pinky Dinky Doo,Teeny Weeny Waste/Pinky and the Duck,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFTrgzyA6JeisAIAAfx,15734606,SE,True,EN,Pirate Crew/Missing Dinosaurs,Pinky Dinky Doo,Pirate Crew/Missing Dinosaurs,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFTrQ6pe8Jak7gIAAgX,15734516,SE,True,EN,Tyler's Too Cool Game/Come Home,Pinky Dinky Doo,Tyler's Too Cool Game/Come Home,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFTrQcdrcJak7gIAAgT,15734538,SE,True,EN,Tyler's Big Boo!/The New Teacher,Pinky Dinky Doo,Tyler's Big Boo!/The New Teacher,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFTrQOBD6JeisAIAAfj,15734527,SE,True,EN,Tyler's Tall O'Meter/Cloud People,Pinky Dinky Doo,Tyler's Tall O'Meter/Cloud People,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFTrwbtbquHh8MIAAfl,15734643,SE,True,EN,New Year/Pinky's Happy Doo Year,Pinky Dinky Doo,New Year/Pinky's Happy Doo Year,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFTrwOaPqJeisAIAAfz,15734632,SE,True,EN,Pizza Artist/Party Animals,Pinky Dinky Doo,Pizza Artist/Party Animals,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFTsQtRZMJak7gIAAgu,15734660,SE,True,EN,Salami Shoes/Outer Space Fluffy Buns,Pinky Dinky Doo,Salami Shoes/Outer Space Fluffy Buns,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFTswEUxcJak7gIAAgw,15734675,SE,True,EN,Bugging Tyler/Guinea Pig's Museum,Pinky Dinky Doo,Bugging Tyler/Guinea Pig's Museum,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFTswNqn8Jak7gIAAgz,15734687,SE,True,EN,Tyler & the 4 M's/Promise,Pinky Dinky Doo,Tyler & the 4 M's/Promise,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFTvw8PCauHh8MIAAfq,15734696,SE,True,EN,Tooting Trunk/In the Dark,Pinky Dinky Doo,Tooting Trunk/In the Dark,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFTwQMWSaJeisAIAAf6,15735908,SE,True,EN,Peter Piper's Purpose,Sesame Street,Peter Piper's Purpose,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFTwQZ1F8Jak7gIAAg4,15735911,SE,True,EN,"Calm Down and Think, Elmo",Sesame Street,"Calm Down and Think, Elmo",True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFTywweUMJak7gIAAhB,15735917,SE,True,EN,Waiting For the Present,Sesame Street,Waiting For the Present,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFTywWIDKuHh8MIAAfv,15735914,SE,True,EN,Big Bird Loses his Nest,Sesame Street,Big Bird Loses his Nest,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFUCwV1T8Jak7gIAAhL,15735920,SE,True,EN,Grover Does it All,Sesame Street,Grover Does it All,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFUDgNrl6uHh8MIAAf6,15735923,SE,True,EN,Everyday Magic,Sesame Street,Everyday Magic,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVniY0Q5eE53Dww0JAAGg,15734433,SE,True,EN,Part 5,Saving My Tomorrow,Part 5,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnK2AwtTYKJeisAIAAkM,15734444,SE,True,EN,Part 2,Saving My Tomorrow,Part 2,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnK2BA4RKaJeisAIAAkT,15734457,SE,True,EN,Part 4,Saving My Tomorrow,Part 4,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnK2BQxMTaJeisAIAAka,15734471,SE,True,EN,Part 3,Saving My Tomorrow,Part 3,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKrVgx_VcJak7gIAAi3,15734705,SE,True,EN,The Big Bone/Superstar,Pinky Dinky Doo,The Big Bone/Superstar,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKstQsbBsJak7gIAAi6,15734485,SE,True,EN,Part 1,Saving My Tomorrow,Part 1,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKwJw2LU8Jak7gIAAjY,15735926,SE,True,EN,Lifting Snuffy,Sesame Street,Lifting Snuffy,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKygwEdg8Jak7gIAAjj,15734719,SE,True,EN,Tyler's Super Family/Ice Cream Babies,Pinky Dinky Doo,Tyler's Super Family/Ice Cream Babies,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKyhgZs3qJeisAIAAie,15734740,SE,True,EN,Pink Phenomenon/Two Wheel Dreams,Pinky Dinky Doo,Pink Phenomenon/Two Wheel Dreams,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKyhQ7NBcIzRhQJAABV,15734729,SE,True,EN,Pinky's Talent/Pinky Dinky Re-Doo,Pinky Dinky Doo,Pinky's Talent/Pinky Dinky Re-Doo,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKyiAEsysIzRhQJAABZ,15734748,SE,True,EN,Think Pink/Tyler's First Flight,Pinky Dinky Doo,Think Pink/Tyler's First Flight,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKyiAfmWaJeisAIAAik,15734769,SE,True,EN,Pinky Thinky Doo/Big Brain Block,Pinky Dinky Doo,Pinky Thinky Doo/Big Brain Block,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKyiASlicIzRhQJAABc,15734759,SE,True,EN,"Go to Bed, Tyler!/Loose Tooth",Pinky Dinky Doo,"Go to Bed, Tyler!/Loose Tooth",True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKyiAtGk8Jak7gIAAjx,15734778,SE,True,EN,Castle of Cards/Daddy's Special Shirt,Pinky Dinky Doo,Castle of Cards/Daddy's Special Shirt,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKylQa_LsJak7gIAAjz,15735928,SE,True,EN,Oscar's Trash Savings Plan,Sesame Street,Oscar's Trash Savings Plan,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKymAalfcIzRhQJAABh,15735930,SE,True,EN,Bert's Sign Painting Challenge,Sesame Street,Bert's Sign Painting Challenge,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKymwdax8IzRhQJAABl,15735934,SE,True,EN,Papa Bear Goes to Preschool,Sesame Street,Papa Bear Goes to Preschool,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKymwP4OcJak7gIAAj3,15735932,SE,True,EN,Chaos at Hooper's Store,Sesame Street,Chaos at Hooper's Store,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKynAv69MJak7gIAAj6,15735936,SE,True,EN,Oscar's Clean Tuxedo,Sesame Street,Oscar's Clean Tuxedo,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKynQATv8IzRhQJAABq,15735939,SE,True,EN,Stinky's First Day of Preschool,Sesame Street,Stinky's First Day of Preschool,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKynQavkaJeisAIAAi6,15735943,SE,True,EN,Elmo the Grouch,Sesame Street,Elmo the Grouch,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKynQNmF6JeisAIAAi3,15735941,SE,True,EN,Friendship Day,Sesame Street,Friendship Day,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKzDQm9yaJeisAIAAjA,15734796,SE,True,EN,Boom! Sonic Boom!/Pinky the Pet,Pinky Dinky Doo,Boom! Sonic Boom!/Pinky the Pet,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKzDQZknqJeisAIAAi8,15734787,SE,True,EN,Guppy Training Day/Pinky's Babysitter,Pinky Dinky Doo,Guppy Training Day/Pinky's Babysitter,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKzEgWI7KJeisAIAAjC,15734804,SE,True,EN,Tyler's Lucky Sock/Best Sleepover Ever,Pinky Dinky Doo,Tyler's Lucky Sock/Best Sleepover Ever,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKzIQ5ClKJeisAIAAjE,15734812,SE,True,EN,Wintery Dintery Doo/Pinky's Concert,Pinky Dinky Doo,Wintery Dintery Doo/Pinky's Concert,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKzMAVm88IzRhQJAAB4,15734822,SE,True,EN,"Cheese Chase/Try It, You'll Like it",Pinky Dinky Doo,"Cheese Chase/Try It, You'll Like it",True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKzxQ8Ra8Jak7gIAAkL,15735945,SE,True,EN,Abby Schools in Cool,Sesame Street,Abby Schools in Cool,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKzxQlb7MIzRhQJAAB-,15735949,SE,True,EN,Jack B. Nimble Can't Sit Down,Sesame Street,Jack B. Nimble Can't Sit Down,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnKzxQYV3qJeisAIAAjK,15735947,SE,True,EN,Upside-Down Nursery Rhymes,Sesame Street,Upside-Down Nursery Rhymes,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMhrg4oLKJeisAIAAk6,15735952,SE,True,EN,Dancing Ruthie,Sesame Street,Dancing Ruthie,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMhrgjr3sJak7gIAAl7,15735955,SE,True,EN,Election Day on Sesame Street,Sesame Street,Election Day on Sesame Street,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMhrgu70KJeisAIAAk3,15735957,SE,True,EN,Around the Corner,Sesame Street,Around the Corner,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMhsQaCqsJak7gIAAl9,15735958,SE,True,EN,The Grand High Triangle Lover's Success Story,Sesame Street,The Grand High Triangle Lover's Success Story,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMhuAsv-8Jak7gIAAl_,15735961,SE,True,EN,Naming Barkley,Sesame Street,Naming Barkley,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMhug6AUsIzRhQJAADZ,15735963,SE,True,EN,Hooper's Has a Broken Window,Sesame Street,Hooper's Has a Broken Window,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMhugv5fMJak7gIAAmC,15735964,SE,True,EN,Birdwatchers,Sesame Street,Birdwatchers,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMiegFNNMJak7gIAAmG,15735967,SE,True,EN,Wanda the Word Fairy Visits,Sesame Street,Wanda the Word Fairy Visits,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMikwMdP8Jak7gIAAmI,15735969,SE,True,EN,Big Bird and Snuffy Add,Sesame Street,Big Bird and Snuffy Add,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMiugqm2sJak7gIAAmK,15734426,SE,True,EN,The Great Biscotti/Speed Rocket,Pinky Dinky Doo,The Great Biscotti/Speed Rocket,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMiwA2sccIzRhQJAADj,15734437,SE,True,EN,Stinky Pinky Doo/Kooky Cook-Off,Pinky Dinky Doo,Stinky Pinky Doo/Kooky Cook-Off,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMj1w4Pi6JeisAIAAlI,15735970,SE,True,EN,Big Bird Has Birdy Pox,Sesame Street,Big Bird Has Birdy Pox,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMj3g3mgMIzRhQJAADp,15735972,SE,True,EN,The Art Dealer,Sesame Street,The Art Dealer,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMj3gqdnsJak7gIAAmT,15735975,SE,True,EN,Big Bird Bowling Ball,Sesame Street,Big Bird Bowling Ball,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMj3w2yY8Jak7gIAAmY,15735976,SE,True,EN,Big Bird Wants to be a Dancer,Sesame Street,Big Bird Wants to be a Dancer,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMj4AEr9MJak7gIAAmc,15735979,SE,True,EN,Snuffy Takes Tap,Sesame Street,Snuffy Takes Tap,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMj4Aix28IzRhQJAADw,15735985,SE,True,EN,Papa Bear's Perpetual Porridge Machine,Sesame Street,Papa Bear's Perpetual Porridge Machine,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMj4AOcCMJak7gIAAme,15735980,SE,True,EN,Prairie Dawn Gives Maria the Gift of Music,Sesame Street,Prairie Dawn Gives Maria the Gift of Music,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMj4Au-AcIzRhQJAADz,15735987,SE,True,EN,Elmo Learns to Salsa,Sesame Street,Elmo Learns to Salsa,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMj4AYxGcIzRhQJAADt,15735983,SE,True,EN,Telly and Baby Bear Camp Out on Mount Bear,Sesame Street,Telly and Baby Bear Camp Out on Mount Bear,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMkDAI-oaJeisAIAAlY,15735989,SE,True,EN,Making Pictures for Snuffy's Grandma,Sesame Street,Making Pictures for Snuffy's Grandma,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMkDw2As6JeisAIAAld,15735991,SE,True,EN,Healthy Foods Game Show,Sesame Street,Healthy Foods Game Show,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMkDwqIWsJak7gIAAmk,15735993,SE,True,EN,Elmo's Chicken Dream,Sesame Street,Elmo's Chicken Dream,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMkEAE916JeisAIAAli,15735995,SE,True,EN,Grouch Apprentice with Donald Grump,Sesame Street,Grouch Apprentice with Donald Grump,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMkEAjAK8IzRhQJAAD6,15735999,SE,True,EN,Elmofante,Sesame Street,Elmofante,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnMkEAYynMJak7gIAAmn,15735997,SE,True,EN,Abby's First Day of School,Sesame Street,Abby's First Day of School,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnP-kApXQYOWwxMJAAAp,15736001,SE,True,EN,The Pogo Games,Sesame Street,The Pogo Games,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnro3AhN04OWwxMJAAIZ,15735971,SE,True,EN,Escape to Europe/Cycle of Terror,VICE,Escape to Europe/Cycle of Terror,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnrpYwnBN53Dww0JAAH2,15735973,SE,True,EN,Boko Haram/Unnatural Selection,VICE,Boko Haram/Unnatural Selection,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnrqdAVq9p3Dww0JAAH4,15735974,SE,True,EN,Beating Blindness/White Collar Weed,VICE,Beating Blindness/White Collar Weed,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnruvAnrroOWwxMJAAIo,15736004,SE,True,EN,Funny Farm,Sesame Street,Funny Farm,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnrv4QhCEaJeisAIAAtu,15736006,SE,True,EN,The Best Friend Band,Sesame Street,The Best Friend Band,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnrvXQsqAKJeisAIAAtl,15736008,SE,True,EN,When Dinosaurs Walked Sesame Street,Sesame Street,When Dinosaurs Walked Sesame Street,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnrwZQ5GTJ3Dww0JAAIW,15736010,SE,True,EN,Valentine's Day,Sesame Street,Valentine's Day,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVns42ADTkYOWwxMJAAJQ,15735977,SE,True,EN,Right to Die,VICE,Right to Die,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVny2JwV5XcLDKp8IAAAC,15736012,SE,True,EN,Don't Wake the Baby,Sesame Street,Don't Wake the Baby,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVny2rAI8n1LDW50IAAAI,15736014,SE,True,EN,Practice Makes Proud,Sesame Street,Practice Makes Proud,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVny3MAmgxqsZsoQIAAAE,15736016,SE,True,EN,Afraid of the Bark,Sesame Street,Afraid of the Bark,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVny4Oghdf1LDW50IAAAL,15736018,SE,True,EN,Telly the Tiebreaker,Sesame Street,Telly the Tiebreaker,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVny5RAOgVGO2woQIAAAT,15736019,SE,True,EN,Hat Contest,Sesame Street,Hat Contest,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVny5yAhwv7qAw50IAAAR,15736021,SE,True,EN,The Very End of X,Sesame Street,The Very End of X,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVo8b_A2VQ8MzqJYIAAAs,15735024,SE,True,EN,Good Man,Girls,Good Man,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVo8b_gGDd8MzqJYIAABF,15735030,SE,True,EN,Wedding Day,Girls,Wedding Day,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVqIQnAyJREywpMUIAADP,15735036,SE,True,EN,Old Loves,Girls,Old Loves,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVqIRJQM9OQ6GdO4IAADg,15735042,SE,True,EN,Japan,Girls,Japan,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVqIRrASrLDeqw8YIAAD5,15735048,SE,True,EN,The Panic in Central Park,Girls,The Panic in Central Park,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVqISMABfrQ6GdO4IAAEK,15735054,SE,True,EN,Queen for Two Days,Girls,Queen for Two Days,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVqIWRgOPiUywpMUIAAEv,15736023,SE,True,EN,Say Thank You to Your Face Day,Sesame Street,Say Thank You to Your Face Day,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVqIWygerT0ywpMUIAAEx,15736025,SE,True,EN,What I Love About Art,Sesame Street,What I Love About Art,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVqIY4AR15w6GdO4IAAFL,15736027,SE,True,EN,Abby's Fairy Garden,Sesame Street,Abby's Fairy Garden,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVqIYXAAtijeqw8YIAAFI,15736029,SE,True,EN,Elmo Steps in for Super Grover,Sesame Street,Elmo Steps in for Super Grover,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVs3M4gPUnrrDwjQyAAB2,15735978,SE,True,EN,Meathooked/End of Water,VICE,Meathooked/End of Water,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVs3Ppgiu_MPCw-0IAAAC,15735981,SE,True,EN,Return to Yemen/Church and States,VICE,Return to Yemen/Church and States,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVs80PwheV7CxtuIIAAE_,15734572,SE,True,EN,The Mirror,El Hipnotizador (The Hypnotist),The Mirror,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVs8ooATOzLqGtt8IAABc,15734582,SE,True,EN,The Yellow Ribbon,El Hipnotizador (The Hypnotist),The Yellow Ribbon,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVs8qrAe7Rjeqw9kIAADg,15734598,SE,True,EN,The Collector of Days,El Hipnotizador (The Hypnotist),The Collector of Days,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVs8rUQJhYLqGtt8IAABi,15734611,SE,True,EN,The Portrait of Adele,El Hipnotizador (The Hypnotist),The Portrait of Adele,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVs8w6AIWcrCxtuIIAAE8,15734624,SE,True,EN,The Ivory Door,El Hipnotizador (The Hypnotist),The Ivory Door,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVsNhtQY6J05FnvoIAAAF,15734818,SE,True,EN,"Episode Eight: Squirrels, Part I",Animals.,"Episode Eight: Squirrels, Part I",True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVt-hYgPzOGaZb94IAAAS,15734991,SE,True,EN,I Love You Baby,Girls,I Love You Baby,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVt2czgnD579hi9sIAAAH,15736031,SE,True,EN,The Princess Story,Sesame Street,The Princess Story,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVt2fawTdA5qOid0IAAAl,15735001,SE,True,EN,Hello Kitty,Girls,Hello Kitty,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVtS1dQXO9SacwtoIAAAE,15735959,SE,True,EN,The Deal/City of Lost Children,VICE,The Deal/City of Lost Children,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVtS1DwYez6OdZtkIAAAC,15735956,SE,True,EN,Trump in Dubai/China in Africa,VICE,Trump in Dubai/China in Africa,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVtStXQg4XcLDwtoIAABX,15734827,SE,True,EN,"Episode Nine: Squirrels, Part II",Animals.,"Episode Nine: Squirrels, Part II",True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVtSvlQj2y2fCwtwIAAAW,15735960,SE,True,EN,Palestine Now/Viva Cuba Libre,VICE,Palestine Now/Viva Cuba Libre,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVtSxYAXJjiacwtoIAAAD,15735962,SE,True,EN,Afghan Women's Rights/Floating Armories,VICE,Afghan Women's Rights/Floating Armories,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVtSzjQtKFcLDwtoIAABc,15735965,SE,True,EN,The Future of Energy,VICE,The Future of Energy,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2_3Qlh0VFvjSoJAWYI,15734686,SE,True,EN,The State of Texas vs. Robert Durst,The Jinx: The Life and Deaths of Robert Durst,The State of Texas vs. Robert Durst,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2-5Q4J74NJjhsJAWQP,15736057,SE,True,EN,We the People/Countdown to Extinction,VICE,We the People/Countdown to Extinction,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU24LA5a047DwvwIAWBc,15734967,SE,True,EN,Hijos del Carnaval 05,Hijos del Carnaval (Sons of the Carnival),Hijos del Carnaval 05,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU25dArk-1FvjSoJAV72,15734671,SE,True,EN,Bomb in the Garden,Generation Kill,Bomb in the Garden,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU26sA4AuY7DwvwIAWKy,15734088,SE,True,EN,Mildred Pierce,Mildred Pierce,Mildred Pierce,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU28owiozINJjhsJAWFz,15735075,SE,True,EN,"Election Night, Part I",Newsroom,"Election Night, Part I",True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU29gQCbKYNJjhsJAWIt,15735256,SE,True,EN,Profugos 25,Profugos,Profugos 25,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2bpwSse1FvjSoJATvh,15734762,SE,True,EN,Carentan,Band of Brothers,Carentan,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2c1gDLSFFvjSoJAT2K,15734977,SE,True,EN,Amateur Night,Deadwood Pass,Amateur Night,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2crwg7zo7DwvwIAT8o,15736048,SE,True,EN,Fighting Chances,VICE,Fighting Chances,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2cSAWGFYNJjhsJATvn,15735790,SE,True,EN,Sophie - Week Five,In Treatment,Sophie - Week Five,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2ctwtZBI7DwvwIAT9C,15734935,SE,True,EN,Common Grave,Hijos del Carnaval (Sons of the Carnival),Common Grave,True,False,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2d_A5FkI7DwvwIAUCo,15735317,SE,True,EN,Only Child,Girls,Only Child,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2dPQ41ioNJjhsJATzn,15735079,SE,True,EN,Epitafios,Epitafios (Epitaphs),Epitafios,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2e-gBt64NJjhsJAT6-,15735328,SE,True,EN,Iowa,Girls,Iowa,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2edQULvVFvjSoJAT84,15734999,SE,True,EN,Searching for Gold,Alice,Searching for Gold,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2eoQGjnoNJjhsJAT6E,15734985,SE,True,EN,E.B. Was Left Out,Deadwood Pass,E.B. Was Left Out,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2fHQgmmINJjhsJAT7o,15735009,SE,True,EN,Wonderland,Alice,Wonderland,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2i8wJjNlFvjSoJAUWN,15736040,SE,True,EN,Rocky Mountain High & North Korean Defectors,VICE,Rocky Mountain High & North Korean Defectors,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2ijwg8doNJjhsJAUQP,15735062,SE,True,EN,5/1,Newsroom,5/1,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2kgwvY4o7DwvwIAUm1,15735737,SE,True,EN,Walter - Week Seven,In Treatment,Walter - Week Seven,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2kKgYUjINJjhsJAUYh,15735249,SE,True,EN,Profugos 06,Profugos,Profugos 06,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2logXRCY7DwvwIAUsk,15735031,SE,True,EN,Epitafios,Epitafios (Epitaphs),Epitafios,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2oqw0IH1FvjSoJAUxT,15735528,SE,True,EN,Paul and Gina - Week Nine,In Treatment,Paul and Gina - Week Nine,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2p_ApPKlFvjSoJAU2Q,15735564,SE,True,EN,Adele - Week One,In Treatment,Adele - Week One,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2pdQjbeYNJjhsJAUxk,15735041,SE,True,EN,Epitafios,Epitafios (Epitaphs),Epitafios,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2rMQ2x-VFvjSoJAU7Y,15734894,SE,True,EN,Hijos del Carnaval 04,Hijos del Carnaval (Sons of the Carnival),Hijos del Carnaval 04,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2tIwTOvY7DwvwIAVL6,15734939,SE,True,EN,I Am Not the Fine Man You Take Me For,Deadwood Pass,I Am Not the Fine Man You Take Me For,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2tuAStAI7DwvwIAVOo,15736015,SE,True,EN,The Post-Antibiotic World/Indonesia's Palm Bomb,VICE,The Post-Antibiotic World/Indonesia's Palm Bomb,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2tXw4G9o7DwvwIAVNh,15734173,SE,True,EN,A Moody Guy and a Cutie Pie,Mujer de Fases (States of Grace),A Moody Guy and a Cutie Pie,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2tywT3qFFvjSoJAVFt,15734050,SE,True,EN,Mildred Pierce,Mildred Pierce,Mildred Pierce,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2u0AThK47DwvwIAVSj,15734219,SE,True,EN,Angels in America,Angels in America,Angels in America,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnAFQAs_GqJeisAIAAEq,15736093,SE,True,EN,Baby Bear's Baby Doll,Sesame Street,Baby Bear's Baby Doll,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU28twbPZ47DwvwIAWTb,15735755,SE,True,EN,Walter - Week Six,In Treatment,Walter - Week Six,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU29bwO4eI7DwvwIAWVs,15734754,SE,True,EN,Crossroads,Band of Brothers,Crossroads,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2cJw2CzY7DwvwIAT5w,15735774,SE,True,EN,Oliver - Week Three,In Treatment,Oliver - Week Three,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2e2AVWQINJjhsJAT6t,15735087,SE,True,EN,Main Justice,Newsroom,Main Justice,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2hNAX6PINJjhsJAUIU,15735227,SE,True,EN,Profugos 26,Profugos,Profugos 26,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2htguMVFFvjSoJAUO8,15734103,SE,True,EN,The Fifth,Garfunkel and Oates,The Fifth,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2irg1u847DwvwIAUdL,15735690,SE,True,EN,Jake and Amy - Week Six,In Treatment,Jake and Amy - Week Six,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2j5AUdAI7DwvwIAUjq,15735301,SE,True,EN,Role-Play,Girls,Role-Play,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2jAwF9i4NJjhsJAUSd,15734113,SE,True,EN,The Fourth,Garfunkel and Oates,The Fourth,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2jVQTGvI7DwvwIAUfx,15735703,SE,True,EN,Adele - Week Six,In Treatment,Adele - Week Six,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2lMQvc8Y7DwvwIAUp_,15735065,SE,True,EN,Epitafios,Epitafios (Epitaphs),Epitafios,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2sKQHWiY7DwvwIAVHp,15735058,SE,True,EN,Epitafios,Epitafios (Epitaphs),Epitafios,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2v6wJpVoNJjhsJAVLq,15736017,SE,True,EN,Corruption,VICE,Corruption,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2vdQxLtlFvjSoJAVLy,15735198,SE,True,EN,Profugos 20,Profugos,Profugos 20,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVnFTrwE-PcJak7gIAAgo,15734618,SE,True,EN,Pinky's Silliest Story/Tyler's Big Idea,Pinky Dinky Doo,Pinky's Silliest Story/Tyler's Big Idea,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU257QowRo7DwvwIAWG9,15735015,SE,True,EN,Leviathan Smiles,Deadwood Pass,Leviathan Smiles,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU26Xwuz4VFvjSoJAWAW,15735354,SE,True,EN,Beach House,Girls,Beach House,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU27CwiiwFFvjSoJAWC7,15735069,SE,True,EN,"Election Night, Part II",Newsroom,"Election Night, Part II",True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU27GwsuQ47DwvwIAWNU,15735072,SE,True,EN,Epitafios,Epitafios (Epitaphs),Epitafios,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU27Jgvn5YNJjhsJAWAe,15736046,SE,True,EN,A Syria of Their Own & White Gold,VICE,A Syria of Their Own & White Gold,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2b2QCrTYNJjhsJATtM,15734962,SE,True,EN,Unauthorized Cinnamon,Deadwood Pass,Unauthorized Cinnamon,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2f-Qyo9o7DwvwIAULw,15736051,SE,True,EN,The Afghan Money Pit & The Pacification of Rio,VICE,The Afghan Money Pit & The Pacification of Rio,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2gAAaKY47DwvwIAUMK,15735217,SE,True,EN,Profugos 14,Profugos,Profugos 14,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2gmQKfUVFvjSoJAUHl,15735637,SE,True,EN,Gina and Paul - Week Four,In Treatment,Gina and Paul - Week Four,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2gUAWs9FFvjSoJAUGC,15735157,SE,True,EN,The Box,The Family Tree,The Box,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2hpQYOlo7DwvwIAUWA,15734077,SE,True,EN,Mildred Pierce,Mildred Pierce,Mildred Pierce,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2i4gcPTY7DwvwIAUd_,15736038,SE,True,EN,American Scrap & Children of the Drones,VICE,American Scrap & Children of the Drones,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2iew8m3o7DwvwIAUbz,15735674,SE,True,EN,Walter - Week Three,In Treatment,Walter - Week Three,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2iOQRrkYNJjhsJAUOY,15734914,SE,True,EN,Hijos del Carnaval 02,Hijos del Carnaval (Sons of the Carnival),Hijos del Carnaval 02,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2kbQ8-eYNJjhsJAUZ6,15735728,SE,True,EN,Sophie - Week Four,In Treatment,Sophie - Week Four,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2lVAzFao7DwvwIAUqm,15736044,SE,True,EN,Love & Rockets,VICE,Love & Rockets,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2miAbF0Y7DwvwIAUw_,15734123,SE,True,EN,Reunion,John Adams,Reunion,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2mSgRV9YNJjhsJAUjW,15735506,SE,True,EN,Sunil - Week Seven,In Treatment,Sunil - Week Seven,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2n5QskYFFvjSoJAUt-,15734216,SE,True,EN,Life's Too Short,Life's Too Short,Life's Too Short,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU202AMJKo7DwvwIAVwk,15736059,SE,True,EN,Bad Borders,VICE,Bad Borders,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU207wwzilFvjSoJAVn_,15734772,SE,True,EN,The Breaking Point,Band of Brothers,The Breaking Point,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU20NwIZN47DwvwIAVtD,15735362,SE,True,EN,Dead Inside,Girls,Dead Inside,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU20tAhKSVFvjSoJAVm0,15734349,SE,True,EN,Tell Me You Love Me 03,Tell Me You Love Me,Tell Me You Love Me 03,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU21GgwvF47DwvwIAVxf,15734147,SE,True,EN,Unite or Die,John Adams,Unite or Die,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU21RQDjZoNJjhsJAVl9,15735336,SE,True,EN,Welcome to Bushwick a.k.a. The Crackcident,Girls,Welcome to Bushwick a.k.a. The Crackcident,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU21tw0E6lFvjSoJAVr4,15734228,SE,True,EN,Parade's End,Parade's End,Parade's End,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU21Uwjew47DwvwIAVy3,15734194,SE,True,EN,A Maniac and a Politician,Mujer de Fases (States of Grace),A Maniac and a Politician,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU22OgIiO4NJjhsJAVrE,15735018,SE,True,EN,In a Rush,Alice,In a Rush,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU22RQaxzFFvjSoJAVvK,15736053,SE,True,EN,Our Rising Oceans,VICE,Our Rising Oceans,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU22vAtabo7DwvwIAV6C,15734617,SE,True,EN,Incoming Tide,Olive Kitteridge,Incoming Tide,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU22ZgXwAFFvjSoJAVvr,15734995,SE,True,EN,Amalgamation and Capital,Deadwood Pass,Amalgamation and Capital,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU23HgbwPlFvjSoJAVy7,15735005,SE,True,EN,Tell Your God to Ready for Blood,Deadwood Pass,Tell Your God to Ready for Blood,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU23oAbPoFFvjSoJAV1H,15734957,SE,True,EN,Hijos del Carnaval 01,Hijos del Carnaval (Sons of the Carnival),Hijos del Carnaval 01,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU23PQP1NVFvjSoJAVzl,15736055,SE,True,EN,A Prayer for Uganda/Kidneyville,VICE,A Prayer for Uganda/Kidneyville,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU23qgMX247DwvwIAV-a,15735814,SE,True,EN,Alex - Week Eight,In Treatment,Alex - Week Eight,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU245wTuGFFvjSoJAV5e,15735346,SE,True,EN,Female Author,Girls,Female Author,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU24PA4WS1FvjSoJAV4Z,15735264,SE,True,EN,Profugos 12,Profugos,Profugos 12,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU24RQlQF1FvjSoJAV4i,15734627,SE,True,EN,Pharmacy,Olive Kitteridge,Pharmacy,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU25xwZbQoNJjhsJAV5g,15734205,SE,True,EN,A Shrink and a Surfer,Mujer de Fases (States of Grace),A Shrink and a Surfer,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU26vgda6I7DwvwIAWLA,15734160,SE,True,EN,Peacefield,John Adams,Peacefield,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2uGgieVo7DwvwIAVQG,15735292,SE,True,EN,Video Games,Girls,Video Games,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2uVwEc1VFvjSoJAVH5,15734979,SE,True,EN,Mr. Sumiko's Golden Fish,Alice,Mr. Sumiko's Golden Fish,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2vOgKRzY7DwvwIAVTi,15735008,SE,True,EN,Epitafios,Epitafios (Epitaphs),Epitafios,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2vuQyUooNJjhsJAVKo,15734736,SE,True,EN,Day of Days,Band of Brothers,Day of Days,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2wfglpa47DwvwIAVaT,15734091,SE,True,EN,The First,Garfunkel and Oates,The First,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2wmQs6vFFvjSoJAVRi,15734304,SE,True,EN,The Pacific,The Pacific,The Pacific,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2wZAj-X4NJjhsJAVN2,15734744,SE,True,EN,Points,Band of Brothers,Points,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2xBwkG-INJjhsJAVRr,15736022,SE,True,EN,Gangs & Oil,VICE,Gangs & Oil,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2xDwkoF1FvjSoJAVVL,15736024,SE,True,EN,Guns & Ammo,VICE,Guns & Ammo,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2y_gtz-o7DwvwIAVmH,15734497,SE,True,EN,The Long Bright Dark,True Detective,The Long Bright Dark,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2zQgaHUlFvjSoJAVeG,15735049,SE,True,EN,"First Thing We Do, Let's Kill All the Lawyers",Newsroom,"First Thing We Do, Let's Kill All the Lawyers",True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU30YAoZuo7DwvwIAaIq,15735403,SE,True,EN,Jake and Amy - Week Three,In Treatment,Jake and Amy - Week Three,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU32qwE1jYNJjhsJAaES,15734927,SE,True,EN,Boy the Earth Talks To,Deadwood Pass,Boy the Earth Talks To,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU32wwUTy47DwvwIAaSQ,15735420,SE,True,EN,Frances - Week Three,In Treatment,Frances - Week Three,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU33VgSoTI7DwvwIAaVL,15735434,SE,True,EN,Sophie - Week Seven,In Treatment,Sophie - Week Seven,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU34BwTLdY7DwvwIAaW9,15735043,SE,True,EN,Willie Pete,Newsroom,Willie Pete,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU37iwwBf1FvjSoJAaYc,15735360,SE,True,EN,Walter - Week One,In Treatment,Walter - Week One,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU37rQ6BaY7DwvwIAakO,15736009,SE,True,EN,Winners & Losers,VICE,Winners & Losers,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU37UgSVE47DwvwIAaiX,15735230,SE,True,EN,It's About Time,Girls,It's About Time,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU37wA43V1FvjSoJAaZT,15734206,SE,True,EN,Parade's End,Parade's End,Parade's End,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU38-gOhPVFvjSoJAadx,15734327,SE,True,EN,Tell Me You Love Me 10,Tell Me You Love Me,Tell Me You Love Me 10,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU38ewbHDI7DwvwIAanR,15734137,SE,True,EN,A Gentleman and a Handyman,Mujer de Fases (States of Grace),A Gentleman and a Handyman,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3DkwyRFYNJjhsJAWjF,15735025,SE,True,EN,Boston,Newsroom,Boston,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2wbQJ1GYNJjhsJAVOF,15735489,SE,True,EN,Jesse - Week Six,In Treatment,Jesse - Week Six,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2x4wbxHINJjhsJAVV8,15736020,SE,True,EN,Savior Seeds/India's Water Crisis,VICE,Savior Seeds/India's Water Crisis,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2xfgwKQY7DwvwIAVf2,15735016,SE,True,EN,Epitafios,Epitafios (Epitaphs),Epitafios,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2xlQdhm4NJjhsJAVUR,15734479,SE,True,EN,Haunted Houses,True Detective,Haunted Houses,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2zxgACfo7DwvwIAVrC,15735384,SE,True,EN,Jake and Amy - Week Four,In Treatment,Jake and Amy - Week Four,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2zzwKytYNJjhsJAVfJ,15735390,SE,True,EN,Gina and Paul - Week Three,In Treatment,Gina and Paul - Week Three,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3_DQGVwI7DwvwIAazY,15734945,SE,True,EN,Epitafios,Epitafios (Epitaphs),Epitafios,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3-BQFU7FFvjSoJAajz,15734208,SE,True,EN,Angels in America,Angels in America,Angels in America,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU33gQnqtYNJjhsJAaIR,15735037,SE,True,EN,I'll Try to Fix You,Newsroom,I'll Try to Fix You,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU378gDHt4NJjhsJAaYC,15735352,SE,True,EN,Adele - Week Two,In Treatment,Adele - Week Two,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3bgAAl3I7DwvwIAYbl,15735211,SE,True,EN,Jesse - Week Two,In Treatment,Jesse - Week Two,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3blA8_NI7DwvwIAYc-,15735218,SE,True,EN,April - Week Five,In Treatment,April - Week Five,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3bNAdgT1FvjSoJAYPu,15734838,SE,True,EN,No Other Sons or Daughters,Deadwood Pass,No Other Sons or Daughters,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3bSgvvkoNJjhsJAYN1,15734846,SE,True,EN,The Trial of Jack McCall,Deadwood Pass,The Trial of Jack McCall,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2nLgTvnI7DwvwIAU0E,15734136,SE,True,EN,Join or Die,John Adams,Join or Die,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2nYgwCe47DwvwIAU1E,15735515,SE,True,EN,Laura - Week Four,In Treatment,Laura - Week Four,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2o5gQajFFvjSoJAUyg,15736028,SE,True,EN,The Pink Gang Rebellion & Genetic Passport,VICE,The Pink Gang Rebellion & Genetic Passport,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2oDgcxr1FvjSoJAUuM,15734154,SE,True,EN,The Casual Vacancy,The Casual Vacancy,The Casual Vacancy,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2ooAgnUo7DwvwIAU5x,15734218,SE,True,EN,Parade's End,Parade's End,Parade's End,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2oWADDRFFvjSoJAUv6,15735035,SE,True,EN,Epitafios,Epitafios (Epitaphs),Epitafios,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2q4QHBMo7DwvwIAVDE,15735601,SE,True,EN,Jake and Amy - Week Five,In Treatment,Jake and Amy - Week Five,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2rjA0vEY7DwvwIAVFt,15736034,SE,True,EN,Sweet Home Alabama/Haitian Money Pit,VICE,Sweet Home Alabama/Haitian Money Pit,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2sgQgHYY7DwvwIAVJj,15735191,SE,True,EN,Profugos 23,Profugos,Profugos 23,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2ssAmALI7DwvwIAVKU,15735285,SE,True,EN,I Saw You,Girls,I Saw You,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2sUgt_SFFvjSoJAU_o,15735472,SE,True,EN,Sunil - Week Four,In Treatment,Sunil - Week Four,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2t-A3yxlFvjSoJAVGh,15734998,SE,True,EN,Epitafios,Epitafios (Epitaphs),Epitafios,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2tGQKdjYNJjhsJAU_l,15736013,SE,True,EN,Greenland Is Melting & Bonded Labor,VICE,Greenland Is Melting & Bonded Labor,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2ySQUnj4NJjhsJAVXs,15736026,SE,True,EN,Terrorist University & Armageddon Now,VICE,Terrorist University & Armageddon Now,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2zcgn2wo7DwvwIAVo1,15735210,SE,True,EN,Profugos 08,Profugos,Profugos 08,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2zegF-247DwvwIAVpA,15735497,SE,True,EN,Sophie - Week Three,In Treatment,Sophie - Week Three,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2ztQfkWYNJjhsJAVeb,15735246,SE,True,EN,Daddy Issues,Girls,Daddy Issues,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3-qwKdC47DwvwIAaxj,15735254,SE,True,EN,Cubbies,Girls,Cubbies,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU35DAAkhINJjhsJAaNb,15735262,SE,True,EN,Free Snacks,Girls,Free Snacks,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU28IAWjf4NJjhsJAWD1,15735310,SE,True,EN,Flo,Girls,Flo,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2dJgAnGlFvjSoJAT2-,15735082,SE,True,EN,The 112th Congress,Newsroom,The 112th Congress,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2f2wDtro7DwvwIAUK_,15734947,SE,True,EN,Love Boat,Hijos del Carnaval (Sons of the Carnival),Love Boat,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2ffg2NDY7DwvwIAUJV,15734983,SE,True,EN,Day 33,Five Days,Day 33,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2haAHuAVFvjSoJAUNo,15735232,SE,True,EN,Profugos 07,Profugos,Profugos 07,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2hcwORm4NJjhsJAUJ2,15736036,SE,True,EN,Crude Awakening & The Enemy of My Enemy,VICE,Crude Awakening & The Enemy of My Enemy,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2hSQ4nwFFvjSoJAUM2,15735649,SE,True,EN,Mia - Week Five,In Treatment,Mia - Week Five,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2k7QbLcVFvjSoJAUgd,15735240,SE,True,EN,Profugos 04,Profugos,Profugos 04,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2kpgmvaVFvjSoJAUfQ,15734951,SE,True,EN,Deep Water,Deadwood Pass,Deep Water,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2kRA2xMY7DwvwIAUld,15734184,SE,True,EN,A Smoker and a Mystic,Mujer de Fases (States of Grace),A Smoker and a Mystic,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2kTwHOdINJjhsJAUZW,15734924,SE,True,EN,Hijos Del Carnaval 08,Hijos del Carnaval (Sons of the Carnival),Hijos Del Carnaval 08,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2lJQifq1FvjSoJAUhk,15736042,SE,True,EN,Killer Kids,VICE,Killer Kids,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2pFAYbaINJjhsJAUvY,15735055,SE,True,EN,Contempt,Newsroom,Contempt,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2ppAV7yo7DwvwIAU-H,15735047,SE,True,EN,Epitafios,Epitafios (Epitaphs),Epitafios,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2pPwmPEo7DwvwIAU88,15735542,SE,True,EN,Frances - Week Five,In Treatment,Frances - Week Five,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2puAAjflFvjSoJAU1e,15735053,SE,True,EN,Epitafios,Epitafios (Epitaphs),Epitafios,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2q1w63G4NJjhsJAU2p,15735581,SE,True,EN,Alex - Week Six,In Treatment,Alex - Week Six,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2q9AiuhI7DwvwIAVDU,15736030,SE,True,EN,Surveillance City & The Forgotten War,VICE,Surveillance City & The Forgotten War,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2qpATyW1FvjSoJAU41,15735615,SE,True,EN,Oliver - Week Seven,In Treatment,Oliver - Week Seven,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2qSwvFWo7DwvwIAVAV,15734201,SE,True,EN,Russell Simmons Presents Brave New Voices,Russell Simmons Presents Brave New Voices,Russell Simmons Presents Brave New Voices,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2r7g2uEVFvjSoJAU-G,15736032,SE,True,EN,To Serve and Protect/Coming to America,VICE,To Serve and Protect/Coming to America,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2rfgWNy47DwvwIAVFY,15734902,SE,True,EN,Hijos Del Carnaval 07,Hijos del Carnaval (Sons of the Carnival),Hijos Del Carnaval 07,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2tDwffo1FvjSoJAVCn,15736011,SE,True,EN,Addiction,VICE,Addiction,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2v0QUgC4NJjhsJAVLK,15734990,SE,True,EN,In Alice's City,Alice,In Alice's City,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3eQgOhP4NJjhsJAYcV,15734282,SE,True,EN,The Pacific,The Pacific,The Pacific,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3eTQMLQ1FvjSoJAYfX,15734853,SE,True,EN,New Money,Deadwood Pass,New Money,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3flA1qfYNJjhsJAYib,15734864,SE,True,EN,Something Very Expensive,Deadwood Pass,Something Very Expensive,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3FNQWBOo7DwvwIAW3w,15735291,SE,True,EN,Paul and Gina - Week Two,In Treatment,Paul and Gina - Week Two,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3IRAjaWINJjhsJAW5v,15735308,SE,True,EN,Gina and Paul - Week Six,In Treatment,Gina and Paul - Week Six,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3IzwEK8FFvjSoJAXAh,15735319,SE,True,EN,Mia - Week One,In Treatment,Mia - Week One,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3LfwQ_8FFvjSoJAXKB,15734952,SE,True,EN,Alice's Treasure,Alice,Alice's Treasure,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3ljQKLG47DwvwIAZGR,15735188,SE,True,EN,Sunil - Week Three,In Treatment,Sunil - Week Three,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3mhg2ZJVFvjSoJAZAX,15734271,SE,True,EN,The Pacific,The Pacific,The Pacific,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3MLQi4tFFvjSoJAXNe,15734125,SE,True,EN,An Emo and a Mensch,Mujer de Fases (States of Grace),An Emo and a Mensch,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3mVQtDzo7DwvwIAZJ6,15734115,SE,True,EN,An Argentinian and a Poor Devil,Mujer de Fases (States of Grace),An Argentinian and a Poor Devil,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3N9QmctFFvjSoJAXU8,15735007,SE,True,EN,Bullies,Newsroom,Bullies,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3nAAdiu47DwvwIAZMN,15735193,SE,True,EN,Mia - Week Seven,In Treatment,Mia - Week Seven,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3npAoiB4NJjhsJAZBj,15734717,SE,True,EN,Replacements,Band of Brothers,Replacements,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3nuAog5I7DwvwIAZPL,15734414,SE,True,EN,Form and Void,True Detective,Form and Void,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3O3QKQ3Y7DwvwIAXii,15735253,SE,True,EN,April - Week Three,In Treatment,April - Week Three,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3O8QmJllFvjSoJAXYW,15735176,SE,True,EN,Profugos 09,Profugos,Profugos 09,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3cbgR391FvjSoJAYW7,15734922,SE,True,EN,The Dark Side of the Mirror,Alice,The Dark Side of the Mirror,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3CLQ7AE47DwvwIAWrs,15734965,SE,True,EN,Highly Sensitive,Alice,Highly Sensitive,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3CmwKyeYNJjhsJAWgO,15734884,SE,True,EN,Hijos Del Carnaval 09,Hijos del Carnaval (Sons of the Carnival),Hijos Del Carnaval 09,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3dYAMTw1FvjSoJAYau,15735225,SE,True,EN,Paul and Gina - Week Eight,In Treatment,Paul and Gina - Week Eight,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3GTgF9I4NJjhsJAWwH,15736003,SE,True,EN,The Resource Curse & Deliver Us from Drought,VICE,The Resource Curse & Deliver Us from Drought,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3guQLsSVFvjSoJAYqQ,15734142,SE,True,EN,The Casual Vacancy,The Casual Vacancy,The Casual Vacancy,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3H0QFLtFFvjSoJAW65,15735300,SE,True,EN,Walter - Week Five,In Treatment,Walter - Week Five,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3H2gGyAY7DwvwIAXFd,15734966,SE,True,EN,Epitafios,Epitafios (Epitaphs),Epitafios,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3iogFfgoNJjhsJAYtu,15734875,SE,True,EN,Blood Brothers,Hijos del Carnaval (Sons of the Carnival),Blood Brothers,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3JawSOr1FvjSoJAXCP,15735326,SE,True,EN,Laura - Week Seven,In Treatment,Laura - Week Seven,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3LCwEHKINJjhsJAXFJ,15735222,SE,True,EN,All Adventurous Women Do,Girls,All Adventurous Women Do,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU35nQ3DjY7DwvwIAadX,15735269,SE,True,EN,Close-Up,Girls,Close-Up,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU39vginboNJjhsJAafL,15735237,SE,True,EN,Sit-In,Girls,Sit-In,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3AhAhCjYNJjhsJAWXV,15734987,SE,True,EN,Epitafios,Epitafios (Epitaphs),Epitafios,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3crQvwu4NJjhsJAYVQ,15734920,SE,True,EN,Epitafios,Epitafios (Epitaphs),Epitafios,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3D_AqijVFvjSoJAWod,15735369,SE,True,EN,Walter - Week Two,In Treatment,Walter - Week Two,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3d-AjpVoNJjhsJAYal,15735156,SE,True,EN,Profugos 05,Profugos,Profugos 05,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3d5wlR94NJjhsJAYaR,15734934,SE,True,EN,Free Falling,Alice,Free Falling,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3dQwfZ_4NJjhsJAYXZ,15735194,SE,True,EN,One Man's Trash,Girls,One Man's Trash,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3Ecgpduo7DwvwIAW0Y,15735029,SE,True,EN,We Just Decided To,Newsroom,We Just Decided To,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3Hngbec4NJjhsJAW15,15734316,SE,True,EN,Tell Me You Love Me 09,Tell Me You Love Me,Tell Me You Love Me 09,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3huAPwn47DwvwIAY5G,15734941,SE,True,EN,The Blackout Part II: Mock Debate,Newsroom,The Blackout Part II: Mock Debate,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3iUw8If1FvjSoJAYwJ,15735171,SE,True,EN,Gina and Paul - Week One,In Treatment,Gina and Paul - Week One,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3J_QsQ14NJjhsJAXAc,15736005,SE,True,EN,Playing with Nuclear Fire & No Man Left Behind,VICE,Playing with Nuclear Fire & No Man Left Behind,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3jpwYb9Y7DwvwIAY_a,15734105,SE,True,EN,A Politically Correct Guy and a Bohemian,Mujer de Fases (States of Grace),A Politically Correct Guy and a Bohemian,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3KCQWtcYNJjhsJAXBB,15735335,SE,True,EN,Alex - Week Seven,In Treatment,Alex - Week Seven,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2yqAxRrFFvjSoJAVbu,15734339,SE,True,EN,Tell Me You Love Me 05,Tell Me You Love Me,Tell Me You Love Me 05,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2yzgrsMo7DwvwIAVln,15735204,SE,True,EN,Profugos 01,Profugos,Profugos 01,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2z3w4d-4NJjhsJAVfh,15734064,SE,True,EN,Mildred Pierce,Mildred Pierce,Mildred Pierce,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2zDAihCVFvjSoJAVdI,15735022,SE,True,EN,Epitafios,Epitafios (Epitaphs),Epitafios,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU2zgQxV6oNJjhsJAVdG,15735377,SE,True,EN,Frances - Week Four,In Treatment,Frances - Week Four,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU31eQPfMlFvjSoJAaBn,15734918,SE,True,EN,A Two-Headed Beast,Deadwood Pass,A Two-Headed Beast,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU31sgWn9oNJjhsJAaAL,15734727,SE,True,EN,The Patrol,Band of Brothers,The Patrol,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU34OwSSrFFvjSoJAaMY,15734462,SE,True,EN,Who Goes There,True Detective,Who Goes There,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU35QgC7YoNJjhsJAaOf,15735453,SE,True,EN,Jake and Amy - Week One,In Treatment,Jake and Amy - Week One,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU35qQLWxFFvjSoJAaSe,15734081,SE,True,EN,The Third,Garfunkel and Oates,The Third,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU36DwI8a47DwvwIAae6,15735277,SE,True,EN,Vagina Panic,Girls,Vagina Panic,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU37_QZNwFFvjSoJAaaZ,15734975,SE,True,EN,Epitafios,Epitafios (Epitaphs),Epitafios,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU39SQikpI7DwvwIAaq1,15734148,SE,True,EN,A Millionaire and an Athlete,Mujer de Fases (States of Grace),A Millionaire and an Athlete,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3aHA8k5o7DwvwIAYWR,15735135,SE,True,EN,Welcome to America,The Family Tree,Welcome to America,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3aUQ0ATINJjhsJAYJ7,15734191,SE,True,EN,Russell Simmons Presents Brave New Voices,Russell Simmons Presents Brave New Voices,Russell Simmons Presents Brave New Voices,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3B0Aox94NJjhsJAWcB,15735149,SE,True,EN,Indians,The Family Tree,Indians,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3cRwX5ZY7DwvwIAYge,15735142,SE,True,EN,Cowboys,The Family Tree,Cowboys,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3EFgg2blFvjSoJAWo0,15734449,SE,True,EN,The Secret Fate of All Life,True Detective,The Secret Fate of All Life,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3vpQZqZo7DwvwIAZzn,15735169,SE,True,EN,Tad & Loreen & Avi & Shanaz,Girls,Tad & Loreen & Avi & Shanaz,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3x_QojnVFvjSoJAZzZ,15734819,SE,True,EN,A Constant Throb,Deadwood Pass,A Constant Throb,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3x0whWWVFvjSoJAZyu,15735165,SE,True,EN,Frances - Week Seven,In Treatment,Frances - Week Seven,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3Xewk4Z1FvjSoJAYBY,15734933,SE,True,EN,Epitafios,Epitafios (Epitaphs),Epitafios,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3XwQysLINJjhsJAYAb,15734943,SE,True,EN,The Garden of the Lost Flowers,Alice,The Garden of the Lost Flowers,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3y_AsBR4NJjhsJAZ0p,15735153,SE,True,EN,It's a Shame About Ray,Girls,It's a Shame About Ray,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3y6AdItlFvjSoJAZ28,15735081,SE,True,EN,Sophie - Week Two,In Treatment,Sophie - Week Two,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3zRQFeRlFvjSoJAZ4T,15735086,SE,True,EN,Laura - Week Eight,In Treatment,Laura - Week Eight,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU451g4teFFvjSoJAeQS,15735113,SE,True,EN,Alex - Week Five,In Treatment,Alex - Week Five,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU46_wFDEY7DwvwIAeh-,15734269,SE,True,EN,Tell Me You Love Me 06,Tell Me You Love Me,Tell Me You Love Me 06,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU46DA6HpoNJjhsJAeMp,15734164,SE,True,EN,Life's Too Short,Life's Too Short,Life's Too Short,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU46QQjUWVFvjSoJAeSo,15734785,SE,True,EN,Plague,Deadwood Pass,Plague,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU47Bgp-e1FvjSoJAeVl,15735033,SE,True,EN,Laura - Week One,In Treatment,Laura - Week One,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU47Jgp7b1FvjSoJAeWM,15735039,SE,True,EN,Sophie - Week Six,In Treatment,Sophie - Week Six,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4a9w52bINJjhsJAcXR,15734165,SE,True,EN,Angels in America,Angels in America,Angels in America,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3lUwhTRo7DwvwIAZEf,15734955,SE,True,EN,News Night with Will McAvoy,Newsroom,News Night with Will McAvoy,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3lZQGPk1FvjSoJAY69,15735183,SE,True,EN,Sunil - Week Six,In Treatment,Sunil - Week Six,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3oAgjvJI7DwvwIAZQT,15734828,SE,True,EN,Tell Him Something Pretty,Deadwood Pass,Tell Him Something Pretty,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3qXAmk31FvjSoJAZPE,15735139,SE,True,EN,Oliver - Week Five,In Treatment,Oliver - Week Five,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3r6Qgc-o7DwvwIAZjl,15734709,SE,True,EN,Bastogne,Band of Brothers,Bastogne,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3sBABCE47DwvwIAZkN,15734197,SE,True,EN,Angels in America,Angels in America,Angels in America,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3SBQ6TEY7DwvwIAXwP,15735275,SE,True,EN,Oliver - Week Two,In Treatment,Oliver - Week Two,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3UCgSWPVFvjSoJAXvN,15735231,SE,True,EN,Gina and Paul - Week Seven,In Treatment,Gina and Paul - Week Seven,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3udQGvnFFvjSoJAZkX,15734810,SE,True,EN,Full Faith and Credit,Deadwood Pass,Full Faith and Credit,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3uLwronINJjhsJAZf4,15735150,SE,True,EN,Profugos 19,Profugos,Profugos 19,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3utAegqFFvjSoJAZlO,15734176,SE,True,EN,Life's Too Short,Life's Too Short,Life's Too Short,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3uvAzM5lFvjSoJAZlX,15735158,SE,True,EN,Frances - Week Six,In Treatment,Frances - Week Six,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3uXQIBPINJjhsJAZgv,15735151,SE,True,EN,Oliver - Week Four,In Treatment,Oliver - Week Four,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3VewSTsI7DwvwIAYBp,15734429,SE,True,EN,Seeing Things,True Detective,Seeing Things,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3WLACq9o7DwvwIAYEv,15735996,SE,True,EN,The Hermit Kingdom,VICE,The Hermit Kingdom,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3wrAaQgINJjhsJAZqt,15734900,SE,True,EN,Epitafios,Epitafios (Epitaphs),Epitafios,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3wxARaw1FvjSoJAZuA,15734867,SE,True,EN,Secret Santa,Hijos del Carnaval (Sons of the Carnival),Secret Santa,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3negDxFoNJjhsJAZA5,15735187,SE,True,EN,Boys,Girls,Boys,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3oFAtrClFvjSoJAZGL,15734674,SE,True,EN,The Gangster's Daughter,The Jinx: The Life and Deaths of Robert Durst,The Gangster's Daughter,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3ougt5qoNJjhsJAZGG,15735199,SE,True,EN,Walter - Week Four,In Treatment,Walter - Week Four,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3P7QVLwI7DwvwIAXm8,15735259,SE,True,EN,Sophie - Week One,In Treatment,Sophie - Week One,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3pcgrag47DwvwIAZV1,15734910,SE,True,EN,Epitafios,Epitafios (Epitaphs),Epitafios,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3POQnqYlFvjSoJAXZo,15735266,SE,True,EN,Sunil - Week One,In Treatment,Sunil - Week One,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3prQmvwoNJjhsJAZJE,15734974,SE,True,EN,Day 1,Five Days,Day 1,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3pTAp6vYNJjhsJAZH9,15735205,SE,True,EN,Paul and Gina - Week Seven,In Treatment,Paul and Gina - Week Seven,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3q5QaJmFFvjSoJAZTL,15735132,SE,True,EN,Sophie - Week Nine,In Treatment,Sophie - Week Nine,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3Qjg8ZR4NJjhsJAXb3,15734956,SE,True,EN,Epitafios,Epitafios (Epitaphs),Epitafios,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3rCQEN-I7DwvwIAZfV,15735144,SE,True,EN,Alex - Week Three,In Treatment,Alex - Week Three,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3RqwOv9Y7DwvwIAXuS,15734899,SE,True,EN,"Advances, None Miraculous",Deadwood Pass,"Advances, None Miraculous",True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3rWQdmF4NJjhsJAZTr,15734968,SE,True,EN,Day 3,Five Days,Day 3,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3syw7crY7DwvwIAZoB,15734890,SE,True,EN,Epitafios,Epitafios (Epitaphs),Epitafios,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3tbwK8vo7DwvwIAZq1,15735143,SE,True,EN,Profugos 02,Profugos,Profugos 02,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3V5wBU9INJjhsJAX1g,15734973,SE,True,EN,News Night 2.0,Newsroom,News Night 2.0,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3EkwjN74NJjhsJAWoW,15735186,SE,True,EN,Profugos 16,Profugos,Profugos 16,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3EMwuChoNJjhsJAWmE,15734162,SE,True,EN,A Major and a Minor,Mujer de Fases (States of Grace),A Major and a Minor,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3etwMJklFvjSoJAYha,15734302,SE,True,EN,Tell Me You Love Me 02,Tell Me You Love Me,Tell Me You Love Me 02,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3F5QEU5VFvjSoJAWxq,15735180,SE,True,EN,Profugos 22,Profugos,Profugos 22,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3FpAMhx4NJjhsJAWtb,15736000,SE,True,EN,Egyptian Tomb Raiders/Rent a White Guy,VICE,Egyptian Tomb Raiders/Rent a White Guy,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3knAYvpo7DwvwIAZB1,15734187,SE,True,EN,Life's Too Short,Life's Too Short,Life's Too Short,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3KPwc8bYNJjhsJAXCF,15735214,SE,True,EN,Together,Girls,Together,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3kRQXLpo7DwvwIAZAp,15735181,SE,True,EN,Ask Me My Name,Girls,Ask Me My Name,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3Ktw4i9INJjhsJAXDn,15735345,SE,True,EN,April - Week Four,In Treatment,April - Week Four,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3l-wNQ6o7DwvwIAZIL,15735177,SE,True,EN,Jake and Amy - Week Eight,In Treatment,Jake and Amy - Week Eight,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3LJAjSrYNJjhsJAXFc,15736007,SE,True,EN,Heroin Warfare & The Coldest War,VICE,Heroin Warfare & The Coldest War,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3O-QopNY7DwvwIAXjK,15735170,SE,True,EN,Profugos 18,Profugos,Profugos 18,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4BXAGuvo7DwvwIAa72,15734281,SE,True,EN,Tell Me You Love Me 01,Tell Me You Love Me,Tell Me You Love Me 01,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4BYwmvIFFvjSoJAaxQ,15735056,SE,True,EN,Jake and Amy - Week Seven,In Treatment,Jake and Amy - Week Seven,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4bZgsB2I7DwvwIAcnF,15735099,SE,True,EN,Hannah's Diary,Girls,Hannah's Diary,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4cYw6xalFvjSoJAcg2,15734702,SE,True,EN,True Colors,Deadwood Pass,True Colors,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4EZw3Rgo7DwvwIAbLL,15734912,SE,True,EN,Alice's War,Alice,Alice's War,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4FXwBDIVFvjSoJAbEm,15734880,SE,True,EN,Epitafios,Epitafios (Epitaphs),Epitafios,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4hKgRjsYNJjhsJAcul,15734843,SE,True,EN,Adele - Week Seven,In Treatment,Adele - Week Seven,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4hywrKTY7DwvwIAdAO,15734161,SE,True,EN,Russell Simmons Presents Brave New Voices,Russell Simmons Presents Brave New Voices,Russell Simmons Presents Brave New Voices,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4jzQqZDFFvjSoJAc87,15735104,SE,True,EN,Profugos 15,Profugos,Profugos 15,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4KyQZCMo7DwvwIAblu,15734757,SE,True,EN,Deadwood,Deadwood Pass,Deadwood,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4LNQkYzo7DwvwIAbnM,15734767,SE,True,EN,Jewel's Boot Is Made for Walking,Deadwood Pass,Jewel's Boot Is Made for Walking,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4lUQgjt4NJjhsJAc-1,15734888,SE,True,EN,Mia - Week Three,In Treatment,Mia - Week Three,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4MjwtH81FvjSoJAbia,15734175,SE,True,EN,Angels in America,Angels in America,Angels in America,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4mkQ742Y7DwvwIAdUx,15734904,SE,True,EN,April - Week One,In Treatment,April - Week One,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4msgY8MI7DwvwIAdVX,15735089,SE,True,EN,Bad Friend,Girls,Bad Friend,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3xjw8dloNJjhsJAZve,15735074,SE,True,EN,Laura - Week Three,In Treatment,Laura - Week Three,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3YTwz6WVFvjSoJAYFo,15734439,SE,True,EN,Night Finds You,True Detective,Night Finds You,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3Z5gPATlFvjSoJAYKR,15734996,SE,True,EN,The Greater Fool,Newsroom,The Greater Fool,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3ZnwCFRFFvjSoJAYJL,15734112,SE,True,EN,Independence,John Adams,Independence,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3zrAxOvoNJjhsJAZ33,15735091,SE,True,EN,Jesse - Week Seven,In Treatment,Jesse - Week Seven,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU42_A4cKFFvjSoJAeD0,15734658,SE,True,EN,Poor Little Rich Boy,The Jinx: The Life and Deaths of Robert Durst,Poor Little Rich Boy,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU44rg3VwlFvjSoJAeJ9,15735107,SE,True,EN,Jesse - Week Three,In Treatment,Jesse - Week Three,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU45RAuouYNJjhsJAeIr,15735118,SE,True,EN,Gina and Paul - Week Five,In Treatment,Gina and Paul - Week Five,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU45zg6dNFFvjSoJAeP8,15735125,SE,True,EN,Mia - Week Two,In Treatment,Mia - Week Two,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4A-wjEOVFvjSoJAavK,15734182,SE,True,EN,Russell Simmons Presents Brave New Voices,Russell Simmons Presents Brave New Voices,Russell Simmons Presents Brave New Voices,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4Ciwdjgo7DwvwIAbCq,15734096,SE,True,EN,A Butcher and a Devout,Mujer de Fases (States of Grace),A Butcher and a Devout,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4dFQ0IVY7DwvwIAcuA,15734915,SE,True,EN,Jesse - Week One,In Treatment,Jesse - Week One,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4DgwW9uY7DwvwIAbHR,15734647,SE,True,EN,What the Hell Did I Do?,The Jinx: The Life and Deaths of Robert Durst,What the Hell Did I Do?,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4E6gF5hFFvjSoJAbDE,15735136,SE,True,EN,Profugos 24,Profugos,Profugos 24,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4eAgGE0lFvjSoJAcnD,15734946,SE,True,EN,Paul and Gina - Week Five,In Treatment,Paul and Gina - Week Five,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4fcQO_3INJjhsJAcop,15734907,SE,True,EN,Run,Newsroom,Run,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4G-Q6OF1FvjSoJAbKL,15735122,SE,True,EN,Profugos 03,Profugos,Profugos 03,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4hNAfQG4NJjhsJAcu3,15734217,SE,True,EN,The Pacific,The Pacific,The Pacific,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4Irwl_JFFvjSoJAbRf,15735126,SE,True,EN,The Return,Girls,The Return,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3X_AB9d1FvjSoJAYEX,15734887,SE,True,EN,Bullock Returns to the Camp,Deadwood Pass,Bullock Returns to the Camp,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3Xyg3mmoNJjhsJAYAr,15735164,SE,True,EN,Profugos 17,Profugos,Profugos 17,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3yCQ5fdlFvjSoJAZzp,15734792,SE,True,EN,The Whores Can Come,Deadwood Pass,The Whores Can Come,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3YRgr7UoNJjhsJAYCT,15735207,SE,True,EN,Truth or Dare,Girls,Truth or Dare,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU40TQYDN47DwvwIAeGU,15734699,SE,True,EN,Why We Fight,Band of Brothers,Why We Fight,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU42Lg3sIYNJjhsJAd73,15734291,SE,True,EN,Tell Me You Love Me 08,Tell Me You Love Me,Tell Me You Love Me 08,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU43oQKt1I7DwvwIAeTW,15734664,SE,True,EN,Stay Frosty,Generation Kill,Stay Frosty,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU44mQTxNoNJjhsJAeFa,15734931,SE,True,EN,Oh Shenandoah,Newsroom,Oh Shenandoah,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU47NA3nLYNJjhsJAeRj,15735045,SE,True,EN,Jesse - Week Four,In Treatment,Jesse - Week Four,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4A8wuBZ47DwvwIAa51,15734086,SE,True,EN,A Cheat and a Certain Person,Mujer de Fases (States of Grace),A Cheat and a Certain Person,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4AfgAhvI7DwvwIAa4U,15735050,SE,True,EN,Jake and Amy - Week Nine,In Treatment,Jake and Amy - Week Nine,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4bKAfMfI7DwvwIAcmA,15734897,SE,True,EN,The Blackout Part I: Tragedy Porn,Newsroom,The Blackout Part I: Tragedy Porn,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4ddAX1FFFvjSoJAckq,15735986,SE,True,EN,Cold War 2.0,VICE,Cold War 2.0,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4dfQKpwFFvjSoJAcks,15734132,SE,True,EN,Life's Too Short Special,Life's Too Short,Life's Too Short Special,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4diQE6vVFvjSoJAcku,15734845,SE,True,EN,Hijos del Carnaval 03,Hijos del Carnaval (Sons of the Carnival),Hijos del Carnaval 03,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4drA5C9INJjhsJAciL,15734936,SE,True,EN,Laura - Week Six,In Treatment,Laura - Week Six,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4duAL3Po7DwvwIAcwi,15735114,SE,True,EN,The Austerity Games,The Family Tree,The Austerity Games,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU4dYgOyJ4NJjhsJAchD,15734925,SE,True,EN,Alex - Week One,In Treatment,Alex - Week One,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3OjQkMVI7DwvwIAXhZ,15734202,SE,True,EN,Life's Too Short,Life's Too Short,Life's Too Short,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3pmAWboYNJjhsJAZIx,15734040,SE,True,EN,Mildred Pierce,Mildred Pierce,Mildred Pierce,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3pMQLKOo7DwvwIAZVN,15734964,SE,True,EN,The Genoa Tip,Newsroom,The Genoa Tip,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3SxgIq31FvjSoJAXpl,15735281,SE,True,EN,Jake and Amy - Week Two,In Treatment,Jake and Amy - Week Two,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3t_AVUAFFvjSoJAZiU,15735163,SE,True,EN,Home Birth,Girls,Home Birth,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3TEwm33Y7DwvwIAX1q,15735017,SE,True,EN,Amen,Newsroom,Amen,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3TmwUXl47DwvwIAX3o,15735201,SE,True,EN,Triggering,Girls,Triggering,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3TTQWLV47DwvwIAX2i,15734908,SE,True,EN,Here Was a Man,Deadwood Pass,Here Was a Man,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3W4wnOW47DwvwIAYJ8,15734986,SE,True,EN,Red Team III,Newsroom,Red Team III,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3WuAQxiY7DwvwIAYIu,15735238,SE,True,EN,Oliver - Week Six,In Treatment,Oliver - Week Six,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3X2w3H5I7DwvwIAYOV,15735245,SE,True,EN,Adele - Week Three,In Treatment,Adele - Week Three,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3XDw1Mp1FvjSoJAX_v,15734876,SE,True,EN,Reconnoitering the Rim,Deadwood Pass,Reconnoitering the Rim,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3xIAnP41FvjSoJAZvv,15735174,SE,True,EN,She Said OK,Girls,She Said OK,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3YHgLcrlFvjSoJAYFJ,15735998,SE,True,EN,Lines in the Sand/Outsourcing Embryos,VICE,Lines in the Sand/Outsourcing Embryos,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3z1gyPxVFvjSoJAZ7F,15734186,SE,True,EN,Angels in America,Angels in America,Angels in America,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU3ZiwgumI7DwvwIAYTU,15734293,SE,True,EN,The Pacific,The Pacific,The Pacific,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU40-w3fc4NJjhsJAd3W,15735095,SE,True,EN,Frances - Week One,In Treatment,Frances - Week One,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+urn:hbo:episode:GVU408wnSbYNJjhsJAd3M,15734252,SE,True,EN,The Pacific,The Pacific,The Pacific,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
