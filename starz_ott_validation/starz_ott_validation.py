@@ -33,7 +33,7 @@ class starz_ott_validation:
         self.writer=''
         self.link_expired=''
         self.running_datetime=datetime.datetime.today().strftime('%Y-%m-%d %H:%M:%S')
-        self.fieldnames = ["%s_id"%self.service,"Projectx_id","show_type","px_video_link_present","%s_link_present"%self.service,"ott_link_result","mapping","","Expired"]
+        self.fieldnames = ["%s_id"%self.service,"Projectx_id","show_type","px_video_link_present","Series_id","%s_link_present"%self.service,"ott_link_result","mapping","","Expired"]
 
     def mongo_mysql_connection(self):
         self.connection= pymysql.connect(host="127.0.0.1", user="root", password="root@123",
@@ -42,11 +42,11 @@ class starz_ott_validation:
 
     def get_env_url(self):
         self.prod_domain="api.caavo.com"
-        self.projectx_domain="preprod.caavo.com"
+        self.projectx_domain="test.caavo.com"
         self.expired_api='https://%s/expired_ott/is_available?source_program_id=%s&service_short_name=%s'
-        self.source_mapping_api="http://preprod-projectx-api-545109534.us-east-1.elb.amazonaws.com/projectx/mappingfromsource?sourceIds=%s&sourceName=%s&showType=%s"
-        self.projectx_programs_api='https://preprod.caavo.com/programs?ids=%s&ott=true&aliases=true&service=%s'
-        self.projectx_mapping_api='http://preprod-projectx-api-545109534.us-east-1.elb.amazonaws.com/projectx/%d/mapping/'
+        self.source_mapping_api="http://beta-projectx-api-1289873303.us-east-1.elb.amazonaws.com/projectx/mappingfromsource?sourceIds=%s&sourceName=%s&showType=%s"
+        self.projectx_programs_api='https://test.caavo.com/programs?ids=%s&ott=true&aliases=true&service=%s'
+        self.projectx_mapping_api='http://beta-projectx-api-1289873303.us-east-1.elb.amazonaws.com/projectx/%d/mapping/'
 
     #TODO: to get projectx_id details OTT link id from programs api
     def getting_projectx_ott_details(self,projectx_id,show_type): 
@@ -56,9 +56,7 @@ class starz_ott_validation:
         launch_id=[]
         #import pdb;pdb.set_trace()
         projectx_api=self.projectx_programs_api%(projectx_id,self.service)
-        px_resp=urllib2.urlopen(urllib2.Request(projectx_api,None,{'Authorization':self.token}))
-        data_px=px_resp.read()
-        data_px_resp=json.loads(data_px)
+        data_px_resp=lib_common_modules().fetch_response_for_api_(projectx_api,self.token)
         if data_px_resp!=[]:
             for data in data_px_resp:
                 px_video_link= data.get("videos")
@@ -86,14 +84,12 @@ class starz_ott_validation:
                 if projectx_details!='Null':
                     self.link_expired=lib_common_modules().link_expiry_check_(self.expired_api,self.projectx_domain,self.starz_id,self.service,self.expired_token)
                     ott_validation_result=ott_meta_data_validation_modules().ott_validation(projectx_details,self.starz_id)
-                    self.writer.writerow([self.starz_id,projectx_id,self.show_type,projectx_details["px_video_link_present"],
-                              '',ott_validation_result,only_mapped_ids["source_flag"],'',self.link_expired])
+                    self.writer.writerow([self.starz_id,projectx_id,self.show_type,projectx_details["px_video_link_present"],data["series_id"],'',ott_validation_result,only_mapped_ids["source_flag"],'',self.link_expired])
                 else:
-                    self.writer.writerow([self.starz_id,projectx_id,self.show_type,projectx_details,
-                             '','',only_mapped_ids["source_flag"],'Px_response_null'])
+                    self.writer.writerow([self.starz_id,projectx_id,self.show_type,projectx_details,data["series_id"],'','',only_mapped_ids["source_flag"],'Px_response_null'])
             else:
                 self.total+=1            
-                self.writer.writerow([self.starz_id,'',self.show_type,'','',only_mapped_ids,'Px_id_null'])              
+                self.writer.writerow([self.starz_id,'',self.show_type,'',data["series_id"],'',only_mapped_ids,'Px_id_null'])              
         except (Exception,httplib.BadStatusLine,urllib2.HTTPError,socket.error,urllib2.URLError,RuntimeError) as e:
             self.retry_count+=1
             print("Retrying...............................",self.retry_count)
