@@ -116,11 +116,7 @@ class mata_data_validation_starz:
         self.link_expired=''
         self.running_datetime=datetime.datetime.today().strftime('%Y-%m-%d %H:%M:%S')
         self.fieldnames = ["%s_id"%self.source,"Projectx_id","show_type","is_group_language_primary",
-            "record_language","%s_title"%self.source,"Px_title"
-            ,"Px_episode_title","title_match","description_match","genres_match","aliases_match",
-            "release_year_match","duration_match","season_number_match","episode_number_match",
-            "px_video_link_present","%s_link_present"%self.source,"image_url_missing","Wrong_url",
-            "credit_match","credit_mismatch"]
+            "record_language","iso_3_char_language","%s_title"%self.source,"Px_title","Px_episode_title","title_match","description_match","genres_match","aliases_match","release_year_match","duration_match","season_number_match","episode_number_match","px_video_link_present","%s_link_present"%self.source,"image_url_missing","Wrong_url","credit_match","credit_mismatch"]
 
     def mongo_mysql_connection(self):
         self.connection= pymysql.connect(host="127.0.0.1", user="root", password="root@123",
@@ -130,10 +126,10 @@ class mata_data_validation_starz:
     def get_env_url(self):
         self.prod_domain="api.caavo.com"
         self.expired_api='https://%s/expired_ott/is_available?source_program_id=%s&service_short_name=%s'
-        self.source_mapping_api="http://preprod-projectx-api-545109534.us-east-1.elb.amazonaws.com/projectx/mappingfromsource?sourceIds=%s&sourceName=%s&showType=%s"
-        self.projectx_programs_api='https://preprod.caavo.com/programs?ids=%s&ott=true&aliases=true'
-        self.projectx_mapping_api='http://preprod-projectx-api-545109534.us-east-1.elb.amazonaws.com/projectx/%d/mapping/'
-        self.projectx_duplicate_api='http://preprod-projectx-api-545109534.us-east-1.elb.amazonaws.com/projectx/duplicate?sourceId=%d&sourceName=%s&showType=%s'
+        self.source_mapping_api="http://beta-projectx-api-1289873303.us-east-1.elb.amazonaws.com/projectx/mappingfromsource?sourceIds=%s&sourceName=%s&showType=%s"
+        self.projectx_programs_api='https://test.caavo.com/programs?ids=%s&ott=true&aliases=true'
+        self.projectx_mapping_api='http://beta-projectx-api-1289873303.us-east-1.elb.amazonaws.com/projectx/%d/mapping/'
+        self.projectx_duplicate_api='http://beta-projectx-api-1289873303.us-east-1.elb.amazonaws.com/projectx/duplicate?sourceId=%d&sourceName=%s&showType=%s'
 
     #TODO: Validation
     def meta_data_validation_(self,data,projectx_id,thread_name,only_mapped_ids):
@@ -146,11 +142,10 @@ class mata_data_validation_starz:
         try:
             if projectx_details!='Null':
                 print ({"projectx_details":projectx_details})
-                self.writer.writerow([self.starz_id,projectx_id,self.show_type,projectx_details["is_group_language_primary"],projectx_details["record_language"],source_details["source_title"],projectx_details["px_long_title"],projectx_details["px_episode_title"],meta_data_validation_result["title_match"],meta_data_validation_result["description_match"],meta_data_validation_result["genres_match"]
-                ,meta_data_validation_result["aliases_match"],meta_data_validation_result["release_year_match"],meta_data_validation_result["duration_match"],meta_data_validation_result["season_number_match"],meta_data_validation_result["episode_number_match"],meta_data_validation_result["px_video_link_present"],meta_data_validation_result["source_link_present"]
+                self.writer.writerow([self.starz_id,projectx_id,self.show_type,projectx_details["is_group_language_primary"],projectx_details["record_language"],projectx_details["iso_3_char_language"],source_details["source_title"],projectx_details["px_long_title"],projectx_details["px_episode_title"],meta_data_validation_result["title_match"],meta_data_validation_result["description_match"],meta_data_validation_result["genres_match"],meta_data_validation_result["aliases_match"],meta_data_validation_result["release_year_match"],meta_data_validation_result["duration_match"],meta_data_validation_result["season_number_match"],meta_data_validation_result["episode_number_match"],meta_data_validation_result["px_video_link_present"],meta_data_validation_result["source_link_present"]
                 ,images_validation_result[0],images_validation_result[1],credits_validation_result[0],credits_validation_result[1],only_mapped_ids["source_flag"]])
             else:
-                self.writer.writerow([self.starz_id,projectx_id,self.show_type,'','','','','',''
+                self.writer.writerow([self.starz_id,projectx_id,self.show_type,'','','','','','',''
                 ,'','','','','','','','','','','','','Px_response_null'])    
         except Exception as e:
             print ("get exception in meta_data_validation func........",type(e),self.starz_id,self.show_type)

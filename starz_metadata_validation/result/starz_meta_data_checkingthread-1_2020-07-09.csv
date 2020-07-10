@@ -1,0 +1,554 @@
+Starz_id,Projectx_id,show_type,is_group_language_primary,record_language,iso_3_char_language,Starz_title,Px_title,Px_episode_title,title_match,description_match,genres_match,aliases_match,release_year_match,duration_match,season_number_match,episode_number_match,px_video_link_present,Starz_link_present,image_url_missing,Wrong_url,credit_match,credit_mismatch
+43854,15846203,MO,True,EN,ENG,55 Steps,55 Steps,,True,True,Null,Null,True,True,,,True,True,,[],True,[],True
+27177,15846302,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 1 - A Visit to the Hospital/Paddington Takes to the Road/The Last Dance,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27178,15846311,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 2 - Paddington Goes Underground/Paddington In the Ring/Mr. Curry Lets Off Steam,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27179,15846316,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 3 - A Visit to the Bank/A Spot of Fishing/Bear's Job Week,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27180,15846321,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 4 - Paddington and the Stately Home/The Opal of My Eye/Too Much Off the Top,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27181,15846327,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 5 - Adventure at the Seaside/Paddington and the Pyramid Selling/The Finishing Touch,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27182,15846332,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 6 - Paddington Turns Detective/Seeing Is Believing/A Visit to the Theatre,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27183,15846345,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 7 - Paddington at the Wheel/Howdy Paddington/Paddington Goes Shopping,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27173,15846349,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 8 - Paddington Gets a Raise/Bonhomme Paddington/Everything Comes to Those Who Wait,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27184,15846370,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 9 - Paddington Hits Out/Ranger Paddington/Paddington's Puzzle,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27128,15846383,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 10 - Paddington Cleans Up/Riding High/Paddington Dines Out,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27388,15846400,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 11 - Paddington Keeps Fit/Paddington Goes to Washington/Trouble at the Launderette,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27389,15846414,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 12 - The Case of the Doubtful Dummy,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27391,15846428,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 13 - The Treasure Hunt/Paddington Goes to Hollywood/Mr. Gruber's Mystery Tour,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27393,15846440,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 14 - A Disappearing Trick//Paddington Saves the Day//Paddington Goes to School,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27096,15846453,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 15 - Old Master Paddington//Paddington and the Pardon//Picnic on the River,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27101,15846469,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 16 - A Day to Remember//Paddington In Spain//A Most Unusual Ceremony,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27102,15846481,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 17 - Paddington Steps Out//Paddington Prepares//Paddington Recommended,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27103,15846495,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 18 - Paddington Goes to the Dentist//Paddington's Dinosaurs//Paddington's First Light,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27104,15846508,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 19 - Paddington Breaks the Peace//Paddington Takes Off//Trouble at Number Thirty-Two,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27107,15846520,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 20 - Paddington in a Hole//Paddington in the Galapagos//Paddington Strikes a Bargain,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27108,15846533,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 21 - Pantomime Time//Paddington in Alaska//A Stitch in Time,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27165,15846552,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 22 - Paddington and the Cold Snap//Paddington and the Yeti//Paddington Hits the Jackpot,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27167,15846555,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 23 - Paddington Makes a Clean Sweep,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27169,15846574,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 24 - In and Out of Trouble//Sir Paddington//A Spot of Decorating,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27170,15846587,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 25 - Paddington In Touch//Paddington and the Dead Sea//Goings on at Number Thirty Two,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27171,15846593,SE,True,EN,ENG,The Adventures Of Paddington Bear,The Adventures of Paddington Bear,The Adventures Of Paddington Bear: Ep 26 - A Stcky Time//Corporal Paddington//Paddington Buys a Share,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39499,15847299,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 108 - Close Encounters of the Sonic Kind,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39465,15847314,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 110 - Big Daddy,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39464,15847325,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 120 - So Long Sucker,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39281,15847339,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 121 - Sonic Gets Thrashed,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39463,15847351,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 122 - Pseudo-Sonic,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39462,15847366,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 123 - Grounder The Genius,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39325,15847381,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 124 - Tails In Charge,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39324,15847399,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 125 - Sno Problem,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39376,15847410,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 126 - Submerged Sonic,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39323,15847423,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 127 - Boogey-Mania,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39496,15847436,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 129 - Robotnik Jr.,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39404,15847452,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 130 - Full Tilt Tails,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39461,15847465,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 131 - MacHopper,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39322,15847477,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 132 - Momma Robotnik Returns,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39495,15847492,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 133 - Spaceman Sonic,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39494,15847506,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 135 - The Last Resort,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39374,15847520,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 136 - Robotnik's Rival,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39435,15847539,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 137 - The Magic Hassle,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39373,15847553,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 138 - Sonic the Matchmaker,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39460,15847568,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 139 - Tails Prevails,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39459,15847580,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 140 - Zoobotnik,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39458,15847593,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 142 - Mass Transit Trouble,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39345,15847610,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 143 - Coachnik,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39434,15847623,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 144 - Untouchable Sonic,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39280,15847637,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 145 - Super Robotnik,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39403,15847651,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 146 - Robolympics,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39493,15847665,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 147 - Magnificent Sonic,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39279,15847677,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 148 - Blackbot the Pirate,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39371,15847693,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 150 - Robotnik's Pyramid Scheme,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39278,15847706,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 151 - Prehistoric Sonic,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39320,15847717,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 152 - Baby-Stitter Jitters,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39277,15847732,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 154 - Robotnikland,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39276,15847746,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 155 - The Mobius 5000,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39457,15847761,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 156 - The Little Merhog,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39319,15847773,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 157 - Road Hog,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39432,15847781,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 158 - The Robots' Robot,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39318,15847793,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 159 - Tails' Tail,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39370,15847805,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 160 - Hero of the Year,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39401,15847814,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 163 - Sonic Is Running,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39400,15847825,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 164 - Robo-Ninjas,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39456,15847836,SE,True,EN,ENG,Adventures of Sonic the Hedgehog,The Adventures of Sonic the Hedgehog,Adventures of Sonic the Hedgehog: Ep 165 - Sonically Ever After,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27231,15846564,SE,True,EN,ENG,The Adventures Of Super Mario Bros. 3,The Adventures of Super Mario Bros. 3,The Adventures Of Super Mario Bros. 3: Ep 4 - Toadally Magical Adventure/Misadventures in Babysitting,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27233,15846575,SE,True,EN,ENG,The Adventures Of Super Mario Bros. 3,The Adventures of Super Mario Bros. 3,The Adventures Of Super Mario Bros. 3: Ep 5 - Oh Brother/Misadventure of Mighty Plumber,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+43827,15846204,MO,True,EN,ENG,Alice in Wonderland,Alice in Wonderland,,True,True,Null,Null,True,True,,,True,True,,[],True,[],True
+41691,15846205,MO,True,EN,ENG,Always At The Carlyle,Always At The Carlyle,,True,True,Null,Null,True,True,,,True,True,,[],True,[],True
+38818,15846336,SM,True,EN,ENG,America To Me,America To Me,,True,True,Null,Null,True,True,,,True,True,,[],True,[],True
+39233,15846365,SE,True,EN,ENG,America To Me,America To Me,America To Me: What's the Big Deal About Oak Park?,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39573,15846380,SE,True,EN,ENG,America To Me,America To Me,America To Me: Stranger in a Room,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39650,15846393,SE,True,EN,ENG,America To Me,America To Me,America To Me: There is No Pain That Compares to the Struggle,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39717,15846408,SE,True,EN,ENG,America To Me,America To Me,America To Me: There's Nothing Funny About Race!,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39790,15846424,SE,True,EN,ENG,America To Me,America To Me,America To Me: I Don't Have to Think About Being White,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39838,15846438,SE,True,EN,ENG,America To Me,America To Me,America To Me: Listen to the Poem!,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+40145,15846454,SE,True,EN,ENG,America To Me,America To Me,America To Me: Tsunami of Privilege,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+40195,15846467,SE,True,EN,ENG,America To Me,America To Me,America To Me: Nobody Can Hold You Down,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+40278,15846487,SE,True,EN,ENG,America To Me,America To Me,America To Me: The Invisible T-Shirt,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+40392,15846499,SE,True,EN,ENG,America To Me,America To Me,America To Me: America Will Be...,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+31151,15846300,SM,True,EN,ENG,American Gods,American Gods,,True,True,Null,Null,True,True,,,True,True,,[],True,[],True
+31216,15846310,SE,True,EN,ENG,American Gods,American Gods,American Gods: Ep 101 - The Bone Orchard,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+31377,15846315,SE,True,EN,ENG,American Gods,American Gods,American Gods: Ep 102 - The Secret Of Spoons,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+31438,15846320,SE,True,EN,ENG,American Gods,American Gods,American Gods: Ep 103 - Head Full Of Snow,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+31549,15846325,SE,True,EN,ENG,American Gods,American Gods,American Gods: Ep 104 - Git Gone,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+31594,15846330,SE,True,EN,ENG,American Gods,American Gods,American Gods: Ep 105 - Lemon Scented You,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+31694,15846337,SE,True,EN,ENG,American Gods,American Gods,American Gods: Ep 106 - A Murder Of Gods,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+31771,15846348,SE,True,EN,ENG,American Gods,American Gods,American Gods: Ep 107 - A Prayer For Mad Sweeney,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+32323,15846369,SE,True,EN,ENG,American Gods,American Gods,American Gods: Ep 108 - Come To Jesus,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+43919,15846389,SE,True,EN,ENG,American Gods,American Gods,American Gods: Ep 201 - House On The Rock,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+43945,15846403,SE,True,EN,ENG,American Gods,American Gods,American Gods: Ep 202 - The Beguiling Man,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+43966,15846417,SE,True,EN,ENG,American Gods,American Gods,American Gods: Ep 203 - Muninn,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+43987,15846431,SE,True,EN,ENG,American Gods,American Gods,American Gods: Ep 204 - The Greatest Story Ever Told,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+44077,15846445,SE,True,EN,ENG,American Gods,American Gods,American Gods: Ep 205 - The Ways Of The Dead,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+44117,15846456,SE,True,EN,ENG,American Gods,American Gods,American Gods: Ep 206 - Donar The Great,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+44128,15846470,SE,True,EN,ENG,American Gods,American Gods,American Gods: Ep 207 - Treasure Of The Sun,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+44143,15846480,SE,True,EN,ENG,American Gods,American Gods,American Gods: Ep 208 - Moon Shadow,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+25228,15846207,MO,True,EN,ENG,An American Tail: Fievel Goes West,An American Tail: Fievel Goes West,,True,True,Null,Null,True,True,,,True,True,,[],True,[],True
+25229,15846206,MO,True,EN,ENG,An American Tail: The Treasure of Manhattan Island,An American Tail: The Treasure of Manhattan Island,,True,True,Null,Null,True,True,,,True,True,,[],True,[],True
+27969,15846307,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 1 - Pet Peeves & Rat Heroes,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27980,15846313,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 2 - Ice Breakers & You're So Vain,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27988,15846317,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 3 - The Substitute & Model Behavior,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27989,15846322,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 4 - Touched By An Angel-A & Puppy Love,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27990,15846326,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 5 - Who's Sari Now & Saving Private Gordy,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27991,15846331,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 6 - Fairweather Friends & Turtle Confessions,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27992,15846344,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 7 - Cloak And Dagger & The Dog Ate It,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27993,15846350,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 8 - About What Bob & Pizza Wars,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27994,15846374,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 9 - Stuck On You & Hard to Swallow,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27970,15846387,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 10 - Gone Fishing & 100 Yard Dash,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27971,15846401,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 11 - My Fair LuLu & Johnny Doesn't Live Here Anymore,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27972,15846416,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 12 - Bathroom Blues & Garbage Swingers,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27973,15846430,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 13 - Mapperson's Daughter & Big Ho Down,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27974,15846446,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 14 - Rough Times Tables & Works of Art,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27975,15846460,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 15 - Angela Who? & Rockabye Abatti,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27976,15846474,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 16 - Green With Envy & Two Can Play,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27977,15846484,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 17 - Cut To The Chase & Dirty Work,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27978,15846497,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 18 - Super Mom & Skipping Lessons,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27979,15846510,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 19 - View To A Brinks & Injury To Insult,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27981,15846519,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 20 - The Martyrdom Of Saint Nanette & The Crossing,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27982,15846534,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 21 - Labor Pains & Cyrano D'Angela,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27983,15846547,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 22 - Crazed And Confused & Strange Bedfellows,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27984,15846556,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 23 - Everybody Loves Gina & Halls of Justice,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27985,15846570,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 24 - Cabin Fever & Don't Over-Due It,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27986,15846580,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 25 - Kar-Lean On Me & Slice Of Life,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27987,15846595,SE,True,EN,ENG,Angela Anaconda,Angela Anaconda,Angela Anaconda: Ep 26 - The Nanette Lock & Gordy Floats,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27676,15846299,SM,True,EN,ENG,Animal Mechanicals,Animal Mechanicals,,True,True,Null,Null,True,True,,,True,True,,[],True,[],True
+27815,15846308,SE,True,EN,ENG,Animal Mechanicals,Animal Mechanicals,Animal Mechanicals: Ep 1 - Cobra Coaster Island,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27817,15846314,SE,True,EN,ENG,Animal Mechanicals,Animal Mechanicals,Animal Mechanicals: Ep 2 - Pop-Out Panda Island,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27843,15846319,SE,True,EN,ENG,Animal Mechanicals,Animal Mechanicals,Animal Mechanicals: Ep 3 - Mechana Cuckoo Clock Island,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27821,15846323,SE,True,EN,ENG,Animal Mechanicals,Animal Mechanicals,Animal Mechanicals: Ep 4 - Trash Masher Island,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27844,15846329,SE,True,EN,ENG,Animal Mechanicals,Animal Mechanicals,Animal Mechanicals: Ep 5 - Mechana Dancing Bear Island,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27824,15846334,SE,True,EN,ENG,Animal Mechanicals,Animal Mechanicals,Animal Mechanicals: Ep 6 - Puffer Cloud Island,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27845,15846347,SE,True,EN,ENG,Animal Mechanicals,Animal Mechanicals,Animal Mechanicals: Ep 7 - Baboon Balloon Island,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27826,15846352,SE,True,EN,ENG,Animal Mechanicals,Animal Mechanicals,Animal Mechanicals: Ep 8 - Mechana Matcher Island,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27846,15846373,SE,True,EN,ENG,Animal Mechanicals,Animal Mechanicals,Animal Mechanicals: Ep 9 - Mechana Skee Ball Island,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27842,15846386,SE,True,EN,ENG,Animal Mechanicals,Animal Mechanicals,Animal Mechanicals: Ep 10 - Chugboat Island,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27805,15846402,SE,True,EN,ENG,Animal Mechanicals,Animal Mechanicals,Animal Mechanicals: Ep 11 - Shimmer Wish Island,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27806,15846415,SE,True,EN,ENG,Animal Mechanicals,Animal Mechanicals,Animal Mechanicals: Ep 12 - Mechana Snow Owl Island,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27807,15846429,SE,True,EN,ENG,Animal Mechanicals,Animal Mechanicals,Animal Mechanicals: Ep 13 - Mechana Racher Island,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27808,15846443,SE,True,EN,ENG,Animal Mechanicals,Animal Mechanicals,Animal Mechanicals: Ep 14 - Mechana Kanga Bounce Ball Island,True,False,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27809,15846452,SE,True,EN,ENG,Animal Mechanicals,Animal Mechanicals,Animal Mechanicals: Ep 15 - Turbo Tulip Island,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27810,15846466,SE,True,EN,ENG,Animal Mechanicals,Animal Mechanicals,Animal Mechanicals: Ep 16 - Mechana Skate Park Island,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27811,15846483,SE,True,EN,ENG,Animal Mechanicals,Animal Mechanicals,Animal Mechanicals: Ep 17 - Robo Ranch Island,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27812,15846498,SE,True,EN,ENG,Animal Mechanicals,Animal Mechanicals,Animal Mechanicals: Ep 18 - Mechana Tortoise Island,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27813,15846507,SE,True,EN,ENG,Animal Mechanicals,Animal Mechanicals,Animal Mechanicals: Ep 19 - Mechana Jukebox Island,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27814,15846521,SE,True,EN,ENG,Animal Mechanicals,Animal Mechanicals,Animal Mechanicals: Ep 20 - Mechana Circus Island,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+12713,15853337,MO,True,EN,ENG,Arizona Trail,Arizona Trail,,True,True,Null,Null,True,True,,,True,True,,[],True,[],True
+24815,15846298,SM,True,EN,ENG,Ash vs Evil Dead,Ash vs Evil Dead,,True,True,Null,Null,True,True,,,True,True,,[],True,[],True
+24829,15846306,SE,True,EN,ENG,Ash vs Evil Dead,Ash vs Evil Dead,Ash vs Evil Dead: Ep 101 - El Jefe,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+24830,15846312,SE,True,EN,ENG,Ash vs Evil Dead,Ash vs Evil Dead,Ash vs Evil Dead: Ep 102 - Bait,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+24831,15846318,SE,True,EN,ENG,Ash vs Evil Dead,Ash vs Evil Dead,Ash vs Evil Dead: Ep 103 - Books From Beyond,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+24832,15846324,SE,True,EN,ENG,Ash vs Evil Dead,Ash vs Evil Dead,Ash vs Evil Dead: Ep 104 - Brujo,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+24833,15846328,SE,True,EN,ENG,Ash vs Evil Dead,Ash vs Evil Dead,Ash vs Evil Dead: Ep 105 - The Host,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+24834,15846333,SE,True,EN,ENG,Ash vs Evil Dead,Ash vs Evil Dead,Ash vs Evil Dead: Ep 106 - The Killer of Killers,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+24835,15846346,SE,True,EN,ENG,Ash vs Evil Dead,Ash vs Evil Dead,Ash vs Evil Dead: Ep 107 - Fire In The Hole,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+24836,15846351,SE,True,EN,ENG,Ash vs Evil Dead,Ash vs Evil Dead,Ash vs Evil Dead: Ep 108 - Ashes To Ashes,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+24837,15846372,SE,True,EN,ENG,Ash vs Evil Dead,Ash vs Evil Dead,Ash vs Evil Dead: Ep 109 - Bound In Flesh,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+24838,15846384,SE,True,EN,ENG,Ash vs Evil Dead,Ash vs Evil Dead,Ash vs Evil Dead: Ep 110 - The Dark One,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27372,15846404,SE,True,EN,ENG,Ash vs Evil Dead,Ash vs Evil Dead,Ash vs Evil Dead: Ep 201 - Home,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27373,15846418,SE,True,EN,ENG,Ash vs Evil Dead,Ash vs Evil Dead,Ash vs Evil Dead: Ep 202 - The Morgue,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27374,15846432,SE,True,EN,ENG,Ash vs Evil Dead,Ash vs Evil Dead,Ash vs Evil Dead: Ep 203 - Last Call,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27375,15846444,SE,True,EN,ENG,Ash vs Evil Dead,Ash vs Evil Dead,Ash vs Evil Dead: Ep 204 - D.U.I.,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27376,15846455,SE,True,EN,ENG,Ash vs Evil Dead,Ash vs Evil Dead,Ash vs Evil Dead: Ep 205 - Confinement,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27681,15846468,SE,True,EN,ENG,Ash vs Evil Dead,Ash vs Evil Dead,Ash vs Evil Dead: Ep 206 - Trapped Inside,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27682,15846482,SE,True,EN,ENG,Ash vs Evil Dead,Ash vs Evil Dead,Ash vs Evil Dead: Ep 207 - Delusion,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27683,15846494,SE,True,EN,ENG,Ash vs Evil Dead,Ash vs Evil Dead,Ash vs Evil Dead: Ep 208 - Ashy Slashy,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29338,15846512,SE,True,EN,ENG,Ash vs Evil Dead,Ash vs Evil Dead,Ash vs Evil Dead: Ep 209 - Home Again,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29507,15846523,SE,True,EN,ENG,Ash vs Evil Dead,Ash vs Evil Dead,Ash vs Evil Dead: Ep 210 - Second Coming,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+36355,15853382,SM,True,EN,ENG,Atomic Betty,Atomic Betty,,True,True,Null,Null,True,True,,,True,True,,[],True,[],True
+37065,15853386,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 101 - Atomic Roger/Toxic Talent,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+37042,15853388,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 102 - Furball for the Sneeze/ Maximus Displeasure,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+37043,15853390,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 103 - Doppleganger / Cosmic Cake,True,False,Null,Null,True,True,True,True,True,True,,[],True,[],True
+37066,15853392,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 104 - ...But the Cat Came Back! / Lost in Spa,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+36995,15853394,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 105 - Spindly Tam Kanushu / Science Fair,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+37026,15853396,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 106 - The Attack of the Evil Baby / Space Brains,True,False,Null,Null,True,True,True,True,True,True,,[],True,[],True
+36975,15853398,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 107 - The Good The Bad... and the Sparky! / Bye-Bye X-5,True,False,Null,Null,True,True,True,True,True,True,,[],True,[],True
+37006,15853400,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 108 - The Great Race / Poached Egg,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+37067,15853402,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 109 - The Really Big Game / The Substitute,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+37027,15853404,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 110 - Self Sabotage / Crass Menagerie,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+36956,15853406,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 111 - When Worlds Collide / The Ghost Ship of Aberdeffia,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+37007,15853408,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 112 - Battle of the Bots / Martian Makeover,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+36976,15853410,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 113 - Betty's Secret Admirer / Slime of the Century,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+37028,15853412,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 114 - Solar System Surfin' / Winter Carnival,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+37029,15853414,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 115 - Power of the Pharoah / And the Winner is...,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+37008,15853416,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 116 - The Trouble with Triplets / Spider Betty,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+37009,15853418,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 117 - Power Arrangers / A Dream Come True,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+37068,15853420,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 118 - Atomic Betty vs the Giant Killer Ants / Best (Mis)Laid Plans,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+37044,15853422,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 119 - No Business Like Snow Business / Infantor Rules,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+36957,15853424,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 120 - Galactic Pirates of the Corralean / The Revenge of Masticula,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+37010,15853426,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 121 - The Incredible Shrinking Betty / Friends for Eternity,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+37045,15853429,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 122 - Wizard of Orb / Max-Land,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+37011,15853431,SE,True,EN,ENG,Atomic Betty,Atomic Betty,"Atomic Betty: Ep 123 - Like Father, Like Scum / Planet Stinxx",True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+37030,15853433,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 124 - Big Top Betty / Dr. Cerebral and the Stupifactor Ray,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+37012,15853435,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 125 - Jingle Brawls / Toy Historyia,True,False,Null,Null,True,True,True,True,True,True,,[],True,[],True
+37046,15853437,SE,True,EN,ENG,Atomic Betty,Atomic Betty,Atomic Betty: Ep 126 - Franken-Brian / Evil Idol,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+48984,15846208,MO,True,EN,ENG,Balls Of Fury,Balls Of Fury,,True,True,Null,Null,True,True,,,True,True,,[],True,[],True
+38050,15846341,SM,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+38132,15846363,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 101 - Building A Licorice Barn - A Story About Patience,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38096,15846378,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 102 - The Supersonic Sparkling Leomonator - A Story About Teamwork,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38092,15846395,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 103 - The Gemonstrator - A Story About Discovery,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38294,15846411,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 104 - Keep Looking Till You Find It,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38076,15846426,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 105 - The Sweetest Journey - A Story About Patience,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38133,15846442,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 106 - A Mopple Mishap - A Story About Communication,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38097,15846459,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 107 - A Staticky Situation - A Story About Being Flexible,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38084,15846473,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 108 - The Lost Treasure Of The Prism Princess - A Story About Teamwork,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38114,15846489,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 109 - Four Times The Chelsea - A Story About Different Points Of View,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38085,15846501,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 110 - The Wispy Forrest Hairathalon - A Story About Listening,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38301,15846514,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 111 - A Winning Color Combination - A Story About Forgiveness,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38319,15846525,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 112 - The Damaged Spellbook - A Story About Respecting Other People's Things,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38280,15846537,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 113 - Concert In The Clouds - A Story About Confidence,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38293,15846549,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 114 - Forest Full Of Friendship - A Story About Friendship,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38300,15846559,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 115 - Bearable Barry - A Story About Being Different,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38314,15846566,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 116 - Glitter Ball Trouble - A Story About Responsibility,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38573,15846585,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 117 - Unicorn in the Cloud- A Story About Imagination,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38566,15846594,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 118 - Sailing on a String - A Story About Kindness,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38572,15846612,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 119 - Rainbow Cove Games - A Story About Fair Play,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38570,15846621,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 120 - The Magic Seeds - A Story About Working Together,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38555,15846629,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 121 - A Sound In Sweetville - A Story About Being Brave,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38569,15846637,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 122 - It's Not Easy Being Clean - A Story About Responsibiity,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38565,15846647,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 123 - Magical Gifts of the Forest - A Story About Thoughtfulness,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38567,15846658,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 124 - The Sweetville Parade - A Story About Overcoming Obstacles,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38558,15846665,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 125 - The Fancy Cheese Fiasco- A Story About Honesty,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38568,15846675,SE,True,EN,ENG,Barbie Dreamtopia,Barbie Dreamtopia,Barbie Dreamtopia: Ep 126 - The Tumblin Tangleweed - A Story About Being Tidy,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+41746,15846210,MO,True,EN,ENG,Benched,Benched,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+38794,15846335,SM,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,,True,True,Null,Null,True,True,,,True,True,,[],True,[],True
+38939,15846367,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 101 - Pilot,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38906,15846381,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 102 - Now You Got It,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38959,15846396,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 103 - The Main Event,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38905,15846410,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,"The Bernie Mac Show: Ep 104 - Bernie Mac, Ladies Man",True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38938,15846421,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 105 - Saving Bernie Mac,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38917,15846433,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 106 - Here to Stay,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38929,15846449,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 107 - A Christmas Story,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38904,15846462,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 108 - Starting School,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38903,15846476,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,"The Bernie Mac Show: Ep 109 - Hot, Hot, Hot",True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38974,15846491,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 110 - Wanda's Week Off,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38955,15846502,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 111 - The King and I,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38910,15846506,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 112 - Hall of Fame,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38897,15846518,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 113 - Handle Your Business,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38909,15846528,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 114 - Back in the Day,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38940,15846541,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 115 - Lock Down,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38896,15846550,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 116 - Mac 101,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38954,15846561,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 117 - If I Were N-Riched Man,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38960,15846569,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 118 - Stop Having Sex,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38953,15846582,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 119 - Secrets and Lies,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38930,15846589,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 120 - Kelly's Heroes,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38908,15846608,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 121 - Sweet Home Chicago: Part 1,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38907,15846615,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 122 - Sweet Home Chicago: Part 2,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38915,15846632,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 201 - Keep It on the Short Grass,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38914,15846642,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 202 - Goodbye Dolly,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38956,15846650,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 203 - Carfool,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38975,15846660,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 204 - Mac Local 137,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38965,15846664,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 205 - Welcome to the Jungle,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38932,15846672,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 206 - Bernie Mac Dance Party,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38913,15846681,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 207 - Tryptophan-tasy,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38918,15846689,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 208 - The United Front,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38966,15846698,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 209 - The Sweet Life,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38933,15846711,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 210 - Sin Cup,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38911,15846718,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 211 - Bernie Mac Rope-a-Dope,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38912,15846729,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 212 - Magic Jordan,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38963,15846740,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 213 - Raging Election,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38942,15846753,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 214 - Leaving Los Angeles,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38931,15846765,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 215 - Pink Gold,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38964,15846776,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 216 - Chess Wars,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38898,15846785,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 217 - The Incredible Bulk,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38967,15846791,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 218 - Maid Man,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38943,15846803,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 219 - Nut Job,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38962,15846815,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 220 - The Other Sister,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38941,15846827,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 221 - Meet the Grandparents,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38961,15846839,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 222 - For a Few Dollars More,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38948,15846851,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 301 - Eye of the Tiger,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38947,15846859,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 302 - Love Thy Nephew,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38970,15846869,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 303 - Road to Tradition,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38925,15846879,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 304 - Laughing Matters,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38924,15846890,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 305 - Hair Jordan,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38923,15846900,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 306 - Love Bug,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38977,15846910,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 307 - It's a Wonderful Wife,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38936,15846919,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 308 - Family Reunion,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38946,15846929,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 309 - Droobie or Not Droobie,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38916,15846940,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 310 - J-O-R-D-A-N Spells Funny,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38945,15846949,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 311 - Make Room for Caddy,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38922,15846962,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 312 - Saving Sergeant Tompkins,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38921,15846971,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 313 - It's Mac-ademic,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38944,15846986,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 314 - The Getaway,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38920,15846995,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 315 - Easy Rider,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38899,15847004,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 316 - Who's That Lady?,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38935,15847015,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 317 - Mac-Inations,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38919,15847026,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 318 - That Old Mac Magic,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38969,15847037,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 319 - The Talk,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38976,15847049,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 320 - Five Stages of Bryana,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38934,15847060,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,"The Bernie Mac Show: Ep 321 - Go Bernie, It's Your Birthday",True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38968,15847072,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 322 - Thanksgiving,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38952,15847088,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 401 - Big Brother,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38937,15847100,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 402 - Stiff Upper Lip,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38973,15847112,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 403 - Being Bernie Mac,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38902,15847120,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 404 - Mac Overdrive,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38958,15847129,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 405 - My Privacy,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38972,15847138,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 406 - Who Gives This Bride,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38901,15847149,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 407 - Nerdy Mac,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38951,15847158,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 408 - Stone Nuts,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38971,15847167,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 409 - Jack & Jacqueline,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38927,15847176,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 410 - Manchild in Vanessa Land,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38978,15847185,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 411 - You Don't Know Squad,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38957,15847194,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 412 - You Got Served,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38950,15847204,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 413 - I Don't Wanna Be a Playa No More,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38926,15847212,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 414 - The Big Picture,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38949,15847226,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 415 - The Music Mac,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38900,15847236,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 416 - Walk Like a Man,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38998,15847250,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 501 - Father Knows Best,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39002,15847263,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 502 - Wrestling with a Sticky Situation,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39011,15847272,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 503 - Marathon Mac,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39005,15847283,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 504 - The Big Payback,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38997,15847294,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 505 - Car Wars,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39004,15847305,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 506 - Night of Terror,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39001,15847329,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 507 - For Whom the Belt Tolls,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39010,15847343,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 508 - Pop Pop Goes the Weasel,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39003,15847357,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 509 - Prison Break,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38994,15847374,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 510 - Some Church Bull,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39000,15847389,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 511 - Sorely Missed,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38996,15847405,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 512 - Fumes of Detente,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38995,15847420,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 513 - Exercise in Fertility: Part 1,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38993,15847433,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 514 - Exercise in Fertility: Part 2,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39008,15847449,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 515 - Fantasy Football,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39007,15847470,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 516 - Bar Mitzvah Crashers,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38992,15847486,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 517 - Who's Your Mama?,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38991,15847498,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 518 - What Would Jason Do?,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+39009,15847511,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 519 - It's Never as Bad as the First Time,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38990,15847524,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 520 - Spinning Wheels,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38999,15847534,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 521 - Growing Pains,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+38989,15847549,SE,True,EN,ENG,The Bernie Mac Show,The Bernie Mac Show,The Bernie Mac Show: Ep 522 - Bernie's Angels,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+43995,15846209,MO,True,EN,ENG,Big Fish & Begonia,Big Fish & Begonia,,True,True,Null,Null,True,True,,,True,True,,[],True,[],True
+42720,15848006,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 104 - Young Marauders,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42633,15848017,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 109 - Earthquake!,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42533,15848029,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 110 - The Murdered Party,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42581,15848044,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 111 - The Way to Kill a Killer,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42809,15848057,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 114 - The Brawlers,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42532,15848073,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 116 - The Invaders,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42716,15848088,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 118 - A Time to Kill,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42774,15848104,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 122 - The Death Merchant,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42531,15848118,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 123 - The Fallen Hawk,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42773,15848129,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 127 - The River Monarch,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42579,15848142,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 128 - The Midas Man,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42636,15848154,SE,True,EN,ENG,The Big Valley,The Big Valley,"The Big Valley: Ep 202 - Legend of a General, Part One",True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42684,15848164,SE,True,EN,ENG,The Big Valley,The Big Valley,"The Big Valley: Ep 203 - Legend of a General, Part Two",True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42635,15848179,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 208 - The Velvet Trap,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42682,15848191,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 209 - The Man From Nowhere,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42589,15848202,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 213 - A Day of Terror,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42681,15848214,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 216 - Wagonland of Dreams,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42680,15848228,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 218 - Boy Into Man,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42724,15848240,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 220 - The Stallion,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42586,15848251,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 221 - The Haunted Gun,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42811,15848268,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 222 - Price of Victory,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42678,15848280,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 228 - The Lady From Mesa,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42583,15848295,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 229 - The Day Of Grace,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42544,15848305,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 303 - A Flock of Trouble,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42540,15848317,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 304 - The Time After Midnight,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42637,15848331,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 310 - Explosion! Part One,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42539,15848344,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 311 - Explosion! Part Two,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42592,15848358,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 312 - Four Days to Furance Hill,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42599,15848371,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 313 - Night of the Executioners,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42727,15848384,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 314 - Journey Into Violence,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42726,15848396,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 323 - Bounty on a Barkley,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42541,15848407,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 326 - The Challenge,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42641,15848418,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 418 - Alias Nellie Handley,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42644,15848431,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 419 - The Royal Road,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42640,15848441,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 421 - The Battle of Mineral Springs,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42550,15848452,SE,True,EN,ENG,The Big Valley,The Big Valley,The Big Valley: Ep 425 - Flight From San Miguel,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+57203,15846211,MO,True,EN,ENG,Bilal: A New Breed of Hero,Bilal: A New Breed of Hero,,True,True,Null,Null,True,True,,,True,True,,[],True,[],True
+19568,15846342,SM,True,EN,ENG,Black Sails,Black Sails,,True,False,Null,Null,True,True,,,True,True,,[],True,[],True
+20051,15846368,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 101 - I.,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+19969,15846382,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 102 - II.,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+20267,15846399,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 103 - III.,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+20268,15846413,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 104 - IV.,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+20269,15846427,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 105 - V.,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+20270,15846441,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 106 - VI.,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+20271,15846458,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 107 - VII.,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+20272,15846472,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 108 - VIII.,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+22902,15846493,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 201 - IX.,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+22903,15846505,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 202 - X.,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+22904,15846517,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 203 - XI.,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+22905,15846529,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 204 - XII.,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+22906,15846542,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 205 - XIII.,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+22907,15846544,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 206 - XIV.,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+22908,15846563,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 207 - XV.,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+22909,15846568,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 208 - XVI.,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+22910,15846578,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 209 - XVII.,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+22911,15846591,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 210 - XVIII.,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+25309,15846611,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 301 - XIX,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+25310,15846622,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 302 - XX,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+25311,15846633,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 303 - XXI,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+25312,15846643,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 304 - XXII,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+25313,15846654,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 305 - XXIII,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+25314,15846663,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 306 - XXIV,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+25388,15846674,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 307 - XXV,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+25389,15846684,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 308 - XXVI,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+25390,15846691,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 309 - XXVII,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+25391,15846697,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 310 - XXVIII,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+30005,15846714,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 401 - XXIX,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+30208,15846725,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 402 - XXX,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+30241,15846734,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 403 - XXXI,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+30273,15846739,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 404 - XXXII,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+30295,15846756,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 405 - XXXIII,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+30543,15846763,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 406 - XXXIV,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+30617,15846775,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 407 - XXXV,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+30653,15846784,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 408 - XXXVI,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+30679,15846792,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 409 - XXXVII,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+30841,15846801,SE,True,EN,ENG,Black Sails,Black Sails,Black Sails: Ep 410 - XXXVIII,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27437,15846339,SM,True,EN,ENG,Bo On The Go!,Bo On The Go!,,True,True,Null,Null,True,True,,,True,True,,[],True,[],True
+27466,15846359,SE,True,EN,ENG,Bo On The Go!,Bo On The Go!,Bo On The Go!: Ep 27 - Bo and the Glimmer Critter,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27468,15846379,SE,True,EN,ENG,Bo On The Go!,Bo On The Go!,Bo On The Go!: Ep 28 - Bo and the Creaky Crink,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27469,15846394,SE,True,EN,ENG,Bo On The Go!,Bo On The Go!,Bo On The Go!: Ep 29 - Bo and the Stuffy Sniffler,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27470,15846409,SE,True,EN,ENG,Bo On The Go!,Bo On The Go!,Bo On The Go!: Ep 30 - Bo and the Gobsobber,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27471,15846420,SE,True,EN,ENG,Bo On The Go!,Bo On The Go!,Bo On The Go!: Ep 31 - Bo and the Blockhead,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27473,15846436,SE,True,EN,ENG,Bo On The Go!,Bo On The Go!,Bo On The Go!: Ep 32 - Bo and the Melody Maestro,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27474,15846450,SE,True,EN,ENG,Bo On The Go!,Bo On The Go!,Bo On The Go!: Ep 33 - Bo and the Ding-A-Ling,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27476,15846464,SE,True,EN,ENG,Bo On The Go!,Bo On The Go!,Bo On The Go!: Ep 34 - Bo and the Fun Fair,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27478,15846478,SE,True,EN,ENG,Bo On The Go!,Bo On The Go!,Bo On The Go!: Ep 35 - Bo and the Picture Snitcher,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27480,15846490,SE,True,EN,ENG,Bo On The Go!,Bo On The Go!,Bo On The Go!: Ep 36 - Bo and the Eager Beaver,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27482,15846504,SE,True,EN,ENG,Bo On The Go!,Bo On The Go!,Bo On The Go!: Ep 37 - Bo and the Unwrapping Chappy,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27484,15846515,SE,True,EN,ENG,Bo On The Go!,Bo On The Go!,Bo On The Go!: Ep 38 - Bo and the Berry Grabber,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27486,15846526,SE,True,EN,ENG,Bo On The Go!,Bo On The Go!,Bo On The Go!: Ep 39 - Bo and the Wrong Side Uppy,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+27488,15846535,SE,True,EN,ENG,Bo On The Go!,Bo On The Go!,Bo On The Go!: Ep 40 - Bo and the Polka Dot Snatcher,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29023,15846340,SM,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,,True,True,Null,Null,True,True,,,True,True,,[],True,[],True
+29027,15846360,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,Busytown Mysteries: Ep 1 - The Big Apple Mystery/The Missing Pickle Car Mystery,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29036,15846375,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,Busytown Mysteries: Ep 2 - The Mystery Wheel/Busytown Blue-Bottoms,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29031,15846392,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,Busytown Mysteries: Ep 3 - The Mystery of the Lost Parrot/The Monster Mystery,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29032,15846406,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,Busytown Mysteries: Ep 4 - The Trouble with Bubbles/Little Orphan Egg,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29042,15846419,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,Busytown Mysteries: Ep 5 - The Lighthouse Ghost Mystery/Cornfield Confusion,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29046,15846434,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,"Busytown Mysteries: Ep 6 - The Sticky Stuff Mystery/Up, Up and Away",True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29033,15846448,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,Busytown Mysteries: Ep 7 - Six Little Muffins/The Crashing Can Mystery,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29035,15846461,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,Busytown Mysteries: Ep 8 - The Invisible Cake Snatcher/On the Move,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29038,15846475,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,Busytown Mysteries: Ep 9 - Litterbug Busters/There Might Be Giants,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29047,15846486,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,Busytown Mysteries: Ep 10 - Where's Junior?/The Secret Club Mystery,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29044,15846500,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,Busytown Mysteries: Ep 11 - The Playground Mystery/The Crazy Clock Mix-Up Mystery,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29041,15846513,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,Busytown Mysteries: Ep 12 - The Cheese Car Chomp Mystery/Where's the Hero?,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29043,15846524,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,Busytown Mysteries: Ep 13 - The Mystery of the Unbreakable Bread/The Twisty Line Mystery,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29049,15846530,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,Busytown Mysteries: Ep 14 - Chain of Mysteries/The Mystery of the Unfinished Painting,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29024,15846543,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,Busytown Mysteries: Ep 15 - The Pretty Park Mystery/The Missing Museum Statue Mystery,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29026,15846551,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,Busytown Mysteries: Ep 16 - The Vanishing Tiara Mystery/The Postage Stamp Mystery,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29025,15846562,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,Busytown Mysteries: Ep 17 - The Bank Note Mystery/The Flying Saucer Mystery,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29039,15846565,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,Busytown Mysteries: Ep 18 - The Mystery Present/The Smudged Letter Mystery,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29034,15846579,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,Busytown Mysteries: Ep 19 - The Falling Fruit Mystery/The Dragon Hunters,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29037,15846590,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,Busytown Mysteries: Ep 20 - The Disappearing Swimming Hole/The Forgotten Fire Hose Mystery,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29040,15846606,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,"Busytown Mysteries: Ep 21 - The Disappearing Home Mystery/The Slipping, Sliding, Flipping, Flying Mystery",True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29045,15846619,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,Busytown Mysteries: Ep 22 - The Mystery of the Unpopular Pizzeria/The Silly Scarecrow Mystery,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29028,15846625,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,Busytown Mysteries: Ep 23 - Huckle! Where's My Apple Car?/The Dirty Laundry Mystery,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29029,15846636,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,Busytown Mysteries: Ep 24 - The Eight Shoes Mystery/The Something in the Woods Mystery,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29048,15846646,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,Busytown Mysteries: Ep 25 - The Borrowed Book Mystery/The Missing Mystery Books,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+29030,15846653,SE,True,EN,ENG,Busytown Mysteries,Busytown Mysteries,Busytown Mysteries: Ep 26 - The Mystery of the High Jumper/The Mystery of the Summer Snowman,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+37917,15846338,SM,True,EN,ENG,Camelot,Camelot,,True,True,Null,Null,True,True,,,False,True,,[],True,[],True
+38557,15846364,SE,True,EN,ENG,Camelot,Camelot,Camelot: Ep 101 - Homecoming,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38576,15846376,SE,True,EN,ENG,Camelot,Camelot,Camelot: Ep 102 - The Sword And The Crown,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38563,15846391,SE,True,EN,ENG,Camelot,Camelot,Camelot: Ep 103 - Guinevere,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38559,15846407,SE,True,EN,ENG,Camelot,Camelot,Camelot: Ep 104 - Lady Of The Lake,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38564,15846422,SE,True,EN,ENG,Camelot,Camelot,Camelot: Ep 105 - Justice,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38562,15846435,SE,True,EN,ENG,Camelot,Camelot,Camelot: Ep 106 - Three Journeys,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38556,15846447,SE,True,EN,ENG,Camelot,Camelot,Camelot: Ep 107 - The Long Night,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38561,15846463,SE,True,EN,ENG,Camelot,Camelot,Camelot: Ep 108 - Igraine,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38575,15846477,SE,True,EN,ENG,Camelot,Camelot,Camelot: Ep 109 - The Battle Of Bardon Pass,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+38574,15846492,SE,True,EN,ENG,Camelot,Camelot,Camelot: Ep 110 - Reckoning,True,True,Null,Null,True,True,True,True,False,True,,[],True,[],True
+43716,15846212,MO,True,EN,ENG,Cars 2,Cars 2,,True,True,Null,Null,True,True,,,True,True,,[],True,[],True
+41026,15846343,SM,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,,True,True,Null,Null,True,True,,,True,True,,[],True,[],True
+42650,15846371,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 101 - Show Me the Honey/Migration Vacation,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42696,15846385,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 102 - I Love the Nightlife/Oh Give Me a Home,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42649,15846398,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 103 - Many Ants Make Light Work/Nest Best Thing,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42648,15846412,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 104 - A Plan For Sand/Whale Music,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42739,15846425,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 105 - Flower Power/Snowman's Land,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42785,15846439,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 106 - Dress Up Day/Bathtime,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42845,15846457,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 107 - Trees Company/Now You See Me,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42844,15846471,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 108 - The Rain Game/No Sssweater Is Better,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42843,15846488,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 109 - A Tale About Tails/Sticky Situation,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42610,15846503,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 110 - Night Lights/Go Snails Go!,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42557,15846511,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 111 - Flight of the Penguin/Let's Go Fly a Kite!,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42738,15846522,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 112 - You should Be Dancing!/Batty for Bats,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42737,15846532,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 113 - Maps/Termite Towers,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42817,15846548,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 114 - The Lost Egg/Hold on Tight,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42784,15846560,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 115 - Jump!/Slow Down for Sloths,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42783,15846567,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 116 - Chasing Rainbows/Follow the Prints,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42736,15846581,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 117 - A Long Winter's Nap/The Tree Doctor,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42609,15846592,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 118 - Incredible Journey/Bamboozled,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42735,15846609,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 119 - Thump!/Squirreled Away,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42608,15846618,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 120 - Pick Your Friends/Finola's Farm,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42734,15846627,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 121 - Reindeer Games/Along Came a Spider,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42607,15846639,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 122 - A Teeny Weeny Adventure/I See Seeds,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42606,15846649,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 123 - Surprise Surprise!/A Howling Good Time,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42816,15846659,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 124 - Secret Super Digger/Pucker Up and Blow,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42605,15846662,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 125 - Sniff and Seek/Aye Aye!,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42695,15846673,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 126 - Blue Feet Are Neat!/Reef Magic,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42647,15846682,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 127 - Be Cool/Elephant Walk,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42733,15846690,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 128 - Flutter by Butterfly/Pretty in Pink,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42604,15846700,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 129 - Digging the Deep/Puddle Puzzle,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42556,15846709,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 130 - Help with Kelp/Treetop Tom,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42555,15846720,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 131 - Trick or Treat/King Cecil the Seahorse,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42782,15846728,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 132 - Stripy Safari/Wool,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42694,15846742,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 133 - A Sweat Deal/The King of Swing,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42781,15846752,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 134 - Amazing Eyes/Water Walkers,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42815,15846764,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 135 - Super Cleaner Uppers/Itty Bitty Water,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42554,15846774,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 136 - Big Cats/Fantastic Flour,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42842,15846783,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 137 - Minnie Meerkat/Leaves,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42553,15846790,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 138 - Hooray for Hair/Ice Is Nice,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42841,15846799,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 139 - When I Grow Up/Doing It Differently,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42840,15846808,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 140 - Spring & Summer/Fall & Winter,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42786,15846822,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 201 - Jumping on the Moon/Sneezy Riders,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42559,15846829,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 202 - Inside Out/Hear Here,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42613,15846841,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 203 - Bounce/Timmy Tippy Toes,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42742,15846850,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 204 - No Night Today/Fun in the Sun,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42558,15846858,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 205 - Meet the Beetles/Tongue Tied,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42656,15846868,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 206 - Manatees and Mermaids/The Last Chocolate,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42850,15846878,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 207 - Tough Enough/How Cool Is Coral?,True,False,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42741,15846889,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 208 - Babies/Fast!,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42655,15846899,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 209 - Little Lemmings/Keep the Beat,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42654,15846909,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 210 - Name that Sound/Fabulous Feathers,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42740,15846920,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 211 - Take a Walk/Cotton Patch,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42653,15846930,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 212 - Rumbly Tumbly/Planet Name Game,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42612,15846941,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 213 - Step This Way/Anything You Can Do,True,False,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42849,15846950,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 214 - Gorillas in the Nest/TheTale of a Dragon,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42847,15846960,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 215 - Top of the Sky/Jiggle Bones,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42652,15846970,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,"The Cat In The Hat Knows A Lot About That!: Ep 216 - Wrappers Delight/Dive, Swim, Scoop",True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42818,15846984,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 217 - Paper Chase/A Polar Adventure,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42651,15846997,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 218 - Balancing Act/Marvelous Marbles,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42611,15847007,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 219 - Biggest Bird/Drum Di Drum,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42697,15847019,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 220 - Skin I'm In/Fishy Washy,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42789,15847034,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 301 - Building Bridges/Float Your Boat,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42788,15847046,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 302 - Accidents Happen/Making Waves,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42787,15847057,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 303 - Fact & Friction/Pulling Together,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42562,15847070,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 304 - Shadow Play/Play Ball,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42700,15847079,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 305 - The Search for String/Mirror Mirror,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42746,15847092,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 306 - Opposites Attract/Talents of Balance,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42699,15847103,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 307 - Gravity Drop/Who Can See the Wind,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42820,15847115,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 308 - Go With the Flow/Nicks Cricket,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42745,15847125,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 309 - Design Time/A Prize Surprise,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42561,15847136,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,"The Cat In The Hat Knows A Lot About That!: Ep 310 - Going, Going Gong/Clever Levers",True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42560,15847145,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 311 - You're It/Holes,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42615,15847154,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 312 - Bump Bump Bump Around/Snow Difference,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42819,15847162,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 313 - All Sorts of Things/Bubble Trouble,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42744,15847170,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 314 - Cause and Effect/Good Vibrations,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42853,15847180,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 315 - Smart Move (FKA-Gym Dandy)/Simply Simple,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42852,15847192,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 316 - Back on Track/Enough Is Enough,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42743,15847202,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 317 - Mind Changing Fun/Curious Minds,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42614,15847214,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 318 - The Big Pictures/The Treehouse Handshake,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42698,15847224,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 319 - Batteries Not Included/Checking the Boxes,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+42851,15847233,SE,True,EN,ENG,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!,The Cat In The Hat Knows A Lot About That!: Ep 320 - The Song Flower Solution/Hard Weigh,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+23842,15846213,MO,True,EN,ENG,Catch That Kid,Catch That Kid,,True,True,Null,Null,True,True,,,True,True,,[],True,[],True
+21741,15848011,SE,True,EN,ENG,Cheyenne,Cheyenne,Cheyenne: Ep 9 - Rendezvous at Red Rocks,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+21750,15848023,SE,True,EN,ENG,Cheyenne,Cheyenne,Cheyenne: Ep 18 - Death Deals This Hand,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+21776,15848034,SE,True,EN,ENG,Cheyenne,Cheyenne,Cheyenne: Ep 44 - The Last Comanchero,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+21827,15848046,SE,True,EN,ENG,Cheyenne,Cheyenne,Cheyenne: Ep 49 - Ghost of the Cimarron,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+21837,15848058,SE,True,EN,ENG,Cheyenne,Cheyenne,Cheyenne: Ep 58 - The Rebellion,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+21844,15848074,SE,True,EN,ENG,Cheyenne,Cheyenne,"Cheyenne: Ep 62 - Gold, Glory and Custer - Prelude (1)",True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+21841,15848089,SE,True,EN,ENG,Cheyenne,Cheyenne,"Cheyenne: Ep 63 - Gold, Glory and Custer - Requiem (2)",True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
+21845,15848103,SE,True,EN,ENG,Cheyenne,Cheyenne,Cheyenne: Ep 64 - Riot at Arroyo Soco,True,True,Null,Null,True,True,True,True,True,True,,[],True,[],True
