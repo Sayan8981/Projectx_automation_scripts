@@ -39,11 +39,11 @@ class headrun_Showtime_ott_validation:
 
     def get_env_url(self):
         self.prod_domain="api.caavo.com"
-        self.projectx_domain="preprod.caavo.com"
+        self.projectx_domain="test.caavo.com"
         self.expired_api='https://%s/expired_ott/is_available?source_program_id=%s&service_short_name=%s'
-        self.source_mapping_api="http://preprod-projectx-api-545109534.us-east-1.elb.amazonaws.com/projectx/mappingfromsource?sourceIds=%s&sourceName=%s&showType=%s"
-        self.projectx_programs_api='https://preprod.caavo.com/programs?ids=%s&ott=true&aliases=true&service=%s'
-        self.projectx_mapping_api='http://preprod-projectx-api-545109534.us-east-1.elb.amazonaws.com/projectx/%d/mapping/'
+        self.source_mapping_api="http://beta-projectx-api-1289873303.us-east-1.elb.amazonaws.com/projectx/mappingfromsource?sourceIds=%s&sourceName=%s&showType=%s"
+        self.projectx_programs_api='https://test.caavo.com/programs?ids=%s&ott=true&aliases=true&service=%s'
+        self.projectx_mapping_api='http://beta-projectx-api-1289873303.us-east-1.elb.amazonaws.com/projectx/%d/mapping/'
 
     #TODO: to get projectx_id details OTT link id from programs api
     def getting_projectx_ott_details(self,projectx_id,show_type):   
@@ -51,6 +51,7 @@ class headrun_Showtime_ott_validation:
         px_video_link_present='False'
         px_response='Null'
         launch_id=[]
+        fetch_from=[]
         #import pdb;pdb.set_trace()
         projectx_api=self.projectx_programs_api%(projectx_id,self.source.lower())
         data_px_resp=lib_common_modules().fetch_response_for_api_(projectx_api,self.token)
@@ -61,7 +62,9 @@ class headrun_Showtime_ott_validation:
                     px_video_link_present='True'
                     for linkid in px_video_link:
                         launch_id.append(linkid.get("launch_id"))
-            return {"px_video_link_present":px_video_link_present,"launch_id":launch_id}
+                        if linkid.get("fetched_from") not in fetch_from:
+                            fetch_from.append(linkid.get("fetched_from"))
+            return {"px_video_link_present":px_video_link_present,"launch_id":launch_id,"fetch_from":fetch_from}
         else:
             return px_response      
 
@@ -78,20 +81,14 @@ class headrun_Showtime_ott_validation:
                     "Px_id":projectx_id,"thread_name":thread_name})
                 projectx_details=self.getting_projectx_ott_details(projectx_id,self.show_type)
                 if projectx_details!='Null':
-                    if data.get("purchase_info")!="":
-                        self.link_expired=lib_common_modules().link_expiry_check_(self.expired_api,self.projectx_domain,self.headrun_Showtime_id,self.source.lower(),self.expired_token)
-                        ott_validation_result=ott_meta_data_validation_modules().ott_validation(projectx_details,self.headrun_Showtime_id)
-                        self.writer.writerow([self.headrun_Showtime_id,projectx_id,self.show_type,projectx_details["px_video_link_present"],
-                                  '',ott_validation_result,only_mapped_ids["source_flag"],'',self.link_expired])
-                    else:
-                        self.writer.writerow([self.headrun_Showtime_id,projectx_id,self.show_type,'','','',
-                            only_mapped_ids["source_flag"],'purchase_info_null'])     
+                    self.link_expired=lib_common_modules().link_expiry_check_(self.expired_api,self.projectx_domain,self.headrun_Showtime_id,self.source.lower(),self.expired_token)
+                    ott_validation_result=ott_meta_data_validation_modules().ott_validation(projectx_details,self.headrun_Showtime_id)
+                    self.writer.writerow([self.headrun_Showtime_id,projectx_id,self.show_type,projectx_details["px_video_link_present"],projectx_details["fetch_from"],data["series_id"],data["expiry_date"],'',ott_validation_result,only_mapped_ids["source_flag"],'',self.link_expired])     
                 else:
-                    self.writer.writerow([self.headrun_Showtime_id,projectx_id,self.show_type,projectx_details,
-                             '','',only_mapped_ids["source_flag"],'Px_response_null'])
+                    self.writer.writerow([self.headrun_Showtime_id,projectx_id,self.show_type,projectx_details,'',data["series_id"],data["expiry_date"],'','',only_mapped_ids["source_flag"],'Px_response_null'])
             else:  
                 self.total+=1          
-                self.writer.writerow([self.headrun_Showtime_id,'',self.show_type,'','',only_mapped_ids,'Px_id_null'])               
+                self.writer.writerow([self.headrun_Showtime_id,'',self.show_type,'','',data["series_id"],data["expiry_date"],'',only_mapped_ids,'Px_id_null'])               
         except (Exception,httplib.BadStatusLine,urllib2.HTTPError,socket.error,urllib2.URLError,RuntimeError) as e:
             self.retry_count+=1
             print("Retrying...................................",self.retry_count)
@@ -110,19 +107,19 @@ class headrun_Showtime_ott_validation:
         result_sheet='/result/headrun_Showtime_ott_%s_checking%s.csv'%(thread_name,datetime.date.today())
         output_file=lib_common_modules().create_csv(result_sheet)
         with output_file as mycsvfile:
-            fieldnames = ["%s_id"%self.source,"Projectx_id","show_type","px_video_link_present","%s_link_present"%self.source,"ott_link_result","mapping","","Expired"]
+            fieldnames = ["%s_id"%self.source,"Projectx_id","show_type","px_video_link_present","Fetch_from","Series_id","Expiry_date","%s_link_present"%self.source,"ott_link_result","mapping","","Expired"]
             self.writer = csv.writer(mycsvfile,dialect="csv",lineterminator = '\n')
             self.writer.writerow(fieldnames)
             for _id in range(start_id,end_id,100):
                 print({"skip":_id})
-                query_headrun_Showtime=self.sourcetable.aggregate([{"$match":{"$and":[{"item_type":{"$in":["movie","episode"]}},{"service":"showtime"}]}},{"$project":{"id":1,"_id":0,"item_type":1,"series_id":1,"title":1,"episode_title":1,"release_year":1,"episode_number":1,"season_number":1,"duration":1,"image_url":1,"url":1,"description":1,"cast":1,"directors":1,"writers":1,"categories":1,"genres":1,"maturity_ratings":1,"purchase_info":1,"service":1}},{"$skip":_id},{"$limit":100}])
+                query_headrun_Showtime=self.sourcetable.aggregate([{"$match":{"$and":[{"item_type":{"$in":["movie","episode"]}},{"service":self.source.lower()}]}},{"$project":{"id":1,"_id":0,"item_type":1,"series_id":1,"title":1,"episode_title":1,"release_year":1,"episode_number":1,"season_number":1,"duration":1,"image_url":1,"url":1,"description":1,"cast":1,"directors":1,"writers":1,"categories":1,"genres":1,"maturity_ratings":1,"purchase_info":1,"service":1,"expiry_date":1}},{"$skip":_id},{"$limit":100}])
                 #query_headrun_Showtime=self.sourcetable.find({"service":"Showtime","item_type":"movie","id":"70301275"})  
                 for data in query_headrun_Showtime:
                     if data.get("id")!="":
                         #import pdb;pdb.set_trace()
                         self.headrun_Showtime_id=data.get("id").encode("ascii","ignore")
                         if data.get("item_type")=="movie":
-                            self.show_type="MO"#data.get("item_type")
+                            self.show_type="MO"
                         else:
                             self.show_type="SE"
                         self.count_headrun_Showtime_id+=1
@@ -132,8 +129,7 @@ class headrun_Showtime_ott_validation:
                         print ({"count_headrun_Showtime_id":self.count_headrun_Showtime_id,
                                "id":self.headrun_Showtime_id,"thread_name":thread_name})
                         #import pdb;pdb.set_trace()
-                        only_mapped_ids=ott_meta_data_validation_modules().getting_mapped_px_id_mapping_api(str(self.headrun_Showtime_id),self.source_mapping_api,
-                                                                    self.projectx_mapping_api,self.show_type,self.source,self.token)
+                        only_mapped_ids=ott_meta_data_validation_modules().getting_mapped_px_id_mapping_api(str(self.headrun_Showtime_id),self.source_mapping_api,self.projectx_mapping_api,self.show_type,self.source,self.token)
                         self.ott_checking(only_mapped_ids,thread_name,data)              
             print("\n")                    
             print ({"count_headrun_Showtime_id":self.count_headrun_Showtime_id,"name":thread_name})  
