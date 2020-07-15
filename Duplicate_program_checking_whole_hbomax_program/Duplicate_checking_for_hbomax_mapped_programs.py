@@ -62,21 +62,20 @@ class headrun_hbomax_program_duplicate_checking:
 
     def get_env_url(self):
         self.expire_api='https://%s/expired_ott/is_available?source_program_id=%s&service_short_name=%s'
-        self.reverse_api_domain='http://preprod-projectx-api-545109534.us-east-1.elb.amazonaws.com/projectx/%s/%s/ottprojectx'
-        self.projectx_preprod_search_api='https://preprod.caavo.com/v3_1/voice_search?q=%s&safe_search=false&credit_summary=true&credit_types=Actor&aliases=true&ott=true'
-        self.projectx_preprod_api='https://preprod.caavo.com/programs?ids=%s&ott=true&aliases=true'
-        self.beta_programs_api='https://preprod.caavo.com/programs?ids=%s?ott=true'
-        self.duplicate_api='http://preprod-projectx-api-545109534.us-east-1.elb.amazonaws.com/projectx/duplicate?sourceId=%s&sourceName=%s&showType=%s'
-        self.projectx_mapping_api="http://preprod-projectx-api-545109534.us-east-1.elb.amazonaws.com/projectx/%d/mapping/"
-        self.credit_db_api="http://preprod-projectx-api-545109534.us-east-1.elb.amazonaws.com/projectx/%d/credits/"  
+        self.reverse_api_domain='http://beta-projectx-api-1289873303.us-east-1.elb.amazonaws.com/projectx/%s/%s/ottprojectx'
+        self.projectx_preprod_search_api='https://test.caavo.com/v3_1/voice_search?q=%s&safe_search=false&credit_summary=true&credit_types=Actor&aliases=true&ott=true'
+        self.projectx_preprod_api='https://test.caavo.com/programs?ids=%s&ott=true&aliases=true'
+        self.duplicate_api='http://beta-projectx-api-1289873303.us-east-1.elb.amazonaws.com/projectx/duplicate?sourceId=%s&sourceName=%s&showType=%s'
+        self.projectx_mapping_api="http://beta-projectx-api-1289873303.us-east-1.elb.amazonaws.com/projectx/%d/mapping/"
+        self.credit_db_api="http://beta-projectx-api-1289873303.us-east-1.elb.amazonaws.com/projectx/%d/credits/"  
 
     def default_param(self):
         self.source="HBOMAX"
         self.service='hbomax'
         self.Token='Token token=0b4af23eaf275daaf41c7e57749532f128660ec3befa0ff3aee94636e86a43e7'
-        self.preprod_domain_name="preprod.caavo.com"
+        self.preprod_domain_name="test.caavo.com"
         self.prod_domain="api.caavo.com"
-        self.projectx_domain="https://preprod.caavo.com"
+        self.projectx_domain="https://test.caavo.com"
         self.token='Token token=efeb15f572641809acbc0c26c9c1b63f4f7f1fd7dcb68070e45e26f3a40ec8e3'
         self.fieldnames_tag = ["source","sm_id","id","show_type","movie_title","series_title","episode_title",
            "release_year","link_expired","Projectx_ids","Variant id present for episode",
@@ -135,7 +134,7 @@ class headrun_hbomax_program_duplicate_checking:
                     if data_resp_search is not None:
                         result=duplicate_script_modules().search_api_response_validation(data_resp_search, self.source, self.series_id_px, duplicate,
                                 'SM',self.token,self.projectx_preprod_api,
-                                self.projectx_mapping_api,self.beta_programs_api
+                                self.projectx_mapping_api,self.projectx_preprod_api
                                 ,self.duplicate_api,self.credit_db_api)
                         if (self.credit_match=='False' or self.credit_match=='') and len(result["search_px_id"])==2:
                             #import pdb;pdb.set_trace()
@@ -213,7 +212,7 @@ class headrun_hbomax_program_duplicate_checking:
                                           self.projectx_domain,self.token)     
             if data_resp_search is not None:
                 result=duplicate_script_modules().search_api_response_validation(data_resp_search, self.source, self.px_id, duplicate,'MO',self.token,self.projectx_preprod_api,
-                        self.projectx_mapping_api,self.beta_programs_api
+                        self.projectx_mapping_api,self.projectx_preprod_api
                         ,self.duplicate_api,self.credit_db_api)
 
                 if (self.credit_match=='False' or self.credit_match=='') and len(result["search_px_id"])==2:
