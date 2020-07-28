@@ -154,8 +154,7 @@ class headrun_hbomax_program_duplicate_checking:
                                         break
                                     else:
                                         self.credit_match='False'
-                            result_credit_match_false=checking_any_two_px_programs().checking_same_program(result["search_px_id"],self.projectx_preprod_api
-                                                ,self.credit_db_api,self.source,self.token)
+                            result_credit_match_false=checking_any_two_px_programs().checking_same_program(result["search_px_id"],self.projectx_preprod_api,self.credit_db_api,self.source,self.token)
                             #import pdb;pdb.set_trace()
                             writer_credit_match_false.writerow(result_credit_match_false)            
                         writer.writerow([self.source,self.show_id,self.id,'SE','',self.series_title,self.episode_title
@@ -213,6 +212,24 @@ class headrun_hbomax_program_duplicate_checking:
                                         else:
                                             self.credit_match='False'
                                 result_credit_match_false=checking_any_two_px_programs().checking_same_program(result["search_px_id"],self.projectx_preprod_api,self.credit_db_api,self.source,self.token)
+                                #import pdb;pdb.set_trace()
+                                writer_credit_match_false.writerow(result_credit_match_false)            
+                            writer.writerow([self.source,self.show_id,self.id,'SE','',self.series_title,self.episode_title
+                                ,self.release_year,self.link_expired,self.series_id_px,'','','',result["comment"],result["comment"],result["duplicate"],result["search_px_id"],self.credit_match,result["count_rovi"],result["count_guidebox"],result["count_source"],
+                                result["count_hulu"],result["count_vudu"],result["rovi_mapping"],result["guidebox_mapping"],result["source_mapping"],result["hulu_mapping"],result["vudu_mapping"],
+                                result["comment_variant_parent_id_present"],result["comment_variant_parent_id"]])
+                        else:
+                            duplicate_api=self.duplicate_api%(self.show_id,self.source,'SM')
+                            data_resp_duplicate=lib_common_modules().fetch_response_for_api_(duplicate_api,self.token)
+                            if data_resp_duplicate:
+                                duplicate='True'
+                            else:
+                                duplicate='False'
+                            self.comment="search_api_has_no_response"
+                            self.result="search_api_has_no_response"
+                            writer.writerow([self.source,self.show_id,self.id,'SE', '',self.series_title, 
+                                         self.episode_title, self.release_year, self.link_expired, self.series_id_px, 
+                                         '', '', '' ,self.comment,self.result,duplicate])        
                     else:
                         self.comment=('No multiple ids for this series',self.id,self.show_id)
                         self.result="No multiple ids for this series"
