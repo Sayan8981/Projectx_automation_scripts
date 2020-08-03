@@ -5,6 +5,9 @@ import urllib2
 from urllib2 import HTTPError,URLError
 import json,datetime
 import httplib
+homedir=os.path.expanduser("~")
+sys.path.insert(0,'%s/common_lib'%homedir)
+from lib import lib_common_modules
 sys.setrecursionlimit(1500)
 
 
@@ -22,7 +25,7 @@ class deadsystem_content_ingestion:
         self.sourcetable=self.sourceDB["Content"]
 
     def get_API_url(self):
-        self.deadsystem_API = "http://data.headrun.com/api/?dead_sort_by=True&format=json&is_valid=0"
+        self.deadsystem_API = "http://data.headrun.com/api/?sort_by=True&format=json&is_valid=0&modified_at=%s"
 
     #TODO: fetching response for the given API
     def fetch_response_for_api_(self,api):  
@@ -38,60 +41,50 @@ class deadsystem_content_ingestion:
             else:
                 self.retry_count = 0
 
-    def db_updation(self,data):
-        for details in data:
-            print (details)
-            update_date = { "$set": { "dump_date": self.current_date } }  
-            self.sourcetable.update_one(details, update_date)            
-
     def db_insertion(self,data):
         for details in data:
-            print (details)
-            details["dump_date"] = self.current_date
-            self.sourcetable.insert_one(details)  
-
-    def api_pagination_call_db_updation(self,api):
-        print("\n")
-        print ("fetching API", api)
-        api_data = self.fetch_response_for_api_(api)
-        if api_data["results"]:
-            self.db_updation(api_data["results"])
-            if api_data["next"] is not None:
-                pass
-                #self.api_pagination_call_db_insertion(api_data["next"])
-            else:
-                print ("next page not present ....",api_data["previous"])
-                self.connection.close()                      
+            self.logger.debug ([details])
+            self.created_at = details.pop("created_at")
+            self.modified_at = details.pop("modified_at")
+            if details in self.db_array:
+                details["created_at"] = self.created_at
+                details["modified_at"] = self.modified_at
+                update_date = { "$set": { "dump_date": self.current_date } }
+                self.sourcetable.update_one(details, update_date)
+            else:    
+                details["created_at"] = self.created_at
+                details["modified_at"] = self.modified_at
+                details["dump_date"] = self.current_date
+                self.sourcetable.insert_one(details)  
 
     def api_pagination_call_db_insertion(self,api):
-        print("\n")
-        print ("fetching API", api)
+        self.logger.debug("\n")
+        self.logger.debug (["fetching API", api])
         api_data = self.fetch_response_for_api_(api)
         if api_data["results"]:
             self.db_insertion(api_data["results"])
             if api_data["next"] is not None:
-                pass
-                #self.api_pagination_call_db_insertion(api_data["next"])
+                self.api_pagination_call_db_insertion(api_data["next"])
             else:
-                print ("next page not present ....",api_data["previous"])
+                self.logger.debug (["next page not present ....",api_data["previous"]])
                 self.connection.close()          
 
     def main(self):
         self.mongo_connection()
         self.get_API_url()
+        self.logger=lib_common_modules().create_log(os.getcwd()+"/log/log.txt")
         #delete all previous record first
         #self.sourcetable.remove()
-        self.mycursor = self.sourcetable.find()
-        print (self.mycursor.explain())
+        self.mycursor = self.sourcetable.find({})
+        self.logger.debug ([self.mycursor.explain()])
         for item in self.mycursor:
+            item.pop("modified_at")
+            item.pop("_id")
+            item.pop("created_at")           
+            item.pop("dump_date")           
             self.db_array.append(item)
-        print (self.db_array)    
-        if self.db_array:
-            self.api_pagination_call_db_updation(self.deadsystem_API)  
-            print ("data updated into MongoDB!!",self.current_date)
-        else:    
-            self.api_pagination_call_db_insertion(self.deadsystem_API)
-            print ("data inserted into MongoDB!!",self.current_date)             
+        self.api_pagination_call_db_insertion(self.deadsystem_API%self.current_date)
+        self.logger.debug (["data inserted into MongoDB!!",self.current_date])
 
 if __name__=="__main__":
     deadsystem_content_ingestion().main()       
