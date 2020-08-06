@@ -17,7 +17,7 @@ class deadsystem_content_ingestion:
 
     def __init__(self):
         self.db_array = []
-        self.current_date=str((datetime.datetime.now() - datetime.timedelta(days=1)).strftime("%Y-%m-%d"))
+        self.current_date=str((datetime.datetime.now() - datetime.timedelta(days=0)).strftime("%Y-%m-%d"))
 
     def mongo_connection(self):
         self.connection=pymongo.MongoClient("mongodb://127.0.0.1:27017/")
@@ -25,7 +25,7 @@ class deadsystem_content_ingestion:
         self.sourcetable=self.sourceDB["content"]
 
     def get_API_url(self):
-        self.deadsystem_API = "http://data.headrun.com/api/?sort_by=True&format=json&is_valid=0&modified_at=%s"
+        self.deadsystem_API = "http://data.headrun.com/api/?sort_by=True&format=json&is_valid=0"
 
     #TODO: fetching response for the given API
     def fetch_response_for_api_(self,api):  
@@ -74,7 +74,7 @@ class deadsystem_content_ingestion:
         self.get_API_url()
         self.logger=lib_common_modules().create_log(os.getcwd()+"/log/log.txt")
         #delete all previous record first
-        #self.sourcetable.remove()
+        self.sourcetable.remove()
         self.mycursor = self.sourcetable.find({})
         self.logger.debug ([self.mycursor.explain()])
         for item in self.mycursor:
@@ -83,7 +83,7 @@ class deadsystem_content_ingestion:
             item.pop("created_at")           
             item.pop("dump_date")           
             self.db_array.append(item)
-        self.api_pagination_call_db_insertion(self.deadsystem_API%self.current_date)
+        self.api_pagination_call_db_insertion(self.deadsystem_API)
         self.logger.debug (["data inserted into MongoDB!!",self.current_date])
 
 if __name__=="__main__":
