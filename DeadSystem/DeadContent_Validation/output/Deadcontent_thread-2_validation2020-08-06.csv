@@ -1,0 +1,101 @@
+service_name,Url,source_id,Episode_title,Title,Show_type,Release_year,Season_number,Episode_number,Expiry_date,is_valid,modified_at,created_at,API_expiry_response,Result
+amazon,http://www.amazon.com/gp/product/B0721RP1VR,B0721RP1VR,Get Slow and Low,Yoga Groove,episode,2017,2,6,,0,2020-08-05T05:33:33Z,2020-07-21T15:12:30Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071KDHSCQ,B071KDHSCQ,Welcome to Season 2,Yoga Groove,episode,2017,2,1,,0,2020-08-05T05:33:31Z,2020-07-21T15:12:15Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071XBKB48,B071XBKB48,Expansive Flow,Yoga Groove,episode,2017,2,4,,0,2020-08-05T05:33:30Z,2020-07-21T15:12:26Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071GSJN3F,B071GSJN3F,Breathing Practice,Yoga Groove,episode,2017,2,2,,0,2020-08-05T05:33:29Z,2020-07-21T15:11:58Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071GSJ4RL,B071GSJ4RL,Back Care Program,Yoga Groove,episode,2017,2,8,,0,2020-08-05T05:33:27Z,2020-07-21T15:11:58Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071KDH3N3,B071KDH3N3,Releasing Neck Tension,Wait for It,episode,2017,3,5,,0,2020-08-05T05:33:12Z,2020-07-21T15:12:15Z,True,Pass
+amazon,http://www.amazon.com/gp/product/B071GSJFC9,B071GSJFC9,Welcome to Season 3,Wait for It,episode,2017,3,1,,0,2020-08-05T05:33:04Z,2020-07-21T15:11:58Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B0721RQG2L,B0721RQG2L,Flow and Glow,30 Minute Yoga Flows,episode,2017,1,3,,0,2020-08-05T05:33:02Z,2020-07-21T15:12:30Z,True,Pass
+amazon,http://www.amazon.com/gp/product/B071GSJ8GN,B071GSJ8GN,Sciatica Relief,Wait for It,episode,2017,3,4,,0,2020-08-05T05:32:58Z,2020-07-21T15:11:58Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071GSKQDX,B071GSKQDX,Slow Shoulder Flow,30 Minute Yoga Flows,episode,2017,1,9,,0,2020-08-05T05:32:57Z,2020-07-21T15:11:58Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071KDHNCH,B071KDHNCH,Bija Mantra Meditation,Wait for It,episode,2017,3,10,,0,2020-08-05T05:32:56Z,2020-07-21T15:12:15Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071XBLGXK,B071XBLGXK,Wring It Out,30 Minute Yoga Flows,episode,2017,1,8,,0,2020-08-05T05:32:56Z,2020-07-21T15:12:26Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071GSJF9M,B071GSJF9M,Low Back Love,Wait for It,episode,2017,3,6,,0,2020-08-05T05:32:54Z,2020-07-21T15:11:58Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071KDJY9S,B071KDJY9S,Happy Hammies,30 Minute Yoga Flows,episode,2017,1,4,,0,2020-08-05T05:32:54Z,2020-07-21T15:12:15Z,True,Pass
+amazon,http://www.amazon.com/gp/product/B071GSJDDX,B071GSJDDX,Sitting Too Long,Wait for It,episode,2017,3,3,,0,2020-08-05T05:32:51Z,2020-07-21T15:11:58Z,True,Pass
+amazon,http://www.amazon.com/gp/product/B071GSKM3Y,B071GSKM3Y,Freedom in the Hips,30 Minute Yoga Flows,episode,2017,1,5,,0,2020-08-05T05:32:51Z,2020-07-21T15:11:58Z,True,Pass
+amazon,http://www.amazon.com/gp/product/B071GSKKFC,B071GSKKFC,Supple Spine,30 Minute Yoga Flows,episode,2017,1,2,,0,2020-08-05T05:32:49Z,2020-07-21T15:11:58Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071XBKK5Y,B071XBKK5Y,Altar of the Spine,Wait for It,episode,2017,3,9,,0,2020-08-05T05:32:49Z,2020-07-21T15:12:26Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B0721RNWNR,B0721RNWNR,Yin at the Wall,Wait for It,episode,2017,3,7,,0,2020-08-05T05:32:47Z,2020-07-21T15:12:30Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071GSKQKD,B071GSKQKD,Awaken Your Core,30 Minute Yoga Flows,episode,2017,1,7,,0,2020-08-05T05:32:46Z,2020-07-21T15:11:58Z,True,Pass
+amazon,http://www.amazon.com/gp/product/B071GSJK4F,B071GSJK4F,Restore Your Pelvis,Wait for It,episode,2017,3,8,,0,2020-08-05T05:32:45Z,2020-07-21T15:11:58Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071KDJXGT,B071KDJXGT,Sweetheart Flow,30 Minute Yoga Flows,episode,2017,1,6,,0,2020-08-05T05:32:44Z,2020-07-21T15:12:15Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071XBKCYK,B071XBKCYK,Relax the Spine,Wait for It,episode,2017,3,2,,0,2020-08-05T05:32:42Z,2020-07-21T15:12:26Z,True,Pass
+amazon,http://www.amazon.com/gp/product/B071GSKLRT,B071GSKLRT,Welcome to Season 1,30 Minute Yoga Flows,episode,2017,1,1,,0,2020-08-05T05:32:41Z,2020-07-21T15:11:58Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071GSJN6B,B071GSJN6B,Welcome to Season 3,Heartful,episode,2017,3,1,,0,2020-08-05T05:30:16Z,2020-07-21T15:11:58Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071GSJSQ1,B071GSJSQ1,Tonglen Practice,Heartful,episode,2017,3,4,,0,2020-08-05T05:30:16Z,2020-07-21T15:11:58Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071GSJ2NK,B071GSJ2NK,Daily Dharma,Heartful,episode,2017,3,5,,0,2020-08-05T05:30:15Z,2020-07-21T15:11:58Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071GSJ7YM,B071GSJ7YM,Footnotes and Gratitude,Heartful,episode,2017,3,6,,0,2020-08-05T05:30:15Z,2020-07-21T15:11:58Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071GSJJ2F,B071GSJJ2F,"I, Me, Mine",Heartful,episode,2017,3,2,,0,2020-08-05T05:30:14Z,2020-07-21T15:11:58Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071GSJJWJ,B071GSJJWJ,How It Works,Heartful,episode,2017,3,3,,0,2020-08-05T05:30:14Z,2020-07-21T15:11:58Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071KDHNCL,B071KDHNCL,Fitness Flow,Keepin' it Real,episode,2017,3,7,,0,2020-08-05T05:27:41Z,2020-07-21T15:12:15Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071GSJ3YJ,B071GSJ3YJ,12-Pack Abs,Keepin' it Real,episode,2017,3,13,,0,2020-08-05T05:27:40Z,2020-07-21T15:11:58Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071GSJGZH,B071GSJGZH,Welcome to Season 3,Keepin' it Real,episode,2017,3,1,,0,2020-08-05T05:27:40Z,2020-07-21T15:11:58Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071GSJ97K,B071GSJ97K,Functional Flow,Keepin' it Real,episode,2017,3,5,,0,2020-08-05T05:27:39Z,2020-07-21T15:11:58Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071KDH3MW,B071KDH3MW,Shoulder Love,Keepin' it Real,episode,2017,3,9,,0,2020-08-05T05:27:39Z,2020-07-21T15:12:15Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071GSJFJW,B071GSJFJW,Crow Pose Tutorial,Keepin' it Real,episode,2017,3,4,,0,2020-08-05T05:27:38Z,2020-07-21T15:11:58Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071KDHPML,B071KDHPML,Hippy Dippy,Keepin' it Real,episode,2017,3,10,,0,2020-08-05T05:27:38Z,2020-07-21T15:12:15Z,True,Pass
+amazon,http://www.amazon.com/gp/product/B071GSJFWX,B071GSJFWX,Awaken With Ease,Keepin' it Real,episode,2017,3,15,,0,2020-08-05T05:27:37Z,2020-07-21T15:11:58Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071KDHPM1,B071KDHPM1,Strengthen and Stretch,Keepin' it Real,episode,2017,3,14,,0,2020-08-05T05:27:37Z,2020-07-21T15:12:15Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071GSJ1BQ,B071GSJ1BQ,Strappy Shoulders Tutorial,Keepin' it Real,episode,2017,3,6,,0,2020-08-05T05:27:36Z,2020-07-21T15:11:58Z,True,Pass
+amazon,http://www.amazon.com/gp/product/B071GSJPXF,B071GSJPXF,Slowly Unwind,Keepin' it Real,episode,2017,3,12,,0,2020-08-05T05:27:36Z,2020-07-21T15:11:58Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B0721RNYLD,B0721RNYLD,Twisting Flow,Keepin' it Real,episode,2017,3,11,,0,2020-08-05T05:27:36Z,2020-07-21T15:12:30Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071GSJSCY,B071GSJSCY,Strengthen and Flow,Keepin' it Real,episode,2017,3,8,,0,2020-08-05T05:27:35Z,2020-07-21T15:11:58Z,True,Pass
+amazon,http://www.amazon.com/gp/product/B071XBK5Z7,B071XBK5Z7,Push-Up Tutorial,Keepin' it Real,episode,2017,3,3,,0,2020-08-05T05:27:35Z,2020-07-21T15:12:26Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B071KDHPSX,B071KDHPSX,Pelvis Tutorial,Keepin' it Real,episode,2017,3,2,,0,2020-08-05T05:27:34Z,2020-07-21T15:12:15Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B07256KWJQ,B07256KWJQ,Cabela's Collegiate Bass Fishing Series and School of the Year Overview,Cabela's Collegiate Bass Fishing Series,episode,2014,9,5,,0,2020-08-05T05:27:23Z,2020-07-21T15:12:32Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B0713TPQMM,B0713TPQMM,ACA Collegiate Bass Fishing Open 2014 - Day 1,Cabela's Collegiate Bass Fishing Series,episode,2014,9,1,,0,2020-08-05T05:27:22Z,2020-07-21T15:11:45Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B0716FJ5CD,B0716FJ5CD,ACA Collegiate Bass Fishing Open 2014 - Day 2,Cabela's Collegiate Bass Fishing Series,episode,2014,9,2,,0,2020-08-05T05:27:22Z,2020-07-21T15:11:48Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B0713TPS2P,B0713TPS2P,2014 Boat US Collegiate Bass Championship - Day 2,Cabela's Collegiate Bass Fishing Series,episode,2014,9,7,,0,2020-08-05T05:27:21Z,2020-07-21T15:11:45Z,True,Pass
+amazon,http://www.amazon.com/gp/product/B071KX9DPW,B071KX9DPW,Cabela's Collegiate Big Bass Bash 2014 - Day 1,Cabela's Collegiate Bass Fishing Series,episode,2014,9,3,,0,2020-08-05T05:27:21Z,2020-07-21T15:12:16Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B0713TPNWV,B0713TPNWV,Cabela's Collegiate Big Bass Bash 2014 - Day 2,Cabela's Collegiate Bass Fishing Series,episode,2014,9,4,,0,2020-08-05T05:27:20Z,2020-07-21T15:11:45Z,True,Pass
+amazon,http://www.amazon.com/gp/product/B0716FJ2JY,B0716FJ2JY,2014 Boat US Collegiate Bass Championship - Day 1,Cabela's Collegiate Bass Fishing Series,episode,2014,9,6,,0,2020-08-05T05:27:20Z,2020-07-21T15:11:47Z,False,Fail
+netflix,https://www.netflix.com/title/80057969,80057969,,Love,movie,2015,,,,0,2020-08-05T05:19:55Z,2019-04-30T07:31:04Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B07BF2BQGN,B07BF2BQGN,"2017 TXTT Championship, Lake Livingston - Part 2",Texas Team Trail Presented by Cabela's,episode,2017,6,6,,0,2020-08-05T05:19:50Z,2020-07-21T15:17:49Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B076CTK1G5,B076CTK1G5,2017 TXTT Texoma Lake,Texas Team Trail Presented by Cabela's,episode,2017,6,4,,0,2020-08-05T05:19:49Z,2020-07-21T15:14:47Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B074FQHWPZ,B074FQHWPZ,TXTT Sam Rayburn,Texas Team Trail Presented by Cabela's,episode,2017,6,1,,0,2020-08-05T05:19:48Z,2020-07-21T15:13:41Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B074BDZZVN,B074BDZZVN,2017 TXTT Toledo Bend,Texas Team Trail Presented by Cabela's,episode,2017,6,2,,0,2020-08-05T05:19:47Z,2020-07-21T15:13:34Z,True,Pass
+amazon,http://www.amazon.com/gp/product/B07BF1KXVM,B07BF1KXVM,"2017 TXTT Championship, Lake Livingston - Part 1",Texas Team Trail Presented by Cabela's,episode,2017,6,5,,0,2020-08-05T05:19:47Z,2020-07-21T15:17:48Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B074FQ3KKS,B074FQ3KKS,2017 TXTT Belton Lake,Texas Team Trail Presented by Cabela's,episode,2017,6,3,,0,2020-08-05T05:19:46Z,2020-07-21T15:13:41Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B074FPH5PC,B074FPH5PC,Lake Fairfield,Fishing and Hunting Texas,episode,2017,7,3,,0,2020-08-05T05:17:47Z,2020-07-21T15:13:41Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B074FPP6SK,B074FPP6SK,Lake Amistad,Fishing and Hunting Texas,episode,2017,7,4,,0,2020-08-05T05:17:46Z,2020-07-21T15:13:41Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B07BF5NKR3,B07BF5NKR3,Father/Daughter Whitetail,Fishing and Hunting Texas,episode,2017,7,7,,0,2020-08-05T05:17:45Z,2020-07-21T15:17:49Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B074FQM482,B074FQM482,Sam Rayburn Saltwater,Fishing and Hunting Texas,episode,2017,7,1,,0,2020-08-05T05:17:44Z,2020-07-21T15:13:41Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B07BF1X7PC,B07BF1X7PC,Ducks and Bucks,Fishing and Hunting Texas,episode,2017,7,6,,0,2020-08-05T05:17:43Z,2020-07-21T15:17:49Z,True,Pass
+amazon,http://www.amazon.com/gp/product/B074FR2MCC,B074FR2MCC,Marble Falls,Fishing and Hunting Texas,episode,2017,7,2,,0,2020-08-05T05:17:42Z,2020-07-21T15:13:41Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B07BF2RFWW,B07BF2RFWW,Lake Naconiche,Fishing and Hunting Texas,episode,2017,7,5,,0,2020-08-05T05:17:42Z,2020-07-21T15:17:49Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B074FQJ23N,B074FQJ23N,"Road Trip 2013: Lucas Steward in OK and Crooked Creek, AR Bass",Hobie Outdoor Adventures,episode,2017,3,4,,0,2020-08-05T05:17:32Z,2020-07-21T15:13:41Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B074FCN8JD,B074FCN8JD,Devil's River,Hobie Outdoor Adventures,episode,2014,3,2,,0,2020-08-05T05:17:31Z,2020-07-21T15:13:39Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B074FPZ8D5,B074FPZ8D5,Inside Look at Kayaking and Fishing,Hobie Outdoor Adventures,episode,2014,3,1,,0,2020-08-05T05:17:31Z,2020-07-21T15:13:41Z,True,Pass
+amazon,http://www.amazon.com/gp/product/B074FQGSDW,B074FQGSDW,Inshore Fishing Association Kayak Championship 2013,Hobie Outdoor Adventures,episode,2014,3,7,,0,2020-08-05T05:17:30Z,2020-07-21T15:13:41Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B074FR3HS4,B074FR3HS4,Australia,Hobie Outdoor Adventures,episode,2014,3,10,,0,2020-08-05T05:17:28Z,2020-07-21T15:13:41Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B074FSQSHK,B074FSQSHK,Hobie Worlds 2014: Australia Episode 2,Hobie Outdoor Adventures,episode,2014,3,9,,0,2020-08-05T05:17:27Z,2020-07-21T15:13:41Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B074FQS1K7,B074FQS1K7,Road Trip 2013: Ray Roberts Striper,Hobie Outdoor Adventures,episode,2014,3,6,,0,2020-08-05T05:17:26Z,2020-07-21T15:13:41Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B074FQL582,B074FQL582,Road Trip 2013: St. Louis with Jackie Smith,Hobie Outdoor Adventures,episode,2017,3,3,,0,2020-08-05T05:17:25Z,2020-07-21T15:13:41Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B074FPRMF1,B074FPRMF1,"Road Trip 2013: Gaston, AR - White River Trout",Hobie Outdoor Adventures,episode,2014,3,5,,0,2020-08-05T05:17:24Z,2020-07-21T15:13:41Z,False,Fail
+amazon,http://www.amazon.com/gp/product/B074FRM2VB,B074FRM2VB,Hobie Worlds 2014: Australia Episode 1,Hobie Outdoor Adventures,episode,2017,3,8,,0,2020-08-05T05:17:23Z,2020-07-21T15:13:41Z,True,Pass
+netflix,https://www.netflix.com/title/80194246,80194246,Episode 4,Dino Hunt,episode,2015,1,4,,0,2020-08-05T05:13:41Z,2019-04-30T07:29:13Z,False,Fail
+netflix,https://www.netflix.com/title/80194245,80194245,Episode 3,Dino Hunt,episode,2015,1,3,,0,2020-08-05T05:13:39Z,2019-04-30T07:29:13Z,False,Fail
+netflix,https://www.netflix.com/title/80194244,80194244,Episode 2,Dino Hunt,episode,2015,1,2,,0,2020-08-05T05:13:37Z,2019-04-30T07:29:13Z,False,Fail
+netflix,https://www.netflix.com/title/80194243,80194243,Episode 1,Dino Hunt,episode,2015,1,1,,0,2020-08-05T05:13:36Z,2019-04-30T07:29:13Z,False,Fail
+tbs,https://www.tbs.com/movies/life-as-we-know-it,101,,Life As We Know It,movie,2010,,,2020-08-04,0,2020-08-05T04:36:27Z,2020-04-01T06:31:57Z,False,Fail
+tbs,http://www.tbs.com/shows/friends/season-1/episode-17/the-one-with-two-parts-part-ii,2989,"The One With Two Parts, Part II",Friends,episode,,1,,2020-08-03,0,2020-08-05T04:36:27Z,2019-07-15T22:32:56Z,False,Fail
+tbs,http://www.tbs.com/shows/friends/season-1/episode-16/the-one-with-two-parts-part-i,3004,"The One With Two Parts, Part I",Friends,episode,,1,,2020-08-03,0,2020-08-05T04:36:27Z,2019-07-15T22:32:56Z,False,Fail
+tbs,http://www.tbs.com/shows/friends/season-6/episode-14/the-one-where-chandler-cant-cry,3155,The One Where Chandler Can't Cry,Friends,episode,,6,,2020-08-03,0,2020-08-05T04:36:27Z,2020-07-27T10:07:58Z,False,Fail
+tbs,http://www.tbs.com/shows/friends/season-8/episode-6/the-one-with-the-halloween-party,3211,The One With The Halloween Party,Friends,episode,,8,,2020-08-03,0,2020-08-05T04:36:27Z,2020-07-27T10:07:58Z,False,Fail
+tbs,http://www.tbs.com/shows/the-big-bang-theory/season-3/episode-19/the-wheaton-recurrence,7179,The Wheaton Recurrence,The Big Bang Theory,episode,2011,3,,2020-08-03,0,2020-08-05T04:36:27Z,2019-05-15T06:10:32Z,False,Fail
+tbs,http://www.tbs.com/shows/the-big-bang-theory/season-3/episode-16/the-excelsior-acquisition,7211,The Excelsior Acquisition,The Big Bang Theory,episode,,3,,2020-08-03,0,2020-08-05T04:36:27Z,2019-07-05T06:50:13Z,False,Fail
+tbs,http://www.tbs.com/shows/the-big-bang-theory/season-3/episode-18/the-pants-alternative,7214,The Pants Alternative,The Big Bang Theory,episode,2011,3,,2020-08-03,0,2020-08-05T04:36:27Z,2019-05-16T06:50:39Z,False,Fail
+tbs,http://www.tbs.com/shows/the-big-bang-theory/season-3/episode-17/the-precious-fragmentation,7229,The Precious Fragmentation,The Big Bang Theory,episode,2011,3,,2020-08-03,0,2020-08-05T04:36:27Z,2019-07-05T06:50:13Z,False,Fail
+tbs,http://www.tbs.com/shows/everybody-loves-raymond/season-8/episode-7/liars,8410,Liars,Everybody Loves Raymond,episode,,8,,2020-08-03,0,2020-08-05T04:36:27Z,2019-07-10T14:49:16Z,False,Fail
+tbs,http://www.tbs.com/shows/everybody-loves-raymond/season-8/episode-8/the-surprise-party,8411,The Surprise Party,Everybody Loves Raymond,episode,,8,,2020-08-03,0,2020-08-05T04:36:27Z,2019-07-11T14:12:09Z,False,Fail
+tbs,http://www.tbs.com/shows/everybody-loves-raymond/season-8/episode-9/the-bird,8412,The Bird,Everybody Loves Raymond,episode,,8,,2020-08-03,0,2020-08-05T04:36:27Z,2019-07-10T14:49:16Z,False,Fail
+tbs,http://www.tbs.com/shows/everybody-loves-raymond/season-8/episode-10/jazz-records,8413,Jazz Records,Everybody Loves Raymond,episode,,8,,2020-08-03,0,2020-08-05T04:36:27Z,2019-05-13T14:22:15Z,False,Fail
+tbs,https://www.tbs.com/movies/identity-thief-theatrical,24643,,Identity Thief,movie,2013,,,2020-08-04,0,2020-08-05T04:36:27Z,2019-12-01T07:57:15Z,False,Fail
+tbs,https://www.tbs.com/movies/the-edge-of-seventeen-theatrical,25187,,The Edge of Seventeen,movie,2016,,,2021-08-01,0,2020-08-05T04:36:27Z,2020-08-02T00:01:07Z,True,Pass
+tbs,https://www.tbs.com/movies/life-of-the-party-theatrical,27161,,Life of the Party,movie,2018,,,2020-08-04,0,2020-08-05T04:36:27Z,2020-07-05T07:01:21Z,False,Fail
+tbs,http://www.tbs.com/shows/family-matters/season-7/episode-21/tips-for-a-better-life,28727,Tips for a Better Life,Family Matters,episode,,7,,2020-08-03,0,2020-08-05T04:36:27Z,2020-04-30T14:17:58Z,False,Fail
+nbc,http://www.nbc.com/shark-tank/video/206/2815010,2815010,206,Shark Tank,episode,2020,2,206,2020-08-04,0,2020-08-05T04:36:27Z,2019-12-05T13:42:53Z,True,Pass
+nbc,http://www.nbc.com/chicago-pd/video/chicken-dynamite-chainsaw/3694759,3694759,"Chicken, Dynamite, Chainsaw",Chicago P.D.,episode,2014,2,4,2020-08-04,0,2020-08-05T04:36:27Z,2020-07-03T11:59:56Z,True,Pass
+nbc,https://www.nbc.com/gi-joe-the-rise-of-cobra,4053529,,G.I. Joe: The Rise of Cobra,movie,2009,,,2020-08-04,0,2020-08-05T04:36:27Z,2019-11-04T16:17:19Z,False,Fail

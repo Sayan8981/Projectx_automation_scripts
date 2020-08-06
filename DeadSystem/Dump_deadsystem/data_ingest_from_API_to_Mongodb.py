@@ -17,12 +17,12 @@ class deadsystem_content_ingestion:
 
     def __init__(self):
         self.db_array = []
-        self.current_date=str(datetime.datetime.now().strftime("%Y-%m-%d"))
+        self.current_date=str((datetime.datetime.now() - datetime.timedelta(days=1)).strftime("%Y-%m-%d"))
 
     def mongo_connection(self):
         self.connection=pymongo.MongoClient("mongodb://127.0.0.1:27017/")
-        self.sourceDB=self.connection["DeadSystem"]
-        self.sourcetable=self.sourceDB["Content"]
+        self.sourceDB=self.connection["deadsystem"]
+        self.sourcetable=self.sourceDB["content"]
 
     def get_API_url(self):
         self.deadsystem_API = "http://data.headrun.com/api/?sort_by=True&format=json&is_valid=0&modified_at=%s"
