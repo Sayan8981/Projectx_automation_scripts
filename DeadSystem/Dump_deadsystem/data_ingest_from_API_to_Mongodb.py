@@ -15,15 +15,21 @@ class deadsystem_content_ingestion:
 
     retry_count = 0
 
+    #initialization
     def __init__(self):
         self.db_array = []
-        self.current_date=str((datetime.datetime.now() - datetime.timedelta(days=0)).strftime("%Y-%m-%d"))
-
+        self.update_array = []
+        self.insert_array = []
+        self.next_page_url = ''
+        self.current_date=(datetime.datetime.now() - datetime.timedelta(days=0)).strftime("%Y-%m-%d")
+   
+    #connection 
     def mongo_connection(self):
         self.connection=pymongo.MongoClient("mongodb://127.0.0.1:27017/")
         self.sourceDB=self.connection["deadsystem"]
         self.sourcetable=self.sourceDB["content"]
 
+    #APIs
     def get_API_url(self):
         self.deadsystem_API = "http://data.headrun.com/api/?sort_by=True&format=json&is_valid=0"
 
@@ -41,7 +47,12 @@ class deadsystem_content_ingestion:
             else:
                 self.retry_count = 0
 
-    def db_insertion(self,data):
+    def cleanup(self):
+        self.insert_array = []
+        self.update_array = []            
+
+    #db_insertion_updation
+    def db_insertion_updation(self,data):
         for details in data:
             self.logger.debug ([details])
             self.created_at = details.pop("created_at")
@@ -49,32 +60,35 @@ class deadsystem_content_ingestion:
             if details in self.db_array:
                 details["created_at"] = self.created_at
                 details["modified_at"] = self.modified_at
-                update_date = { "$set": { "dump_date": self.current_date } }
-                self.sourcetable.update_one(details, update_date)
+                self.update_array.append(details)
             else:    
                 details["created_at"] = self.created_at
                 details["modified_at"] = self.modified_at
                 details["dump_date"] = self.current_date
-                self.sourcetable.insert_one(details)  
+                self.insert_array.append(details)
+        if self.update_array:
+            self.sourcetable.update_many({"$or":self.update_array}, { "$set": { "dump_date": self.current_date } })
+        if self.insert_array:
+            self.sourcetable.insert_many(self.insert_array)
 
-    def api_pagination_call_db_insertion(self,api):
+    def api_pagination_call_db_insertion_updation(self,api):
         self.logger.debug("\n")
         self.logger.debug (["fetching API", api])
         api_data = self.fetch_response_for_api_(api)
         if api_data["results"]:
-            self.db_insertion(api_data["results"])
+            self.cleanup()
+            self.db_insertion_updation(api_data["results"])
             if api_data["next"] is not None:
-                self.api_pagination_call_db_insertion(api_data["next"])
+                self.next_page_url = api_data["next"]
+                self.api_pagination_call_db_insertion_updation(self.next_page_url)
             else:
-                self.logger.debug (["next page not present ....",api_data["previous"]])
+                self.logger.debug (["next page not present ....",self.next_page_url])
                 self.connection.close()          
 
     def main(self):
         self.mongo_connection()
         self.get_API_url()
         self.logger=lib_common_modules().create_log(os.getcwd()+"/log/log.txt")
-        #delete all previous record first
-        self.sourcetable.remove()
         self.mycursor = self.sourcetable.find({})
         self.logger.debug ([self.mycursor.explain()])
         for item in self.mycursor:
@@ -83,8 +97,8 @@ class deadsystem_content_ingestion:
             item.pop("created_at")           
             item.pop("dump_date")           
             self.db_array.append(item)
-        self.api_pagination_call_db_insertion(self.deadsystem_API)
-        self.logger.debug (["data inserted into MongoDB!!",self.current_date])
+        self.api_pagination_call_db_insertion_updation(self.deadsystem_API)
+        self.logger.debug (["data inserted and updated into MongoDB!!",datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")])
 
 if __name__=="__main__":
     deadsystem_content_ingestion().main()       

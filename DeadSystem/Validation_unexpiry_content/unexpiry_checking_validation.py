@@ -11,7 +11,7 @@ sys.path.insert(0,'%s/common_lib'%homedir)
 from lib import lib_common_modules
 sys.setrecursionlimit(1500) 
 
-class deadsystem_content_validation:
+class unexpiry_content_validation:
 
     retry_count=0  
     total_count = 0
@@ -21,12 +21,12 @@ class deadsystem_content_validation:
 
     #initialization
     def __init__(self):
-        self.current_date = str((datetime.datetime.now() - datetime.timedelta(days=0)).strftime("%Y-%m-%d"))
+        self.current_date = (datetime.datetime.now() - datetime.timedelta(days=0)).strftime("%Y-%m-%d")
         self.token = 'Token token=efeb15f572641809acbc0c26c9c1b63f4f7f1fd7dcb68070e45e26f3a40ec8e3'
         self.expired_token = 'Token token=0b4af23eaf275daaf41c7e57749532f128660ec3befa0ff3aee94636e86a43e7'
         self.source_array = ["amazon","vudu","showtimeanytime","itunes","hulu","netflix","tbs","nbc","tnt","hbomax","cbs","hbogo","hbonow","starz","showtime","disneyplus","appletv"]
         self.result = ''
-        self.csv_fieldnames = ["service_name","Url","source_id","Series_id","Episode_title","Title","Show_type","Release_year","Season_number","Episode_number","Expiry_date","is_valid","modified_at","created_at","API_expiry_response","Result","Current_date"]
+        self.csv_fieldnames = ["service_name","Url","source_id","series_id","Episode_title","Title","Show_type","Release_year","Season_number","Episode_number","Expiry_date","is_valid","modified_at","created_at","API_expiry_response","Result","Curent_date"]
 
     # Connection
     def mongo_connection(self):
@@ -42,7 +42,7 @@ class deadsystem_content_validation:
     #db query
     def query(self): 
         try:
-            self.query_result=self.sourcetable.find({"item_type":{"$in":["movie","episode"]},"modified_at":{"$regex":self.current_date,'$options' : 'i'}})   
+            self.query_result=self.sourcetable.find({"item_type":{"$in":["movie","episode"]},"dump_date":{"$nin":[self.current_date]}})   
             return self.query_result
         except pymongo.errors.OperationFailure as error:
             raise error
@@ -59,7 +59,7 @@ class deadsystem_content_validation:
         elif self.service_name == "disneyplus":
             self.service_name = "disney_plus" 
         elif self.service_name == "appletv":
-            self.service_name = "apple_tv_plus"       
+            self.service_name = "apple_tv_plus"
         self.url = data["url"]
         self.item_type = data["item_type"]
         self.source_id = data["id"]
@@ -79,9 +79,9 @@ class deadsystem_content_validation:
         self.get_env_url()
         self.mongo_connection()
         self.table = BeautifulTable()
-        self.table.column_headers = ["Test Name","Total test", "Test Pass", "Test Fail", "Code Exception/error"]
+        self.table.column_headers = ["Test name","Total test", "Test Pass", "Test Fail", "Code Exception/error"]
         self.logger = lib_common_modules().create_log(os.getcwd()+"/log/log.txt")
-        result_sheet = '/output/Deadcontent_validation%s.csv'%(datetime.date.today())
+        result_sheet = '/output/Unexpiry_validation%s.csv'%(datetime.date.today())
         output_file = lib_common_modules().create_csv(result_sheet)
         with output_file as mycsvfile:
             self.writer = csv.writer(mycsvfile,dialect="csv",lineterminator = '\n')
@@ -96,11 +96,11 @@ class deadsystem_content_validation:
                         self.get_data_from_db(data)
                         self.expiry_check = lib_common_modules().link_expiry_check(self.expired_api,self.domain,self.source_id,self.service_name,self.expired_token,self.logger)
                         if self.expiry_check == 'True':
-                            self.result = "Pass"
-                            self.pass_count += 1
-                        else:
                             self.result = "Fail"
                             self.fail_count += 1
+                        else:
+                            self.result = "Pass"
+                            self.pass_count += 1
                         self.logger.debug("\n")    
                         self.logger.debug([{"pass":self.pass_count},{"fail":self.fail_count},{"total":self.total_count}]) 
                         self.writer.writerow([self.service_name,self.url,self.source_id,self.series_id,self.episode_title,self.title,self.item_type,self.release_year,self.season_number,self.episode_number,self.expiry_date,self.is_valid,self.modified_at,self.created_at,self.expiry_check,self.result,self.current_date]) 
@@ -114,7 +114,7 @@ class deadsystem_content_validation:
                     self.logger.debug([{"error":error},{"data":data},thread_name]) 
                     pass 
             self.logger.debug("\n")
-            self.table.append_row(["Checking Expired Content",self.total_count, self.pass_count, self.fail_count ,self.code_exception])
+            self.table.append_row(["Checking Unexpired Content",self.total_count, self.pass_count, self.fail_count ,self.code_exception])
             self.logger.debug(self.table)                   
         self.connection.close()           
         output_file.close()
@@ -127,5 +127,5 @@ class deadsystem_content_validation:
 
 #Starting    
 if __name__=="__main__":
-    deadsystem_content_validation().process()
+    unexpiry_content_validation().process()
 
